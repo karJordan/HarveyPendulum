@@ -8,11 +8,20 @@
 void initFuzzyRules(fuzzy_system_rec *fl) {
 	
    const int
-      no_of_x_rules = 25,
+      no_of_x_rules = 25,  
       no_of_theta_rules = 25;
    
    int i;
 	
+//----------------------------------------------------------------------------
+//Every Yamakawa rule uses the combined inputs X and Y
+for (i = 0;i < no_of_theta_rules;i++) {
+       fl->rules[i].inp_index[0] = INPUT_X;
+       fl->rules[i].inp_index[1] = INPUT_Y;
+   }
+
+
+/* 
 //---------------------------------------------------------------------------- 	
 //THETA vs. THETA_DOT	
 //   
@@ -21,7 +30,7 @@ void initFuzzyRules(fuzzy_system_rec *fl) {
        fl->rules[i].inp_index[1] = in_theta_dot;
    }
       
-   /* Regions for theta and theta_dot: */
+   // Regions for theta and theta_dot:
    //sample only
    // fl->rules[0].inp_fuzzy_set[0] = in_nl;
    // fl->rules[0].inp_fuzzy_set[1] = in_nl;
@@ -36,7 +45,7 @@ void initFuzzyRules(fuzzy_system_rec *fl) {
    	  fl->rules[i + no_of_theta_rules].inp_index[1] = in_x_dot;
 	}
 	  
-	/* Regions for x and x_dot: */
+	//Regions for x and x_dot: 
    //sample only
    // fl->rules[25+0].inp_fuzzy_set[0] = in_nl;
    // fl->rules[25+0].inp_fuzzy_set[1] = in_nl;
@@ -44,6 +53,8 @@ void initFuzzyRules(fuzzy_system_rec *fl) {
    //and so on, and so forth...
 
    // fl->rules[25+24].out_fuzzy_set = out_nl;
+*/
+
       return;
 }
 
@@ -76,7 +87,7 @@ void initFuzzySystem (fuzzy_system_rec *fl) {
 
    //Note: The settings of these parameters will depend upon your fuzzy system design
    fl->no_of_inputs = 2;  /* Inputs are handled 2 at a time only */
-   fl->no_of_rules = 50;
+   fl->no_of_rules = 13; //13 rules based on Yamakawa
    fl->no_of_inp_regions = 5;
    fl->no_of_outputs = 9;
 	
@@ -84,6 +95,8 @@ void initFuzzySystem (fuzzy_system_rec *fl) {
    coefficient_B=1.0;
    coefficient_C=1.0;
    coefficient_D=1.0;
+
+   //output values will go here
 	
 	//Sample only
 	// fl->output_values [out_nvl]=-95.0;
