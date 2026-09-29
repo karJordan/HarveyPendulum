@@ -15,7 +15,7 @@ void initFuzzyRules(fuzzy_system_rec *fl) {
 	
 //----------------------------------------------------------------------------
 //Every Yamakawa rule uses the combined inputs X and Y
-for (i = 0;i < no_of_theta_rules;i++) {
+for (i = 0;i < fl->no_of_rules;i++) {
        fl->rules[i].inp_index[0] = INPUT_X;
        fl->rules[i].inp_index[1] = INPUT_Y;
    }
