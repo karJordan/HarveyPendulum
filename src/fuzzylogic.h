@@ -31,7 +31,7 @@ enum {INPUT_X, INPUT_Y};
 enum {in_theta,in_theta_dot,in_x,in_x_dot};
 
 //Fuzzy sets
-enum {in_nl,in_ns,in_ze,in_ps, in_pl};
+enum {in_nm, in_ns, in_ze, in_ps, in_pm};
 
 //Fuzzy output terms
 enum {out_nvl,out_nl,out_nm, out_ns, out_ze,out_ps, out_pm,out_pl, out_pvl};
