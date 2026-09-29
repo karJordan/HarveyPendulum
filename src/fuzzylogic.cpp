@@ -8,9 +8,12 @@
 void initFuzzyRules(fuzzy_system_rec *fl)
 {
 
+   /*
    const int
        no_of_x_rules = 25,
        no_of_theta_rules = 25;
+   */
+   
 
    int i;
 
@@ -132,6 +135,57 @@ void initFuzzyRules(fuzzy_system_rec *fl)
 void initMembershipFunctions(fuzzy_system_rec *fl)
 {
 
+    // ---------------------------------------------------------
+    // Membership functions for combined input X
+    // ---------------------------------------------------------
+
+    // Negatively Medium
+    fl->inp_mem_fns[INPUT_X][in_nm] =
+        init_trapz(-4.0, -2.0, 0.0, 0.0, left_trapezoid);
+
+    // Negatively Small
+    fl->inp_mem_fns[INPUT_X][in_ns] =
+        init_trapz(-4.0, -2.0, -2.0, 0.0, regular_trapezoid);
+
+    // Zero
+    fl->inp_mem_fns[INPUT_X][in_ze] =
+        init_trapz(-2.0, 0.0, 0.0, 2.0, regular_trapezoid);
+
+    // Positively Small
+    fl->inp_mem_fns[INPUT_X][in_ps] =
+        init_trapz(0.0, 2.0, 2.0, 4.0, regular_trapezoid);
+
+    // Positively Medium
+    fl->inp_mem_fns[INPUT_X][in_pm] =
+        init_trapz(2.0, 4.0, 0.0, 0.0, right_trapezoid);
+
+
+    // ---------------------------------------------------------
+    // Membership functions for combined input Y
+    // ---------------------------------------------------------
+
+    // Negatively Medium
+    fl->inp_mem_fns[INPUT_Y][in_nm] =
+        init_trapz(-4.0, -2.0, 0.0, 0.0, left_trapezoid);
+
+    // Negatively Small
+    fl->inp_mem_fns[INPUT_Y][in_ns] =
+        init_trapz(-4.0, -2.0, -2.0, 0.0, regular_trapezoid);
+
+    // Zero
+    fl->inp_mem_fns[INPUT_Y][in_ze] =
+        init_trapz(-2.0, 0.0, 0.0, 2.0, regular_trapezoid);
+
+    // Positively Small
+    fl->inp_mem_fns[INPUT_Y][in_ps] =
+        init_trapz(0.0, 2.0, 2.0, 4.0, regular_trapezoid);
+
+    // Positively Medium
+    fl->inp_mem_fns[INPUT_Y][in_pm] =
+        init_trapz(2.0, 4.0, 0.0, 0.0, right_trapezoid);
+
+    return;
+
    /* The X membership functions */
 
    // Sample routines only, to give you an idea of what to do here
@@ -148,7 +202,7 @@ void initMembershipFunctions(fuzzy_system_rec *fl)
    /* The theta dot membership functions */
    // enter the appropriate membership function initialisations here
 
-   return;
+
 }
 
 void initFuzzySystem(fuzzy_system_rec *fl)
