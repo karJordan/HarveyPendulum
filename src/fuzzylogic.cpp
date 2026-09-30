@@ -95,40 +95,6 @@ void initFuzzyRules(fuzzy_system_rec *fl)
    fl->rules[12].inp_fuzzy_set[1] = in_nm;
    fl->rules[12].out_fuzzy_set = out_ps;
 
-   /*
-   //----------------------------------------------------------------------------
-   //THETA vs. THETA_DOT
-   //
-      for (i = 0;i < no_of_theta_rules;i++) {
-          fl->rules[i].inp_index[0] = in_theta;
-          fl->rules[i].inp_index[1] = in_theta_dot;
-      }
-
-      // Regions for theta and theta_dot:
-      //sample only
-      // fl->rules[0].inp_fuzzy_set[0] = in_nl;
-      // fl->rules[0].inp_fuzzy_set[1] = in_nl;
-
-
-
-   //----------------------------------------------------------------------------
-   //X vs. X_DOT
-   //
-      for (i = 0;i < no_of_x_rules;i++) {
-           fl->rules[i + no_of_theta_rules].inp_index[0] = in_x;
-           fl->rules[i + no_of_theta_rules].inp_index[1] = in_x_dot;
-      }
-
-      //Regions for x and x_dot:
-      //sample only
-      // fl->rules[25+0].inp_fuzzy_set[0] = in_nl;
-      // fl->rules[25+0].inp_fuzzy_set[1] = in_nl;
-
-      //and so on, and so forth...
-
-      // fl->rules[25+24].out_fuzzy_set = out_nl;
-   */
-
    return;
 }
 
@@ -185,24 +151,6 @@ void initMembershipFunctions(fuzzy_system_rec *fl)
         init_trapz(2.0, 4.0, 0.0, 0.0, right_trapezoid);
 
     return;
-
-   /* The X membership functions */
-
-   // Sample routines only, to give you an idea of what to do here
-   //~ fl->inp_mem_fns[in_x][in_neg] = init_trapz (-1.5,-0.5,0,0,left_trapezoid);
-   //~ fl->inp_mem_fns[in_x][in_ze] = init_trapz (-1.5,-0.5,0.5,1.5,regular_trapezoid);
-   //~ fl->inp_mem_fns[in_x][in_pos] = init_trapz (0.5,1.5,0,0,right_trapezoid);
-
-   /* The X dot membership functions */
-   // enter the appropriate membership function initialisations here
-
-   /* The theta membership functions */
-   // enter the appropriate membership function initialisations here
-
-   /* The theta dot membership functions */
-   // enter the appropriate membership function initialisations here
-
-
 }
 
 void initFuzzySystem(fuzzy_system_rec *fl)
@@ -220,6 +168,16 @@ void initFuzzySystem(fuzzy_system_rec *fl)
    coefficient_D = 1.0;
 
    // output values will go here
+   // Zero-order Sugeno output constants
+    fl->output_values[out_nvl] = -150.0;
+    fl->output_values[out_nl]  = -100.0;
+    fl->output_values[out_nm]  = -50.0;
+    fl->output_values[out_ns]  = -25.0;
+    fl->output_values[out_ze]  = 0.0;
+    fl->output_values[out_ps]  = 25.0;
+    fl->output_values[out_pm]  = 50.0;
+    fl->output_values[out_pl]  = 100.0;
+    fl->output_values[out_pvl] = 150.0;
 
    // Sample only
    //  fl->output_values [out_nvl]=-95.0;
