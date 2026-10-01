@@ -1,0 +1,5889 @@
+DataSet cleared.
+Enter initial angle [-60, 60], (to exit, leave it blank): Rule 4 weight=0.0436111 output=50
+Rule 6 weight=0.25 output=0
+F = 7.42668
+X=0.0872222 Y=1.5 F=7.42668 angle=0.0872222 x=1
+prevState.angle = 0.0872222
+prevState.angle_dot = 0
+prevState.angle_double_dot = 0
+prevState.x = 1
+prevState.x_dot = 0
+prevState.x_double_dot = 0
+Rule 4 weight=0.0371308 output=50
+Rule 6 weight=0.248292 output=0
+F = 6.50453
+X=0.0742616 Y=1.50342 F=6.50453 angle=0.0871706 x=1.00003
+prevState.angle = 0.0871706
+prevState.angle_dot = -0.0258179
+prevState.angle_double_dot = -12.909
+prevState.x = 1.00003
+prevState.x_dot = 0.0135031
+prevState.x_double_dot = 6.75153
+Rule 4 weight=0.0315457 output=50
+Rule 6 weight=0.243818 output=0
+F = 5.72801
+X=0.0630914 Y=1.51236 F=5.72801 angle=0.0870747 x=1.00012
+prevState.angle = 0.0870747
+prevState.angle_dot = -0.0479665
+prevState.angle_double_dot = -11.0743
+prevState.x = 1.00012
+prevState.x_dot = 0.0487112
+prevState.x_double_dot = 17.6041
+Rule 4 weight=0.0267134 output=50
+Rule 6 weight=0.23989 output=0
+F = 5.00996
+X=0.0534269 Y=1.52022 F=5.00996 angle=0.0869406 x=1.00028
+prevState.angle = 0.0869406
+prevState.angle_dot = -0.0670274
+prevState.angle_double_dot = -9.53048
+prevState.x = 1.00028
+prevState.x_dot = 0.0791845
+prevState.x_double_dot = 15.2367
+Rule 4 weight=0.0225782 output=50
+Rule 6 weight=0.236435 output=0
+F = 4.35851
+X=0.0451565 Y=1.52713 F=4.35851 angle=0.0867741 x=1.00049
+prevState.angle = 0.0867741
+prevState.angle_dot = -0.0832353
+prevState.angle_double_dot = -8.10393
+prevState.x = 1.00049
+prevState.x_dot = 0.105556
+prevState.x_double_dot = 13.1859
+Rule 4 weight=0.0190761 output=50
+Rule 6 weight=0.233417 output=0
+F = 3.77754
+X=0.0381521 Y=1.53317 F=3.77754 angle=0.0865804 x=1.00075
+prevState.angle = 0.0865804
+prevState.angle_dot = -0.0968566
+prevState.angle_double_dot = -6.81066
+prevState.x = 1.00075
+prevState.x_dot = 0.12816
+prevState.x_double_dot = 11.3018
+Rule 4 weight=0.0161387 output=50
+Rule 6 weight=0.230796 output=0
+F = 3.26782
+X=0.0322775 Y=1.53841 F=3.26782 angle=0.0863641 x=1.00104
+prevState.angle = 0.0863641
+prevState.angle_dot = -0.108173
+prevState.angle_double_dot = -5.65828
+prevState.x = 1.00104
+prevState.x_dot = 0.147365
+prevState.x_double_dot = 9.60248
+Rule 4 weight=0.0136972 output=50
+Rule 6 weight=0.228526 output=0
+F = 2.82738
+X=0.0273943 Y=1.54295 F=2.82738 angle=0.0861291 x=1.00137
+prevState.angle = 0.0861291
+prevState.angle_dot = -0.11747
+prevState.angle_double_dot = -4.64822
+prevState.x = 1.00137
+prevState.x_dot = 0.163556
+prevState.x_double_dot = 8.09551
+Rule 4 weight=0.0116839 output=50
+Rule 6 weight=0.226566 output=0
+F = 2.45203
+X=0.0233678 Y=1.54687 F=2.45203 angle=0.0858791 x=1.00173
+prevState.angle = 0.0858791
+prevState.angle_dot = -0.125023
+prevState.angle_double_dot = -3.77647
+prevState.x = 1.00173
+prevState.x_dot = 0.177117
+prevState.x_double_dot = 6.78039
+Rule 4 weight=0.0100355 output=50
+Rule 6 weight=0.224871 output=0
+F = 2.13607
+X=0.020071 Y=1.55026 F=2.13607 angle=0.0856169 x=1.0021
+prevState.angle = 0.0856169
+prevState.angle_dot = -0.131092
+prevState.angle_double_dot = -3.03461
+prevState.x = 1.0021
+prevState.x_dot = 0.188416
+prevState.x_double_dot = 5.64968
+Rule 6 weight=0.223401 output=0
+F = 1.87293
+X=0.017388 Y=1.5532 F=1.87293 angle=0.0853451 x=1.0025
+prevState.angle = 0.0853451
+prevState.angle_dot = -0.135914
+prevState.angle_double_dot = -2.41122
+prevState.x = 1.0025
+prevState.x_dot = 0.197797
+prevState.x_double_dot = 4.69058
+Rule 6 weight=0.222121 output=0
+F = 1.65579
+X=0.0152153 Y=1.55576 F=1.65579 angle=0.0850657 x=1.00291
+prevState.angle = 0.0850657
+prevState.angle_dot = -0.139701
+prevState.angle_double_dot = -1.89321
+prevState.x = 1.00291
+prevState.x_dot = 0.205571
+prevState.x_double_dot = 3.88678
+Rule 6 weight=0.220998 output=0
+F = 1.47798
+X=0.0134632 Y=1.558 F=1.47798 angle=0.0847804 x=1.00333
+prevState.angle = 0.0847804
+prevState.angle_dot = -0.142634
+prevState.angle_double_dot = -1.46691
+prevState.x = 1.00333
+prevState.x_dot = 0.212011
+prevState.x_double_dot = 3.22021
+Rule 6 weight=0.220004 output=0
+F = 1.33327
+X=0.0120544 Y=1.55999 F=1.33327 angle=0.0844906 x=1.00377
+prevState.angle = 0.0844906
+prevState.angle_dot = -0.144873
+prevState.angle_double_dot = -1.11903
+prevState.x = 1.00377
+prevState.x_dot = 0.217356
+prevState.x_double_dot = 2.67246
+Rule 6 weight=0.219115 output=0
+F = 1.21608
+X=0.0109242 Y=1.56177 F=1.21608 angle=0.0841976 x=1.00421
+prevState.angle = 0.0841976
+prevState.angle_dot = -0.146547
+prevState.angle_double_dot = -0.837149
+prevState.x = 1.00421
+prevState.x_dot = 0.221808
+prevState.x_double_dot = 2.22581
+Rule 6 weight=0.218311 output=0
+F = 1.12154
+X=0.0100185 Y=1.56338 F=1.12154 angle=0.083902 x=1.00466
+prevState.angle = 0.083902
+prevState.angle_dot = -0.147767
+prevState.angle_double_dot = -0.610139
+prevState.x = 1.00466
+prevState.x_dot = 0.225536
+prevState.x_double_dot = 1.86396
+Rule 6 weight=0.217574 output=0
+F = 1.04546
+X=0.00929297 Y=1.56485 F=1.04546 angle=0.0836048 x=1.00512
+prevState.angle = 0.0836048
+prevState.angle_dot = -0.148624
+prevState.angle_double_dot = -0.428264
+prevState.x = 1.00512
+prevState.x_dot = 0.22868
+prevState.x_double_dot = 1.57238
+Rule 6 weight=0.216893 output=0
+F = 0.984346
+X=0.0087114 Y=1.56621 F=0.984346 angle=0.0833064 x=1.00558
+prevState.angle = 0.0833064
+prevState.angle_dot = -0.14919
+prevState.angle_double_dot = -0.283193
+prevState.x = 1.00558
+prevState.x_dot = 0.231357
+prevState.x_double_dot = 1.33848
+Rule 6 weight=0.216254 output=0
+F = 0.935265
+X=0.00824443 Y=1.56749 F=0.935265 angle=0.0830073 x=1.00605
+prevState.angle = 0.0830073
+prevState.angle_dot = -0.149526
+prevState.angle_double_dot = -0.167923
+prevState.x = 1.00605
+prevState.x_dot = 0.23366
+prevState.x_double_dot = 1.1515
+Rule 6 weight=0.21565 output=0
+F = 0.895832
+X=0.00786843 Y=1.5687 F=0.895832 angle=0.082708 x=1.00652
+prevState.angle = 0.082708
+prevState.angle_dot = -0.149679
+prevState.angle_double_dot = -0.0766383
+prevState.x = 1.00652
+prevState.x_dot = 0.235665
+prevState.x_double_dot = 1.00246
+Rule 6 weight=0.215073 output=0
+F = 0.864096
+X=0.00756449 Y=1.56985 F=0.864096 angle=0.0824086 x=1.007
+prevState.angle = 0.0824086
+prevState.angle_dot = -0.149688
+prevState.angle_double_dot = -0.00456832
+prevState.x = 1.007
+prevState.x_dot = 0.237433
+prevState.x_double_dot = 0.88391
+Rule 6 weight=0.214517 output=0
+F = 0.838485
+X=0.00731749 Y=1.57097 F=0.838485 angle=0.0821094 x=1.00747
+prevState.angle = 0.0821094
+prevState.angle_dot = -0.149584
+prevState.angle_double_dot = 0.0521732
+prevState.x = 1.00747
+prevState.x_dot = 0.239013
+prevState.x_double_dot = 0.789765
+Rule 6 weight=0.213978 output=0
+F = 0.817732
+X=0.00711543 Y=1.57204 F=0.817732 angle=0.0818107 x=1.00796
+prevState.angle = 0.0818107
+prevState.angle_dot = -0.14939
+prevState.angle_double_dot = 0.0967233
+prevState.x = 1.00796
+prevState.x_dot = 0.240443
+prevState.x_double_dot = 0.715072
+Rule 6 weight=0.213451 output=0
+F = 0.800826
+X=0.00694878 Y=1.5731 F=0.800826 angle=0.0815124 x=1.00844
+prevState.angle = 0.0815124
+prevState.angle_dot = -0.149127
+prevState.angle_double_dot = 0.131607
+prevState.x = 1.00844
+prevState.x_dot = 0.241754
+prevState.x_double_dot = 0.655839
+Rule 6 weight=0.212935 output=0
+F = 0.786957
+X=0.00681 Y=1.57413 F=0.786957 angle=0.0812148 x=1.00893
+prevState.angle = 0.0812148
+prevState.angle_dot = -0.14881
+prevState.angle_double_dot = 0.158843
+prevState.x = 1.00893
+prevState.x_dot = 0.242972
+prevState.x_double_dot = 0.60886
+Rule 6 weight=0.212425 output=0
+F = 0.775488
+X=0.00669315 Y=1.57515 F=0.775488 angle=0.0809179 x=1.00941
+prevState.angle = 0.0809179
+prevState.angle_dot = -0.148449
+prevState.angle_double_dot = 0.180042
+prevState.x = 1.00941
+prevState.x_dot = 0.244115
+prevState.x_double_dot = 0.571571
+Rule 6 weight=0.211922 output=0
+F = 0.765907
+X=0.00659351 Y=1.57616 F=0.765907 angle=0.0806218 x=1.0099
+prevState.angle = 0.0806218
+prevState.angle_dot = -0.148057
+prevState.angle_double_dot = 0.196479
+prevState.x = 1.0099
+prevState.x_dot = 0.245199
+prevState.x_double_dot = 0.541931
+Rule 6 weight=0.211423 output=0
+F = 0.757814
+X=0.00650741 Y=1.57715 F=0.757814 angle=0.0803265 x=1.0104
+prevState.angle = 0.0803265
+prevState.angle_dot = -0.147638
+prevState.angle_double_dot = 0.209172
+prevState.x = 1.0104
+prevState.x_dot = 0.246236
+prevState.x_double_dot = 0.518323
+Rule 6 weight=0.210928 output=0
+F = 0.75089
+X=0.00643193 Y=1.57814 F=0.75089 angle=0.0800321 x=1.01089
+prevState.angle = 0.0800321
+prevState.angle_dot = -0.1472
+prevState.angle_double_dot = 0.218921
+prevState.x = 1.01089
+prevState.x_dot = 0.247235
+prevState.x_double_dot = 0.499458
+Rule 6 weight=0.210434 output=0
+F = 0.744886
+X=0.0063648 Y=1.57913 F=0.744886 angle=0.0797386 x=1.01139
+prevState.angle = 0.0797386
+prevState.angle_dot = -0.146748
+prevState.angle_double_dot = 0.22636
+prevState.x = 1.01139
+prevState.x_dot = 0.248203
+prevState.x_double_dot = 0.484324
+Rule 6 weight=0.209942 output=0
+F = 0.739604
+X=0.00630422 Y=1.58012 F=0.739604 angle=0.079446 x=1.01189
+prevState.angle = 0.079446
+prevState.angle_dot = -0.146284
+prevState.angle_double_dot = 0.231987
+prevState.x = 1.01189
+prevState.x_dot = 0.249148
+prevState.x_double_dot = 0.472119
+Rule 6 weight=0.209452 output=0
+F = 0.734889
+X=0.00624879 Y=1.5811 F=0.734889 angle=0.0791544 x=1.01239
+prevState.angle = 0.0791544
+prevState.angle_dot = -0.145811
+prevState.angle_double_dot = 0.236196
+prevState.x = 1.01239
+prevState.x_dot = 0.250072
+prevState.x_double_dot = 0.462212
+Rule 6 weight=0.208962 output=0
+F = 0.730621
+X=0.00619743 Y=1.58208 F=0.730621 angle=0.0788637 x=1.01289
+prevState.angle = 0.0788637
+prevState.angle_dot = -0.145333
+prevState.angle_double_dot = 0.239294
+prevState.x = 1.01289
+prevState.x_dot = 0.25098
+prevState.x_double_dot = 0.454106
+Rule 6 weight=0.208472 output=0
+F = 0.726702
+X=0.00614925 Y=1.58306 F=0.726702 angle=0.078574 x=1.01339
+prevState.angle = 0.078574
+prevState.angle_dot = -0.14485
+prevState.angle_double_dot = 0.241524
+prevState.x = 1.01339
+prevState.x_dot = 0.251875
+prevState.x_double_dot = 0.447412
+Rule 6 weight=0.207982 output=0
+F = 0.72306
+X=0.00610361 Y=1.58404 F=0.72306 angle=0.0782853 x=1.0139
+prevState.angle = 0.0782853
+prevState.angle_dot = -0.144363
+prevState.angle_double_dot = 0.24308
+prevState.x = 1.0139
+prevState.x_dot = 0.252759
+prevState.x_double_dot = 0.441823
+Rule 6 weight=0.207493 output=0
+F = 0.719634
+X=0.00605997 Y=1.58501 F=0.719634 angle=0.0779976 x=1.0144
+prevState.angle = 0.0779976
+prevState.angle_dot = -0.143875
+prevState.angle_double_dot = 0.244106
+prevState.x = 1.0144
+prevState.x_dot = 0.253633
+prevState.x_double_dot = 0.437096
+Rule 6 weight=0.207003 output=0
+F = 0.716379
+X=0.00601792 Y=1.58599 F=0.716379 angle=0.0777108 x=1.01491
+prevState.angle = 0.0777108
+prevState.angle_dot = -0.143386
+prevState.angle_double_dot = 0.244722
+prevState.x = 1.01491
+prevState.x_dot = 0.254499
+prevState.x_double_dot = 0.433046
+Rule 6 weight=0.206512 output=0
+F = 0.713261
+X=0.00597715 Y=1.58698 F=0.713261 angle=0.077425 x=1.01542
+prevState.angle = 0.077425
+prevState.angle_dot = -0.142896
+prevState.angle_double_dot = 0.245018
+prevState.x = 1.01542
+prevState.x_dot = 0.255358
+prevState.x_double_dot = 0.429523
+Rule 6 weight=0.206021 output=0
+F = 0.710249
+X=0.0059374 Y=1.58796 F=0.710249 angle=0.0771402 x=1.01594
+prevState.angle = 0.0771402
+prevState.angle_dot = -0.142406
+prevState.angle_double_dot = 0.245064
+prevState.x = 1.01594
+prevState.x_dot = 0.256211
+prevState.x_double_dot = 0.426414
+Rule 6 weight=0.20553 output=0
+F = 0.707323
+X=0.00589848 Y=1.58894 F=0.707323 angle=0.0768564 x=1.01645
+prevState.angle = 0.0768564
+prevState.angle_dot = -0.141916
+prevState.angle_double_dot = 0.244918
+prevState.x = 1.01645
+prevState.x_dot = 0.257058
+prevState.x_double_dot = 0.423629
+Rule 6 weight=0.205038 output=0
+F = 0.704467
+X=0.00586025 Y=1.58992 F=0.704467 angle=0.0765735 x=1.01697
+prevState.angle = 0.0765735
+prevState.angle_dot = -0.141427
+prevState.angle_double_dot = 0.244623
+prevState.x = 1.01697
+prevState.x_dot = 0.2579
+prevState.x_double_dot = 0.421096
+Rule 6 weight=0.204545 output=0
+F = 0.701666
+X=0.00582259 Y=1.59091 F=0.701666 angle=0.0762916 x=1.01748
+prevState.angle = 0.0762916
+prevState.angle_dot = -0.140938
+prevState.angle_double_dot = 0.244212
+prevState.x = 1.01748
+prevState.x_dot = 0.258738
+prevState.x_double_dot = 0.418761
+Rule 6 weight=0.204051 output=0
+F = 0.698909
+X=0.0057854 Y=1.5919 F=0.698909 angle=0.0760107 x=1.018
+prevState.angle = 0.0760107
+prevState.angle_dot = -0.140451
+prevState.angle_double_dot = 0.243711
+prevState.x = 1.018
+prevState.x_dot = 0.259571
+prevState.x_double_dot = 0.416582
+Rule 6 weight=0.203557 output=0
+F = 0.69619
+X=0.00574861 Y=1.59289 F=0.69619 angle=0.0757308 x=1.01852
+prevState.angle = 0.0757308
+prevState.angle_dot = -0.139964
+prevState.angle_double_dot = 0.243143
+prevState.x = 1.01852
+prevState.x_dot = 0.2604
+prevState.x_double_dot = 0.414524
+Rule 6 weight=0.203062 output=0
+F = 0.693502
+X=0.00571218 Y=1.59388 F=0.693502 angle=0.0754518 x=1.01905
+prevState.angle = 0.0754518
+prevState.angle_dot = -0.139479
+prevState.angle_double_dot = 0.242521
+prevState.x = 1.01905
+prevState.x_dot = 0.261225
+prevState.x_double_dot = 0.412562
+Rule 6 weight=0.202566 output=0
+F = 0.690839
+X=0.00567605 Y=1.59487 F=0.690839 angle=0.0751739 x=1.01957
+prevState.angle = 0.0751739
+prevState.angle_dot = -0.138996
+prevState.angle_double_dot = 0.241858
+prevState.x = 1.01957
+prevState.x_dot = 0.262047
+prevState.x_double_dot = 0.410676
+Rule 6 weight=0.20207 output=0
+F = 0.688198
+X=0.00564019 Y=1.59586 F=0.688198 angle=0.0748968 x=1.0201
+prevState.angle = 0.0748968
+prevState.angle_dot = -0.138513
+prevState.angle_double_dot = 0.241166
+prevState.x = 1.0201
+prevState.x_dot = 0.262864
+prevState.x_double_dot = 0.408851
+Rule 6 weight=0.201573 output=0
+F = 0.685576
+X=0.00560458 Y=1.59685 F=0.685576 angle=0.0746208 x=1.02062
+prevState.angle = 0.0746208
+prevState.angle_dot = -0.138032
+prevState.angle_double_dot = 0.240452
+prevState.x = 1.02062
+prevState.x_dot = 0.263678
+prevState.x_double_dot = 0.407073
+Rule 6 weight=0.201074 output=0
+F = 0.682971
+X=0.0055692 Y=1.59785 F=0.682971 angle=0.0743457 x=1.02115
+prevState.angle = 0.0743457
+prevState.angle_dot = -0.137553
+prevState.angle_double_dot = 0.239719
+prevState.x = 1.02115
+prevState.x_dot = 0.264489
+prevState.x_double_dot = 0.405332
+Rule 6 weight=0.200576 output=0
+F = 0.680381
+X=0.00553402 Y=1.59885 F=0.680381 angle=0.0740715 x=1.02168
+prevState.angle = 0.0740715
+prevState.angle_dot = -0.137075
+prevState.angle_double_dot = 0.238975
+prevState.x = 1.02168
+prevState.x_dot = 0.265296
+prevState.x_double_dot = 0.403622
+Rule 6 weight=0.200076 output=0
+F = 0.677804
+X=0.00549904 Y=1.59985 F=0.677804 angle=0.0737983 x=1.02222
+prevState.angle = 0.0737983
+prevState.angle_dot = -0.136599
+prevState.angle_double_dot = 0.238221
+prevState.x = 1.02222
+prevState.x_dot = 0.2661
+prevState.x_double_dot = 0.401938
+Rule 6 weight=0.199576 output=0
+F = 0.675241
+X=0.00546426 Y=1.60085 F=0.675241 angle=0.0735261 x=1.02275
+prevState.angle = 0.0735261
+prevState.angle_dot = -0.136124
+prevState.angle_double_dot = 0.237463
+prevState.x = 1.02275
+prevState.x_dot = 0.266901
+prevState.x_double_dot = 0.400273
+Rule 6 weight=0.199074 output=0
+F = 0.67269
+X=0.00542966 Y=1.60185 F=0.67269 angle=0.0732548 x=1.02328
+prevState.angle = 0.0732548
+prevState.angle_dot = -0.13565
+prevState.angle_double_dot = 0.236696
+prevState.x = 1.02328
+prevState.x_dot = 0.267698
+prevState.x_double_dot = 0.398626
+Rule 6 weight=0.198572 output=0
+F = 0.670149
+X=0.00539523 Y=1.60286 F=0.670149 angle=0.0729844 x=1.02382
+prevState.angle = 0.0729844
+prevState.angle_dot = -0.135178
+prevState.angle_double_dot = 0.235929
+prevState.x = 1.02382
+prevState.x_dot = 0.268492
+prevState.x_double_dot = 0.396996
+Rule 6 weight=0.19807 output=0
+F = 0.667619
+X=0.00536098 Y=1.60386 F=0.667619 angle=0.072715 x=1.02436
+prevState.angle = 0.072715
+prevState.angle_dot = -0.134708
+prevState.angle_double_dot = 0.23516
+prevState.x = 1.02436
+prevState.x_dot = 0.269283
+prevState.x_double_dot = 0.395377
+Rule 6 weight=0.197566 output=0
+F = 0.665098
+X=0.00532689 Y=1.60487 F=0.665098 angle=0.0724465 x=1.0249
+prevState.angle = 0.0724465
+prevState.angle_dot = -0.134239
+prevState.angle_double_dot = 0.23439
+prevState.x = 1.0249
+prevState.x_dot = 0.27007
+prevState.x_double_dot = 0.393769
+Rule 6 weight=0.197062 output=0
+F = 0.662587
+X=0.00529297 Y=1.60588 F=0.662587 angle=0.072179 x=1.02544
+prevState.angle = 0.072179
+prevState.angle_dot = -0.133772
+prevState.angle_double_dot = 0.233622
+prevState.x = 1.02544
+prevState.x_dot = 0.270855
+prevState.x_double_dot = 0.392171
+Rule 6 weight=0.196557 output=0
+F = 0.660086
+X=0.00525921 Y=1.60689 F=0.660086 angle=0.0719124 x=1.02599
+prevState.angle = 0.0719124
+prevState.angle_dot = -0.133306
+prevState.angle_double_dot = 0.232853
+prevState.x = 1.02599
+prevState.x_dot = 0.271636
+prevState.x_double_dot = 0.39058
+Rule 6 weight=0.196051 output=0
+F = 0.657595
+X=0.00522561 Y=1.6079 F=0.657595 angle=0.0716467 x=1.02653
+prevState.angle = 0.0716467
+prevState.angle_dot = -0.132842
+prevState.angle_double_dot = 0.232086
+prevState.x = 1.02653
+prevState.x_dot = 0.272414
+prevState.x_double_dot = 0.388999
+Rule 6 weight=0.195544 output=0
+F = 0.655112
+X=0.00519217 Y=1.60891 F=0.655112 angle=0.0713819 x=1.02708
+prevState.angle = 0.0713819
+prevState.angle_dot = -0.132379
+prevState.angle_double_dot = 0.231321
+prevState.x = 1.02708
+prevState.x_dot = 0.273189
+prevState.x_double_dot = 0.387424
+Rule 6 weight=0.195037 output=0
+F = 0.652639
+X=0.00515889 Y=1.60993 F=0.652639 angle=0.0711181 x=1.02762
+prevState.angle = 0.0711181
+prevState.angle_dot = -0.131918
+prevState.angle_double_dot = 0.230557
+prevState.x = 1.02762
+prevState.x_dot = 0.27396
+prevState.x_double_dot = 0.385857
+Rule 6 weight=0.194529 output=0
+F = 0.650176
+X=0.00512577 Y=1.61094 F=0.650176 angle=0.0708552 x=1.02817
+prevState.angle = 0.0708552
+prevState.angle_dot = -0.131459
+prevState.angle_double_dot = 0.229795
+prevState.x = 1.02817
+prevState.x_dot = 0.274729
+prevState.x_double_dot = 0.384297
+Rule 6 weight=0.19402 output=0
+F = 0.647721
+X=0.0050928 Y=1.61196 F=0.647721 angle=0.0705932 x=1.02872
+prevState.angle = 0.0705932
+prevState.angle_dot = -0.131001
+prevState.angle_double_dot = 0.229034
+prevState.x = 1.02872
+prevState.x_dot = 0.275494
+prevState.x_double_dot = 0.382744
+Rule 6 weight=0.19351 output=0
+F = 0.645275
+X=0.00505999 Y=1.61298 F=0.645275 angle=0.0703321 x=1.02928
+prevState.angle = 0.0703321
+prevState.angle_dot = -0.130544
+prevState.angle_double_dot = 0.228275
+prevState.x = 1.02928
+prevState.x_dot = 0.276257
+prevState.x_double_dot = 0.381198
+Rule 6 weight=0.193 output=0
+F = 0.642837
+X=0.00502732 Y=1.614 F=0.642837 angle=0.0700719 x=1.02983
+prevState.angle = 0.0700719
+prevState.angle_dot = -0.130089
+prevState.angle_double_dot = 0.227519
+prevState.x = 1.02983
+prevState.x_dot = 0.277016
+prevState.x_double_dot = 0.379658
+Rule 6 weight=0.192488 output=0
+F = 0.640408
+X=0.00499482 Y=1.61502 F=0.640408 angle=0.0698126 x=1.03039
+prevState.angle = 0.0698126
+prevState.angle_dot = -0.129636
+prevState.angle_double_dot = 0.226766
+prevState.x = 1.03039
+prevState.x_dot = 0.277772
+prevState.x_double_dot = 0.378123
+Rule 6 weight=0.191977 output=0
+F = 0.637988
+X=0.00496247 Y=1.61605 F=0.637988 angle=0.0695542 x=1.03094
+prevState.angle = 0.0695542
+prevState.angle_dot = -0.129184
+prevState.angle_double_dot = 0.226015
+prevState.x = 1.03094
+prevState.x_dot = 0.278526
+prevState.x_double_dot = 0.376593
+Rule 6 weight=0.191464 output=0
+F = 0.635576
+X=0.00493027 Y=1.61707 F=0.635576 angle=0.0692968 x=1.0315
+prevState.angle = 0.0692968
+prevState.angle_dot = -0.128733
+prevState.angle_double_dot = 0.225266
+prevState.x = 1.0315
+prevState.x_dot = 0.279276
+prevState.x_double_dot = 0.37507
+Rule 6 weight=0.19095 output=0
+F = 0.633173
+X=0.00489821 Y=1.6181 F=0.633173 angle=0.0690402 x=1.03206
+prevState.angle = 0.0690402
+prevState.angle_dot = -0.128284
+prevState.angle_double_dot = 0.224519
+prevState.x = 1.03206
+prevState.x_dot = 0.280023
+prevState.x_double_dot = 0.373553
+Rule 6 weight=0.190436 output=0
+F = 0.630779
+X=0.00486632 Y=1.61913 F=0.630779 angle=0.0687845 x=1.03262
+prevState.angle = 0.0687845
+prevState.angle_dot = -0.127836
+prevState.angle_double_dot = 0.223777
+prevState.x = 1.03262
+prevState.x_dot = 0.280767
+prevState.x_double_dot = 0.372041
+Rule 6 weight=0.189921 output=0
+F = 0.628393
+X=0.00483457 Y=1.62016 F=0.628393 angle=0.0685298 x=1.03319
+prevState.angle = 0.0685298
+prevState.angle_dot = -0.12739
+prevState.angle_double_dot = 0.223034
+prevState.x = 1.03319
+prevState.x_dot = 0.281508
+prevState.x_double_dot = 0.370534
+Rule 6 weight=0.189406 output=0
+F = 0.626015
+X=0.00480297 Y=1.62119 F=0.626015 angle=0.0682759 x=1.03375
+prevState.angle = 0.0682759
+prevState.angle_dot = -0.126946
+prevState.angle_double_dot = 0.222295
+prevState.x = 1.03375
+prevState.x_dot = 0.282246
+prevState.x_double_dot = 0.369034
+Rule 6 weight=0.188889 output=0
+F = 0.623646
+X=0.00477152 Y=1.62222 F=0.623646 angle=0.0680229 x=1.03432
+prevState.angle = 0.0680229
+prevState.angle_dot = -0.126503
+prevState.angle_double_dot = 0.221558
+prevState.x = 1.03432
+prevState.x_dot = 0.282981
+prevState.x_double_dot = 0.367539
+Rule 6 weight=0.188372 output=0
+F = 0.621286
+X=0.00474022 Y=1.62326 F=0.621286 angle=0.0677707 x=1.03488
+prevState.angle = 0.0677707
+prevState.angle_dot = -0.126061
+prevState.angle_double_dot = 0.220824
+prevState.x = 1.03488
+prevState.x_dot = 0.283713
+prevState.x_double_dot = 0.36605
+Rule 6 weight=0.187855 output=0
+F = 0.618934
+X=0.00470907 Y=1.62429 F=0.618934 angle=0.0675195 x=1.03545
+prevState.angle = 0.0675195
+prevState.angle_dot = -0.125621
+prevState.angle_double_dot = 0.220091
+prevState.x = 1.03545
+prevState.x_dot = 0.284442
+prevState.x_double_dot = 0.364566
+Rule 6 weight=0.187336 output=0
+F = 0.61659
+X=0.00467807 Y=1.62533 F=0.61659 angle=0.0672691 x=1.03602
+prevState.angle = 0.0672691
+prevState.angle_dot = -0.125182
+prevState.angle_double_dot = 0.219362
+prevState.x = 1.03602
+prevState.x_dot = 0.285168
+prevState.x_double_dot = 0.363088
+Rule 6 weight=0.186817 output=0
+F = 0.614254
+X=0.00464721 Y=1.62637 F=0.614254 angle=0.0670196 x=1.0366
+prevState.angle = 0.0670196
+prevState.angle_dot = -0.124745
+prevState.angle_double_dot = 0.218634
+prevState.x = 1.0366
+prevState.x_dot = 0.285892
+prevState.x_double_dot = 0.361616
+Rule 6 weight=0.186297 output=0
+F = 0.611927
+X=0.00461651 Y=1.62741 F=0.611927 angle=0.066771 x=1.03717
+prevState.angle = 0.066771
+prevState.angle_dot = -0.124309
+prevState.angle_double_dot = 0.21791
+prevState.x = 1.03717
+prevState.x_dot = 0.286612
+prevState.x_double_dot = 0.360148
+Rule 6 weight=0.185776 output=0
+F = 0.609609
+X=0.00458595 Y=1.62845 F=0.609609 angle=0.0665233 x=1.03774
+prevState.angle = 0.0665233
+prevState.angle_dot = -0.123875
+prevState.angle_double_dot = 0.217187
+prevState.x = 1.03774
+prevState.x_dot = 0.287329
+prevState.x_double_dot = 0.358686
+Rule 6 weight=0.185255 output=0
+F = 0.607299
+X=0.00455553 Y=1.62949 F=0.607299 angle=0.0662764 x=1.03832
+prevState.angle = 0.0662764
+prevState.angle_dot = -0.123442
+prevState.angle_double_dot = 0.216465
+prevState.x = 1.03832
+prevState.x_dot = 0.288044
+prevState.x_double_dot = 0.357231
+Rule 6 weight=0.184733 output=0
+F = 0.604997
+X=0.00452526 Y=1.63053 F=0.604997 angle=0.0660304 x=1.0389
+prevState.angle = 0.0660304
+prevState.angle_dot = -0.12301
+prevState.angle_double_dot = 0.215747
+prevState.x = 1.0389
+prevState.x_dot = 0.288755
+prevState.x_double_dot = 0.355782
+Rule 6 weight=0.18421 output=0
+F = 0.602702
+X=0.00449513 Y=1.63158 F=0.602702 angle=0.0657852 x=1.03948
+prevState.angle = 0.0657852
+prevState.angle_dot = -0.12258
+prevState.angle_double_dot = 0.215031
+prevState.x = 1.03948
+prevState.x_dot = 0.289464
+prevState.x_double_dot = 0.354337
+Rule 6 weight=0.183686 output=0
+F = 0.600415
+X=0.00446514 Y=1.63263 F=0.600415 angle=0.0655409 x=1.04006
+prevState.angle = 0.0655409
+prevState.angle_dot = -0.122152
+prevState.angle_double_dot = 0.214319
+prevState.x = 1.04006
+prevState.x_dot = 0.29017
+prevState.x_double_dot = 0.352896
+Rule 6 weight=0.183162 output=0
+F = 0.598137
+X=0.0044353 Y=1.63368 F=0.598137 angle=0.0652975 x=1.04064
+prevState.angle = 0.0652975
+prevState.angle_dot = -0.121724
+prevState.angle_double_dot = 0.213609
+prevState.x = 1.04064
+prevState.x_dot = 0.290873
+prevState.x_double_dot = 0.351459
+Rule 6 weight=0.182637 output=0
+F = 0.595867
+X=0.00440561 Y=1.63473 F=0.595867 angle=0.0650549 x=1.04122
+prevState.angle = 0.0650549
+prevState.angle_dot = -0.121299
+prevState.angle_double_dot = 0.212901
+prevState.x = 1.04122
+prevState.x_dot = 0.291573
+prevState.x_double_dot = 0.350029
+Rule 6 weight=0.182112 output=0
+F = 0.593605
+X=0.00437605 Y=1.63578 F=0.593605 angle=0.0648131 x=1.04181
+prevState.angle = 0.0648131
+prevState.angle_dot = -0.120874
+prevState.angle_double_dot = 0.212196
+prevState.x = 1.04181
+prevState.x_dot = 0.29227
+prevState.x_double_dot = 0.348603
+Rule 6 weight=0.181586 output=0
+F = 0.591352
+X=0.00434665 Y=1.63683 F=0.591352 angle=0.0645722 x=1.04239
+prevState.angle = 0.0645722
+prevState.angle_dot = -0.120451
+prevState.angle_double_dot = 0.211492
+prevState.x = 1.04239
+prevState.x_dot = 0.292964
+prevState.x_double_dot = 0.347184
+Rule 6 weight=0.181059 output=0
+F = 0.589106
+X=0.00431738 Y=1.63788 F=0.589106 angle=0.0643322 x=1.04298
+prevState.angle = 0.0643322
+prevState.angle_dot = -0.12003
+prevState.angle_double_dot = 0.21079
+prevState.x = 1.04298
+prevState.x_dot = 0.293656
+prevState.x_double_dot = 0.345771
+Rule 6 weight=0.180531 output=0
+F = 0.586868
+X=0.00428825 Y=1.63894 F=0.586868 angle=0.0640929 x=1.04357
+prevState.angle = 0.0640929
+prevState.angle_dot = -0.119609
+prevState.angle_double_dot = 0.210091
+prevState.x = 1.04357
+prevState.x_dot = 0.294345
+prevState.x_double_dot = 0.344362
+Rule 6 weight=0.180003 output=0
+F = 0.584639
+X=0.00425927 Y=1.63999 F=0.584639 angle=0.0638546 x=1.04416
+prevState.angle = 0.0638546
+prevState.angle_dot = -0.119191
+prevState.angle_double_dot = 0.209394
+prevState.x = 1.04416
+prevState.x_dot = 0.295031
+prevState.x_double_dot = 0.342958
+Rule 6 weight=0.179474 output=0
+F = 0.582416
+X=0.00423042 Y=1.64105 F=0.582416 angle=0.063617 x=1.04475
+prevState.angle = 0.063617
+prevState.angle_dot = -0.118773
+prevState.angle_double_dot = 0.208699
+prevState.x = 1.04475
+prevState.x_dot = 0.295714
+prevState.x_double_dot = 0.341561
+Rule 6 weight=0.178944 output=0
+F = 0.580203
+X=0.00420171 Y=1.64211 F=0.580203 angle=0.0633803 x=1.04534
+prevState.angle = 0.0633803
+prevState.angle_dot = -0.118357
+prevState.angle_double_dot = 0.208008
+prevState.x = 1.04534
+prevState.x_dot = 0.296394
+prevState.x_double_dot = 0.340167
+Rule 6 weight=0.178414 output=0
+F = 0.577996
+X=0.00417314 Y=1.64317 F=0.577996 angle=0.0631444 x=1.04594
+prevState.angle = 0.0631444
+prevState.angle_dot = -0.117943
+prevState.angle_double_dot = 0.207317
+prevState.x = 1.04594
+prevState.x_dot = 0.297072
+prevState.x_double_dot = 0.338779
+Rule 6 weight=0.177883 output=0
+F = 0.575798
+X=0.00414472 Y=1.64423 F=0.575798 angle=0.0629094 x=1.04653
+prevState.angle = 0.0629094
+prevState.angle_dot = -0.117529
+prevState.angle_double_dot = 0.20663
+prevState.x = 1.04653
+prevState.x_dot = 0.297746
+prevState.x_double_dot = 0.337397
+Rule 6 weight=0.177351 output=0
+F = 0.573608
+X=0.00411643 Y=1.6453 F=0.573608 angle=0.0626751 x=1.04713
+prevState.angle = 0.0626751
+prevState.angle_dot = -0.117117
+prevState.angle_double_dot = 0.205946
+prevState.x = 1.04713
+prevState.x_dot = 0.298418
+prevState.x_double_dot = 0.336018
+Rule 6 weight=0.176819 output=0
+F = 0.571425
+X=0.00408828 Y=1.64636 F=0.571425 angle=0.0624417 x=1.04773
+prevState.angle = 0.0624417
+prevState.angle_dot = -0.116707
+prevState.angle_double_dot = 0.205261
+prevState.x = 1.04773
+prevState.x_dot = 0.299088
+prevState.x_double_dot = 0.334646
+Rule 6 weight=0.176286 output=0
+F = 0.56925
+X=0.00406026 Y=1.64743 F=0.56925 angle=0.0622091 x=1.04833
+prevState.angle = 0.0622091
+prevState.angle_dot = -0.116298
+prevState.angle_double_dot = 0.204581
+prevState.x = 1.04833
+prevState.x_dot = 0.299754
+prevState.x_double_dot = 0.333279
+Rule 6 weight=0.175752 output=0
+F = 0.567083
+X=0.00403238 Y=1.6485 F=0.567083 angle=0.0619773 x=1.04893
+prevState.angle = 0.0619773
+prevState.angle_dot = -0.11589
+prevState.angle_double_dot = 0.203903
+prevState.x = 1.04893
+prevState.x_dot = 0.300418
+prevState.x_double_dot = 0.331915
+Rule 6 weight=0.175218 output=0
+F = 0.564924
+X=0.00400464 Y=1.64956 F=0.564924 angle=0.0617464 x=1.04953
+prevState.angle = 0.0617464
+prevState.angle_dot = -0.115483
+prevState.angle_double_dot = 0.203226
+prevState.x = 1.04953
+prevState.x_dot = 0.301079
+prevState.x_double_dot = 0.330558
+Rule 6 weight=0.174683 output=0
+F = 0.562772
+X=0.00397704 Y=1.65063 F=0.562772 angle=0.0615162 x=1.05013
+prevState.angle = 0.0615162
+prevState.angle_dot = -0.115078
+prevState.angle_double_dot = 0.202552
+prevState.x = 1.05013
+prevState.x_dot = 0.301738
+prevState.x_double_dot = 0.329205
+Rule 6 weight=0.174148 output=0
+F = 0.560628
+X=0.00394957 Y=1.6517 F=0.560628 angle=0.0612869 x=1.05074
+prevState.angle = 0.0612869
+prevState.angle_dot = -0.114675
+prevState.angle_double_dot = 0.201881
+prevState.x = 1.05074
+prevState.x_dot = 0.302393
+prevState.x_double_dot = 0.327858
+Rule 6 weight=0.173612 output=0
+F = 0.558492
+X=0.00392224 Y=1.65278 F=0.558492 angle=0.0610583 x=1.05134
+prevState.angle = 0.0610583
+prevState.angle_dot = -0.114272
+prevState.angle_double_dot = 0.201211
+prevState.x = 1.05134
+prevState.x_dot = 0.303046
+prevState.x_double_dot = 0.326515
+Rule 6 weight=0.173075 output=0
+F = 0.556363
+X=0.00389504 Y=1.65385 F=0.556363 angle=0.0608306 x=1.05195
+prevState.angle = 0.0608306
+prevState.angle_dot = -0.113871
+prevState.angle_double_dot = 0.200543
+prevState.x = 1.05195
+prevState.x_dot = 0.303697
+prevState.x_double_dot = 0.325178
+Rule 6 weight=0.172537 output=0
+F = 0.554242
+X=0.00386798 Y=1.65493 F=0.554242 angle=0.0606036 x=1.05256
+prevState.angle = 0.0606036
+prevState.angle_dot = -0.113471
+prevState.angle_double_dot = 0.199878
+prevState.x = 1.05256
+prevState.x_dot = 0.304344
+prevState.x_double_dot = 0.323846
+Rule 6 weight=0.171999 output=0
+F = 0.552129
+X=0.00384104 Y=1.656 F=0.552129 angle=0.0603775 x=1.05317
+prevState.angle = 0.0603775
+prevState.angle_dot = -0.113073
+prevState.angle_double_dot = 0.199214
+prevState.x = 1.05317
+prevState.x_dot = 0.304989
+prevState.x_double_dot = 0.322519
+Rule 6 weight=0.17146 output=0
+F = 0.550023
+X=0.00381425 Y=1.65708 F=0.550023 angle=0.0601521 x=1.05378
+prevState.angle = 0.0601521
+prevState.angle_dot = -0.112676
+prevState.angle_double_dot = 0.198554
+prevState.x = 1.05378
+prevState.x_dot = 0.305632
+prevState.x_double_dot = 0.321196
+Rule 6 weight=0.170921 output=0
+F = 0.547925
+X=0.00378758 Y=1.65816 F=0.547925 angle=0.0599276 x=1.05439
+prevState.angle = 0.0599276
+prevState.angle_dot = -0.11228
+prevState.angle_double_dot = 0.197894
+prevState.x = 1.05439
+prevState.x_dot = 0.306272
+prevState.x_double_dot = 0.319879
+Rule 6 weight=0.170381 output=0
+F = 0.545834
+X=0.00376105 Y=1.65924 F=0.545834 angle=0.0597038 x=1.05501
+prevState.angle = 0.0597038
+prevState.angle_dot = -0.111886
+prevState.angle_double_dot = 0.197237
+prevState.x = 1.05501
+prevState.x_dot = 0.306909
+prevState.x_double_dot = 0.318567
+Rule 6 weight=0.16984 output=0
+F = 0.543751
+X=0.00373465 Y=1.66032 F=0.543751 angle=0.0594808 x=1.05562
+prevState.angle = 0.0594808
+prevState.angle_dot = -0.111492
+prevState.angle_double_dot = 0.196582
+prevState.x = 1.05562
+prevState.x_dot = 0.307543
+prevState.x_double_dot = 0.317259
+Rule 6 weight=0.169299 output=0
+F = 0.541674
+X=0.00370837 Y=1.6614 F=0.541674 angle=0.0592586 x=1.05624
+prevState.angle = 0.0592586
+prevState.angle_dot = -0.1111
+prevState.angle_double_dot = 0.195929
+prevState.x = 1.05624
+prevState.x_dot = 0.308175
+prevState.x_double_dot = 0.315958
+Rule 6 weight=0.168757 output=0
+F = 0.539605
+X=0.00368223 Y=1.66249 F=0.539605 angle=0.0590372 x=1.05686
+prevState.angle = 0.0590372
+prevState.angle_dot = -0.11071
+prevState.angle_double_dot = 0.195281
+prevState.x = 1.05686
+prevState.x_dot = 0.308804
+prevState.x_double_dot = 0.314659
+Rule 6 weight=0.168215 output=0
+F = 0.537544
+X=0.00365622 Y=1.66357 F=0.537544 angle=0.0588166 x=1.05747
+prevState.angle = 0.0588166
+prevState.angle_dot = -0.110321
+prevState.angle_double_dot = 0.194632
+prevState.x = 1.05747
+prevState.x_dot = 0.309431
+prevState.x_double_dot = 0.313365
+Rule 6 weight=0.167672 output=0
+F = 0.53549
+X=0.00363034 Y=1.66466 F=0.53549 angle=0.0585967 x=1.0581
+prevState.angle = 0.0585967
+prevState.angle_dot = -0.109933
+prevState.angle_double_dot = 0.193987
+prevState.x = 1.0581
+prevState.x_dot = 0.310055
+prevState.x_double_dot = 0.312076
+Rule 6 weight=0.167128 output=0
+F = 0.533444
+X=0.00360459 Y=1.66574 F=0.533444 angle=0.0583776 x=1.05872
+prevState.angle = 0.0583776
+prevState.angle_dot = -0.109546
+prevState.angle_double_dot = 0.193342
+prevState.x = 1.05872
+prevState.x_dot = 0.310677
+prevState.x_double_dot = 0.310792
+Rule 6 weight=0.166584 output=0
+F = 0.531405
+X=0.00357898 Y=1.66683 F=0.531405 angle=0.0581593 x=1.05934
+prevState.angle = 0.0581593
+prevState.angle_dot = -0.109161
+prevState.angle_double_dot = 0.1927
+prevState.x = 1.05934
+prevState.x_dot = 0.311296
+prevState.x_double_dot = 0.309514
+Rule 6 weight=0.166039 output=0
+F = 0.529374
+X=0.00355348 Y=1.66792 F=0.529374 angle=0.0579417 x=1.05996
+prevState.angle = 0.0579417
+prevState.angle_dot = -0.108776
+prevState.angle_double_dot = 0.19206
+prevState.x = 1.05996
+prevState.x_dot = 0.311912
+prevState.x_double_dot = 0.308241
+Rule 6 weight=0.165493 output=0
+F = 0.527349
+X=0.00352812 Y=1.66901 F=0.527349 angle=0.0577249 x=1.06059
+prevState.angle = 0.0577249
+prevState.angle_dot = -0.108394
+prevState.angle_double_dot = 0.191422
+prevState.x = 1.06059
+prevState.x_dot = 0.312526
+prevState.x_double_dot = 0.306973
+Rule 6 weight=0.164947 output=0
+F = 0.525331
+X=0.00350288 Y=1.67011 F=0.525331 angle=0.0575089 x=1.06121
+prevState.angle = 0.0575089
+prevState.angle_dot = -0.108012
+prevState.angle_double_dot = 0.190787
+prevState.x = 1.06121
+prevState.x_dot = 0.313138
+prevState.x_double_dot = 0.305709
+Rule 6 weight=0.1644 output=0
+F = 0.523322
+X=0.00347777 Y=1.6712 F=0.523322 angle=0.0572937 x=1.06184
+prevState.angle = 0.0572937
+prevState.angle_dot = -0.107632
+prevState.angle_double_dot = 0.190153
+prevState.x = 1.06184
+prevState.x_dot = 0.313747
+prevState.x_double_dot = 0.304449
+Rule 6 weight=0.163853 output=0
+F = 0.521319
+X=0.00345279 Y=1.67229 F=0.521319 angle=0.0570791 x=1.06247
+prevState.angle = 0.0570791
+prevState.angle_dot = -0.107253
+prevState.angle_double_dot = 0.189521
+prevState.x = 1.06247
+prevState.x_dot = 0.314353
+prevState.x_double_dot = 0.303194
+Rule 6 weight=0.163305 output=0
+F = 0.519323
+X=0.00342793 Y=1.67339 F=0.519323 angle=0.0568654 x=1.0631
+prevState.angle = 0.0568654
+prevState.angle_dot = -0.106875
+prevState.angle_double_dot = 0.188892
+prevState.x = 1.0631
+prevState.x_dot = 0.314957
+prevState.x_double_dot = 0.301944
+Rule 6 weight=0.162757 output=0
+F = 0.517334
+X=0.00340319 Y=1.67449 F=0.517334 angle=0.0566524 x=1.06373
+prevState.angle = 0.0566524
+prevState.angle_dot = -0.106498
+prevState.angle_double_dot = 0.188265
+prevState.x = 1.06373
+prevState.x_dot = 0.315558
+prevState.x_double_dot = 0.300698
+Rule 6 weight=0.162208 output=0
+F = 0.515353
+X=0.00337859 Y=1.67558 F=0.515353 angle=0.0564402 x=1.06436
+prevState.angle = 0.0564402
+prevState.angle_dot = -0.106123
+prevState.angle_double_dot = 0.18764
+prevState.x = 1.06436
+prevState.x_dot = 0.316157
+prevState.x_double_dot = 0.299458
+Rule 6 weight=0.161658 output=0
+F = 0.513379
+X=0.00335411 Y=1.67668 F=0.513379 angle=0.0562287 x=1.065
+prevState.angle = 0.0562287
+prevState.angle_dot = -0.105749
+prevState.angle_double_dot = 0.187016
+prevState.x = 1.065
+prevState.x_dot = 0.316754
+prevState.x_double_dot = 0.298221
+Rule 6 weight=0.161108 output=0
+F = 0.511412
+X=0.00332975 Y=1.67778 F=0.511412 angle=0.0560179 x=1.06563
+prevState.angle = 0.0560179
+prevState.angle_dot = -0.105376
+prevState.angle_double_dot = 0.186395
+prevState.x = 1.06563
+prevState.x_dot = 0.317348
+prevState.x_double_dot = 0.29699
+Rule 6 weight=0.160557 output=0
+F = 0.509452
+X=0.00330552 Y=1.67889 F=0.509452 angle=0.0558079 x=1.06627
+prevState.angle = 0.0558079
+prevState.angle_dot = -0.105005
+prevState.angle_double_dot = 0.185776
+prevState.x = 1.06627
+prevState.x_dot = 0.317939
+prevState.x_double_dot = 0.295763
+Rule 6 weight=0.160005 output=0
+F = 0.507499
+X=0.00328141 Y=1.67999 F=0.507499 angle=0.0555986 x=1.0669
+prevState.angle = 0.0555986
+prevState.angle_dot = -0.104634
+prevState.angle_double_dot = 0.185158
+prevState.x = 1.0669
+prevState.x_dot = 0.318528
+prevState.x_double_dot = 0.294542
+Rule 6 weight=0.159453 output=0
+F = 0.505553
+X=0.00325742 Y=1.68109 F=0.505553 angle=0.0553901 x=1.06754
+prevState.angle = 0.0553901
+prevState.angle_dot = -0.104265
+prevState.angle_double_dot = 0.184542
+prevState.x = 1.06754
+prevState.x_dot = 0.319115
+prevState.x_double_dot = 0.293325
+Rule 6 weight=0.158901 output=0
+F = 0.503614
+X=0.00323355 Y=1.6822 F=0.503614 angle=0.0551823 x=1.06818
+prevState.angle = 0.0551823
+prevState.angle_dot = -0.103897
+prevState.angle_double_dot = 0.183928
+prevState.x = 1.06818
+prevState.x_dot = 0.319699
+prevState.x_double_dot = 0.292112
+Rule 6 weight=0.158348 output=0
+F = 0.501681
+X=0.00320981 Y=1.6833 F=0.501681 angle=0.0549752 x=1.06882
+prevState.angle = 0.0549752
+prevState.angle_dot = -0.103531
+prevState.angle_double_dot = 0.183318
+prevState.x = 1.06882
+prevState.x_dot = 0.320281
+prevState.x_double_dot = 0.290904
+Rule 6 weight=0.157794 output=0
+F = 0.499755
+X=0.00318618 Y=1.68441 F=0.499755 angle=0.0547689 x=1.06946
+prevState.angle = 0.0547689
+prevState.angle_dot = -0.103165
+prevState.angle_double_dot = 0.182709
+prevState.x = 1.06946
+prevState.x_dot = 0.32086
+prevState.x_double_dot = 0.2897
+Rule 6 weight=0.15724 output=0
+F = 0.497838
+X=0.00316268 Y=1.68552 F=0.497838 angle=0.0545633 x=1.07011
+prevState.angle = 0.0545633
+prevState.angle_dot = -0.102801
+prevState.angle_double_dot = 0.182102
+prevState.x = 1.07011
+prevState.x_dot = 0.321437
+prevState.x_double_dot = 0.2885
+Rule 6 weight=0.156685 output=0
+F = 0.495926
+X=0.0031393 Y=1.68663 F=0.495926 angle=0.0543584 x=1.07075
+prevState.angle = 0.0543584
+prevState.angle_dot = -0.102438
+prevState.angle_double_dot = 0.181496
+prevState.x = 1.07075
+prevState.x_dot = 0.322012
+prevState.x_double_dot = 0.287305
+Rule 6 weight=0.156129 output=0
+F = 0.494022
+X=0.00311604 Y=1.68774 F=0.494022 angle=0.0541543 x=1.0714
+prevState.angle = 0.0541543
+prevState.angle_dot = -0.102076
+prevState.angle_double_dot = 0.180893
+prevState.x = 1.0714
+prevState.x_dot = 0.322584
+prevState.x_double_dot = 0.286115
+Rule 6 weight=0.155573 output=0
+F = 0.492125
+X=0.0030929 Y=1.68885 F=0.492125 angle=0.0539508 x=1.07204
+prevState.angle = 0.0539508
+prevState.angle_dot = -0.101716
+prevState.angle_double_dot = 0.180292
+prevState.x = 1.07204
+prevState.x_dot = 0.323154
+prevState.x_double_dot = 0.284929
+Rule 6 weight=0.155017 output=0
+F = 0.490234
+X=0.00306988 Y=1.68997 F=0.490234 angle=0.0537481 x=1.07269
+prevState.angle = 0.0537481
+prevState.angle_dot = -0.101356
+prevState.angle_double_dot = 0.179691
+prevState.x = 1.07269
+prevState.x_dot = 0.323722
+prevState.x_double_dot = 0.283748
+Rule 6 weight=0.15446 output=0
+F = 0.48835
+X=0.00304698 Y=1.69108 F=0.48835 angle=0.0535461 x=1.07334
+prevState.angle = 0.0535461
+prevState.angle_dot = -0.100998
+prevState.angle_double_dot = 0.179093
+prevState.x = 1.07334
+prevState.x_dot = 0.324287
+prevState.x_double_dot = 0.282573
+Rule 6 weight=0.153902 output=0
+F = 0.486473
+X=0.00302419 Y=1.6922 F=0.486473 angle=0.0533449 x=1.07399
+prevState.angle = 0.0533449
+prevState.angle_dot = -0.100641
+prevState.angle_double_dot = 0.178497
+prevState.x = 1.07399
+prevState.x_dot = 0.32485
+prevState.x_double_dot = 0.281401
+Rule 6 weight=0.153344 output=0
+F = 0.484603
+X=0.00300153 Y=1.69331 F=0.484603 angle=0.0531443 x=1.07464
+prevState.angle = 0.0531443
+prevState.angle_dot = -0.100286
+prevState.angle_double_dot = 0.177903
+prevState.x = 1.07464
+prevState.x_dot = 0.32541
+prevState.x_double_dot = 0.280233
+Rule 6 weight=0.152785 output=0
+F = 0.482739
+X=0.00297898 Y=1.69443 F=0.482739 angle=0.0529444 x=1.07529
+prevState.angle = 0.0529444
+prevState.angle_dot = -0.0999309
+prevState.angle_double_dot = 0.177311
+prevState.x = 1.07529
+prevState.x_dot = 0.325968
+prevState.x_double_dot = 0.27907
+Rule 6 weight=0.152226 output=0
+F = 0.480882
+X=0.00295655 Y=1.69555 F=0.480882 angle=0.0527453 x=1.07594
+prevState.angle = 0.0527453
+prevState.angle_dot = -0.0995774
+prevState.angle_double_dot = 0.176721
+prevState.x = 1.07594
+prevState.x_dot = 0.326524
+prevState.x_double_dot = 0.277912
+Rule 6 weight=0.151666 output=0
+F = 0.479031
+X=0.00293423 Y=1.69667 F=0.479031 angle=0.0525468 x=1.0766
+prevState.angle = 0.0525468
+prevState.angle_dot = -0.0992252
+prevState.angle_double_dot = 0.176133
+prevState.x = 1.0766
+prevState.x_dot = 0.327077
+prevState.x_double_dot = 0.276757
+Rule 6 weight=0.151106 output=0
+F = 0.477187
+X=0.00291203 Y=1.69779 F=0.477187 angle=0.0523491 x=1.07725
+prevState.angle = 0.0523491
+prevState.angle_dot = -0.0988741
+prevState.angle_double_dot = 0.175548
+prevState.x = 1.07725
+prevState.x_dot = 0.327629
+prevState.x_double_dot = 0.275607
+Rule 6 weight=0.150545 output=0
+F = 0.47535
+X=0.00288994 Y=1.69891 F=0.47535 angle=0.052152 x=1.07791
+prevState.angle = 0.052152
+prevState.angle_dot = -0.0985242
+prevState.angle_double_dot = 0.174964
+prevState.x = 1.07791
+prevState.x_dot = 0.328178
+prevState.x_double_dot = 0.27446
+Rule 6 weight=0.149984 output=0
+F = 0.47352
+X=0.00286797 Y=1.70003 F=0.47352 angle=0.0519557 x=1.07857
+prevState.angle = 0.0519557
+prevState.angle_dot = -0.0981754
+prevState.angle_double_dot = 0.174382
+prevState.x = 1.07857
+prevState.x_dot = 0.328724
+prevState.x_double_dot = 0.273318
+Rule 6 weight=0.149422 output=0
+F = 0.471696
+X=0.00284612 Y=1.70116 F=0.471696 angle=0.05176 x=1.07923
+prevState.angle = 0.05176
+prevState.angle_dot = -0.0978278
+prevState.angle_double_dot = 0.173802
+prevState.x = 1.07923
+prevState.x_dot = 0.329269
+prevState.x_double_dot = 0.272181
+Rule 6 weight=0.148859 output=0
+F = 0.469879
+X=0.00282438 Y=1.70228 F=0.469879 angle=0.051565 x=1.07989
+prevState.angle = 0.051565
+prevState.angle_dot = -0.0974813
+prevState.angle_double_dot = 0.173222
+prevState.x = 1.07989
+prevState.x_dot = 0.329811
+prevState.x_double_dot = 0.271048
+Rule 6 weight=0.148296 output=0
+F = 0.468068
+X=0.00280275 Y=1.70341 F=0.468068 angle=0.0513708 x=1.08055
+prevState.angle = 0.0513708
+prevState.angle_dot = -0.0971361
+prevState.angle_double_dot = 0.172646
+prevState.x = 1.08055
+prevState.x_dot = 0.330351
+prevState.x_double_dot = 0.269919
+Rule 6 weight=0.147733 output=0
+F = 0.466264
+X=0.00278123 Y=1.70453 F=0.466264 angle=0.0511772 x=1.08121
+prevState.angle = 0.0511772
+prevState.angle_dot = -0.0967919
+prevState.angle_double_dot = 0.172072
+prevState.x = 1.08121
+prevState.x_dot = 0.330888
+prevState.x_double_dot = 0.268794
+Rule 6 weight=0.147169 output=0
+F = 0.464466
+X=0.00275983 Y=1.70566 F=0.464466 angle=0.0509843 x=1.08187
+prevState.angle = 0.0509843
+prevState.angle_dot = -0.0964489
+prevState.angle_double_dot = 0.171499
+prevState.x = 1.08187
+prevState.x_dot = 0.331423
+prevState.x_double_dot = 0.267674
+Rule 6 weight=0.146604 output=0
+F = 0.462675
+X=0.00273855 Y=1.70679 F=0.462675 angle=0.0507921 x=1.08253
+prevState.angle = 0.0507921
+prevState.angle_dot = -0.0961071
+prevState.angle_double_dot = 0.170929
+prevState.x = 1.08253
+prevState.x_dot = 0.331957
+prevState.x_double_dot = 0.266558
+Rule 6 weight=0.146039 output=0
+F = 0.460891
+X=0.00271737 Y=1.70792 F=0.460891 angle=0.0506005 x=1.0832
+prevState.angle = 0.0506005
+prevState.angle_dot = -0.0957663
+prevState.angle_double_dot = 0.170359
+prevState.x = 1.0832
+prevState.x_dot = 0.332487
+prevState.x_double_dot = 0.265446
+Rule 6 weight=0.145474 output=0
+F = 0.459113
+X=0.00269631 Y=1.70905 F=0.459113 angle=0.0504097 x=1.08387
+prevState.angle = 0.0504097
+prevState.angle_dot = -0.0954268
+prevState.angle_double_dot = 0.169791
+prevState.x = 1.08387
+prevState.x_dot = 0.333016
+prevState.x_double_dot = 0.264339
+Rule 6 weight=0.144907 output=0
+F = 0.457342
+X=0.00267536 Y=1.71019 F=0.457342 angle=0.0502195 x=1.08453
+prevState.angle = 0.0502195
+prevState.angle_dot = -0.0950883
+prevState.angle_double_dot = 0.169225
+prevState.x = 1.08453
+prevState.x_dot = 0.333543
+prevState.x_double_dot = 0.263237
+Rule 6 weight=0.144341 output=0
+F = 0.455576
+X=0.00265452 Y=1.71132 F=0.455576 angle=0.05003 x=1.0852
+prevState.angle = 0.05003
+prevState.angle_dot = -0.094751
+prevState.angle_double_dot = 0.16866
+prevState.x = 1.0852
+prevState.x_dot = 0.334067
+prevState.x_double_dot = 0.262139
+Rule 6 weight=0.143774 output=0
+F = 0.453817
+X=0.00263378 Y=1.71245 F=0.453817 angle=0.0498412 x=1.08587
+prevState.angle = 0.0498412
+prevState.angle_dot = -0.0944148
+prevState.angle_double_dot = 0.168098
+prevState.x = 1.08587
+prevState.x_dot = 0.334589
+prevState.x_double_dot = 0.261045
+Rule 6 weight=0.143206 output=0
+F = 0.452064
+X=0.00261316 Y=1.71359 F=0.452064 angle=0.049653 x=1.08654
+prevState.angle = 0.049653
+prevState.angle_dot = -0.0940797
+prevState.angle_double_dot = 0.167538
+prevState.x = 1.08654
+prevState.x_dot = 0.335109
+prevState.x_double_dot = 0.259954
+Rule 6 weight=0.142638 output=0
+F = 0.450319
+X=0.00259265 Y=1.71472 F=0.450319 angle=0.0494655 x=1.08721
+prevState.angle = 0.0494655
+prevState.angle_dot = -0.0937458
+prevState.angle_double_dot = 0.16698
+prevState.x = 1.08721
+prevState.x_dot = 0.335627
+prevState.x_double_dot = 0.258868
+Rule 6 weight=0.142069 output=0
+F = 0.448579
+X=0.00257225 Y=1.71586 F=0.448579 angle=0.0492787 x=1.08788
+prevState.angle = 0.0492787
+prevState.angle_dot = -0.0934129
+prevState.angle_double_dot = 0.166422
+prevState.x = 1.08788
+prevState.x_dot = 0.336142
+prevState.x_double_dot = 0.257786
+Rule 6 weight=0.1415 output=0
+F = 0.446845
+X=0.00255195 Y=1.717 F=0.446845 angle=0.0490925 x=1.08856
+prevState.angle = 0.0490925
+prevState.angle_dot = -0.0930812
+prevState.angle_double_dot = 0.165867
+prevState.x = 1.08856
+prevState.x_dot = 0.336656
+prevState.x_double_dot = 0.256709
+Rule 6 weight=0.14093 output=0
+F = 0.445118
+X=0.00253176 Y=1.71814 F=0.445118 angle=0.048907 x=1.08923
+prevState.angle = 0.048907
+prevState.angle_dot = -0.0927505
+prevState.angle_double_dot = 0.165314
+prevState.x = 1.08923
+prevState.x_dot = 0.337167
+prevState.x_double_dot = 0.255636
+Rule 6 weight=0.14036 output=0
+F = 0.443397
+X=0.00251168 Y=1.71928 F=0.443397 angle=0.0487222 x=1.08991
+prevState.angle = 0.0487222
+prevState.angle_dot = -0.092421
+prevState.angle_double_dot = 0.164763
+prevState.x = 1.08991
+prevState.x_dot = 0.337676
+prevState.x_double_dot = 0.254566
+Rule 6 weight=0.13979 output=0
+F = 0.441682
+X=0.00249171 Y=1.72042 F=0.441682 angle=0.048538 x=1.09058
+prevState.angle = 0.048538
+prevState.angle_dot = -0.0920926
+prevState.angle_double_dot = 0.164214
+prevState.x = 1.09058
+prevState.x_dot = 0.338183
+prevState.x_double_dot = 0.2535
+Rule 6 weight=0.139218 output=0
+F = 0.439974
+X=0.00247185 Y=1.72156 F=0.439974 angle=0.0483545 x=1.09126
+prevState.angle = 0.0483545
+prevState.angle_dot = -0.0917653
+prevState.angle_double_dot = 0.163665
+prevState.x = 1.09126
+prevState.x_dot = 0.338688
+prevState.x_double_dot = 0.252439
+Rule 6 weight=0.138647 output=0
+F = 0.438271
+X=0.00245209 Y=1.72271 F=0.438271 angle=0.0481716 x=1.09194
+prevState.angle = 0.0481716
+prevState.angle_dot = -0.091439
+prevState.angle_double_dot = 0.163119
+prevState.x = 1.09194
+prevState.x_dot = 0.339191
+prevState.x_double_dot = 0.251382
+Rule 6 weight=0.138075 output=0
+F = 0.436576
+X=0.00243244 Y=1.72385 F=0.436576 angle=0.0479894 x=1.09262
+prevState.angle = 0.0479894
+prevState.angle_dot = -0.0911139
+prevState.angle_double_dot = 0.162574
+prevState.x = 1.09262
+prevState.x_dot = 0.339691
+prevState.x_double_dot = 0.250329
+Rule 6 weight=0.137502 output=0
+F = 0.434886
+X=0.00241289 Y=1.725 F=0.434886 angle=0.0478078 x=1.0933
+prevState.angle = 0.0478078
+prevState.angle_dot = -0.0907898
+prevState.angle_double_dot = 0.162031
+prevState.x = 1.0933
+prevState.x_dot = 0.34019
+prevState.x_double_dot = 0.24928
+Rule 6 weight=0.136929 output=0
+F = 0.433202
+X=0.00239345 Y=1.72614 F=0.433202 angle=0.0476269 x=1.09398
+prevState.angle = 0.0476269
+prevState.angle_dot = -0.0904668
+prevState.angle_double_dot = 0.16149
+prevState.x = 1.09398
+prevState.x_dot = 0.340686
+prevState.x_double_dot = 0.248236
+Rule 6 weight=0.136355 output=0
+F = 0.431524
+X=0.00237411 Y=1.72729 F=0.431524 angle=0.0474466 x=1.09466
+prevState.angle = 0.0474466
+prevState.angle_dot = -0.0901449
+prevState.angle_double_dot = 0.160951
+prevState.x = 1.09466
+prevState.x_dot = 0.341181
+prevState.x_double_dot = 0.247195
+Rule 6 weight=0.135781 output=0
+F = 0.429852
+X=0.00235488 Y=1.72844 F=0.429852 angle=0.0472669 x=1.09535
+prevState.angle = 0.0472669
+prevState.angle_dot = -0.0898241
+prevState.angle_double_dot = 0.160414
+prevState.x = 1.09535
+prevState.x_dot = 0.341673
+prevState.x_double_dot = 0.246157
+Rule 6 weight=0.135207 output=0
+F = 0.428186
+X=0.00233575 Y=1.72959 F=0.428186 angle=0.0470879 x=1.09603
+prevState.angle = 0.0470879
+prevState.angle_dot = -0.0895043
+prevState.angle_double_dot = 0.159879
+prevState.x = 1.09603
+prevState.x_dot = 0.342163
+prevState.x_double_dot = 0.245124
+Rule 6 weight=0.134632 output=0
+F = 0.426527
+X=0.00231672 Y=1.73074 F=0.426527 angle=0.0469095 x=1.09672
+prevState.angle = 0.0469095
+prevState.angle_dot = -0.0891856
+prevState.angle_double_dot = 0.159345
+prevState.x = 1.09672
+prevState.x_dot = 0.342651
+prevState.x_double_dot = 0.244094
+Rule 6 weight=0.134056 output=0
+F = 0.424873
+X=0.0022978 Y=1.73189 F=0.424873 angle=0.0467318 x=1.0974
+prevState.angle = 0.0467318
+prevState.angle_dot = -0.088868
+prevState.angle_double_dot = 0.158812
+prevState.x = 1.0974
+prevState.x_dot = 0.343138
+prevState.x_double_dot = 0.243069
+Rule 6 weight=0.13348 output=0
+F = 0.423225
+X=0.00227898 Y=1.73304 F=0.423225 angle=0.0465547 x=1.09809
+prevState.angle = 0.0465547
+prevState.angle_dot = -0.0885515
+prevState.angle_double_dot = 0.158282
+prevState.x = 1.09809
+prevState.x_dot = 0.343622
+prevState.x_double_dot = 0.242048
+Rule 6 weight=0.132904 output=0
+F = 0.421584
+X=0.00226026 Y=1.73419 F=0.421584 angle=0.0463782 x=1.09878
+prevState.angle = 0.0463782
+prevState.angle_dot = -0.0882359
+prevState.angle_double_dot = 0.157753
+prevState.x = 1.09878
+prevState.x_dot = 0.344104
+prevState.x_double_dot = 0.24103
+Rule 6 weight=0.132327 output=0
+F = 0.419948
+X=0.00224165 Y=1.73535 F=0.419948 angle=0.0462024 x=1.09947
+prevState.angle = 0.0462024
+prevState.angle_dot = -0.0879215
+prevState.angle_double_dot = 0.157225
+prevState.x = 1.09947
+prevState.x_dot = 0.344584
+prevState.x_double_dot = 0.240016
+Rule 6 weight=0.13175 output=0
+F = 0.418318
+X=0.00222313 Y=1.7365 F=0.418318 angle=0.0460272 x=1.10016
+prevState.angle = 0.0460272
+prevState.angle_dot = -0.0876081
+prevState.angle_double_dot = 0.1567
+prevState.x = 1.10016
+prevState.x_dot = 0.345062
+prevState.x_double_dot = 0.239008
+Rule 6 weight=0.131172 output=0
+F = 0.416694
+X=0.00220472 Y=1.73766 F=0.416694 angle=0.0458526 x=1.10085
+prevState.angle = 0.0458526
+prevState.angle_dot = -0.0872957
+prevState.angle_double_dot = 0.156177
+prevState.x = 1.10085
+prevState.x_dot = 0.345538
+prevState.x_double_dot = 0.238002
+Rule 6 weight=0.130594 output=0
+F = 0.415077
+X=0.00218641 Y=1.73881 F=0.415077 angle=0.0456786 x=1.10154
+prevState.angle = 0.0456786
+prevState.angle_dot = -0.0869844
+prevState.angle_double_dot = 0.155656
+prevState.x = 1.10154
+prevState.x_dot = 0.346012
+prevState.x_double_dot = 0.236999
+Rule 6 weight=0.130015 output=0
+F = 0.413465
+X=0.00216819 Y=1.73997 F=0.413465 angle=0.0455053 x=1.10223
+prevState.angle = 0.0455053
+prevState.angle_dot = -0.0866742
+prevState.angle_double_dot = 0.155134
+prevState.x = 1.10223
+prevState.x_dot = 0.346484
+prevState.x_double_dot = 0.236
+Rule 6 weight=0.129436 output=0
+F = 0.411858
+X=0.00215008 Y=1.74113 F=0.411858 angle=0.0453325 x=1.10293
+prevState.angle = 0.0453325
+prevState.angle_dot = -0.0863649
+prevState.angle_double_dot = 0.154616
+prevState.x = 1.10293
+prevState.x_dot = 0.346954
+prevState.x_double_dot = 0.235007
+Rule 6 weight=0.128856 output=0
+F = 0.410258
+X=0.00213207 Y=1.74229 F=0.410258 angle=0.0451604 x=1.10362
+prevState.angle = 0.0451604
+prevState.angle_dot = -0.0860567
+prevState.angle_double_dot = 0.1541
+prevState.x = 1.10362
+prevState.x_dot = 0.347422
+prevState.x_double_dot = 0.234016
+Rule 6 weight=0.128276 output=0
+F = 0.408664
+X=0.00211415 Y=1.74345 F=0.408664 angle=0.0449889 x=1.10432
+prevState.angle = 0.0449889
+prevState.angle_dot = -0.0857496
+prevState.angle_double_dot = 0.153583
+prevState.x = 1.10432
+prevState.x_dot = 0.347888
+prevState.x_double_dot = 0.233029
+Rule 6 weight=0.127696 output=0
+F = 0.407075
+X=0.00209633 Y=1.74461 F=0.407075 angle=0.044818 x=1.10501
+prevState.angle = 0.044818
+prevState.angle_dot = -0.0854434
+prevState.angle_double_dot = 0.153069
+prevState.x = 1.10501
+prevState.x_dot = 0.348352
+prevState.x_double_dot = 0.232048
+Rule 6 weight=0.127115 output=0
+F = 0.405492
+X=0.00207862 Y=1.74577 F=0.405492 angle=0.0446478 x=1.10571
+prevState.angle = 0.0446478
+prevState.angle_dot = -0.0851383
+prevState.angle_double_dot = 0.152558
+prevState.x = 1.10571
+prevState.x_dot = 0.348814
+prevState.x_double_dot = 0.231069
+Rule 6 weight=0.126533 output=0
+F = 0.403915
+X=0.00206099 Y=1.74693 F=0.403915 angle=0.0444781 x=1.10641
+prevState.angle = 0.0444781
+prevState.angle_dot = -0.0848342
+prevState.angle_double_dot = 0.152047
+prevState.x = 1.10641
+prevState.x_dot = 0.349274
+prevState.x_double_dot = 0.230093
+Rule 6 weight=0.125951 output=0
+F = 0.402344
+X=0.00204347 Y=1.7481 F=0.402344 angle=0.044309 x=1.10711
+prevState.angle = 0.044309
+prevState.angle_dot = -0.0845311
+prevState.angle_double_dot = 0.151539
+prevState.x = 1.10711
+prevState.x_dot = 0.349733
+prevState.x_double_dot = 0.229122
+Rule 6 weight=0.125369 output=0
+F = 0.400778
+X=0.00202604 Y=1.74926 F=0.400778 angle=0.0441406 x=1.10781
+prevState.angle = 0.0441406
+prevState.angle_dot = -0.0842291
+prevState.angle_double_dot = 0.151031
+prevState.x = 1.10781
+prevState.x_dot = 0.350189
+prevState.x_double_dot = 0.228154
+Rule 6 weight=0.124786 output=0
+F = 0.399218
+X=0.00200871 Y=1.75043 F=0.399218 angle=0.0439727 x=1.10851
+prevState.angle = 0.0439727
+prevState.angle_dot = -0.083928
+prevState.angle_double_dot = 0.150526
+prevState.x = 1.10851
+prevState.x_dot = 0.350643
+prevState.x_double_dot = 0.227191
+Rule 6 weight=0.124203 output=0
+F = 0.397664
+X=0.00199148 Y=1.75159 F=0.397664 angle=0.0438055 x=1.10921
+prevState.angle = 0.0438055
+prevState.angle_dot = -0.083628
+prevState.angle_double_dot = 0.150022
+prevState.x = 1.10921
+prevState.x_dot = 0.351096
+prevState.x_double_dot = 0.22623
+Rule 6 weight=0.123619 output=0
+F = 0.396115
+X=0.00197434 Y=1.75276 F=0.396115 angle=0.0436388 x=1.10992
+prevState.angle = 0.0436388
+prevState.angle_dot = -0.0833289
+prevState.angle_double_dot = 0.149519
+prevState.x = 1.10992
+prevState.x_dot = 0.351546
+prevState.x_double_dot = 0.225274
+Rule 6 weight=0.123035 output=0
+F = 0.394572
+X=0.0019573 Y=1.75393 F=0.394572 angle=0.0434727 x=1.11062
+prevState.angle = 0.0434727
+prevState.angle_dot = -0.0830309
+prevState.angle_double_dot = 0.14902
+prevState.x = 1.11062
+prevState.x_dot = 0.351995
+prevState.x_double_dot = 0.224321
+Rule 6 weight=0.122451 output=0
+F = 0.393035
+X=0.00194035 Y=1.7551 F=0.393035 angle=0.0433073 x=1.11133
+prevState.angle = 0.0433073
+prevState.angle_dot = -0.0827339
+prevState.angle_double_dot = 0.148521
+prevState.x = 1.11133
+prevState.x_dot = 0.352442
+prevState.x_double_dot = 0.223371
+Rule 6 weight=0.121866 output=0
+F = 0.391504
+X=0.0019235 Y=1.75627 F=0.391504 angle=0.0431424 x=1.11203
+prevState.angle = 0.0431424
+prevState.angle_dot = -0.0824378
+prevState.angle_double_dot = 0.148022
+prevState.x = 1.11203
+prevState.x_dot = 0.352887
+prevState.x_double_dot = 0.222426
+Rule 6 weight=0.12128 output=0
+F = 0.389978
+X=0.00190674 Y=1.75744 F=0.389978 angle=0.0429781 x=1.11274
+prevState.angle = 0.0429781
+prevState.angle_dot = -0.0821428
+prevState.angle_double_dot = 0.147526
+prevState.x = 1.11274
+prevState.x_dot = 0.35333
+prevState.x_double_dot = 0.221485
+Rule 6 weight=0.120695 output=0
+F = 0.388457
+X=0.00189007 Y=1.75861 F=0.388457 angle=0.0428144 x=1.11345
+prevState.angle = 0.0428144
+prevState.angle_dot = -0.0818487
+prevState.angle_double_dot = 0.147032
+prevState.x = 1.11345
+prevState.x_dot = 0.353771
+prevState.x_double_dot = 0.220547
+Rule 6 weight=0.120108 output=0
+F = 0.386942
+X=0.0018735 Y=1.75978 F=0.386942 angle=0.0426513 x=1.11415
+prevState.angle = 0.0426513
+prevState.angle_dot = -0.0815556
+prevState.angle_double_dot = 0.146539
+prevState.x = 1.11415
+prevState.x_dot = 0.35421
+prevState.x_double_dot = 0.219613
+Rule 6 weight=0.119522 output=0
+F = 0.385433
+X=0.00185702 Y=1.76096 F=0.385433 angle=0.0424888 x=1.11486
+prevState.angle = 0.0424888
+prevState.angle_dot = -0.0812635
+prevState.angle_double_dot = 0.146048
+prevState.x = 1.11486
+prevState.x_dot = 0.354647
+prevState.x_double_dot = 0.218683
+Rule 6 weight=0.118935 output=0
+F = 0.383929
+X=0.00184063 Y=1.76213 F=0.383929 angle=0.0423268 x=1.11557
+prevState.angle = 0.0423268
+prevState.angle_dot = -0.0809724
+prevState.angle_double_dot = 0.145559
+prevState.x = 1.11557
+prevState.x_dot = 0.355083
+prevState.x_double_dot = 0.217755
+Rule 6 weight=0.118347 output=0
+F = 0.38243
+X=0.00182434 Y=1.76331 F=0.38243 angle=0.0421655 x=1.11628
+prevState.angle = 0.0421655
+prevState.angle_dot = -0.0806823
+prevState.angle_double_dot = 0.145071
+prevState.x = 1.11628
+prevState.x_dot = 0.355516
+prevState.x_double_dot = 0.216831
+Rule 6 weight=0.117759 output=0
+F = 0.380938
+X=0.00180814 Y=1.76448 F=0.380938 angle=0.0420047 x=1.117
+prevState.angle = 0.0420047
+prevState.angle_dot = -0.0803931
+prevState.angle_double_dot = 0.144584
+prevState.x = 1.117
+prevState.x_dot = 0.355948
+prevState.x_double_dot = 0.215911
+Rule 6 weight=0.117171 output=0
+F = 0.379451
+X=0.00179202 Y=1.76566 F=0.379451 angle=0.0418445 x=1.11771
+prevState.angle = 0.0418445
+prevState.angle_dot = -0.0801049
+prevState.angle_double_dot = 0.144098
+prevState.x = 1.11771
+prevState.x_dot = 0.356378
+prevState.x_double_dot = 0.214995
+Rule 6 weight=0.116582 output=0
+F = 0.377968
+X=0.001776 Y=1.76684 F=0.377968 angle=0.0416848 x=1.11842
+prevState.angle = 0.0416848
+prevState.angle_dot = -0.0798177
+prevState.angle_double_dot = 0.143615
+prevState.x = 1.11842
+prevState.x_dot = 0.356806
+prevState.x_double_dot = 0.214084
+Rule 6 weight=0.115993 output=0
+F = 0.376492
+X=0.00176007 Y=1.76801 F=0.376492 angle=0.0415258 x=1.11914
+prevState.angle = 0.0415258
+prevState.angle_dot = -0.0795314
+prevState.angle_double_dot = 0.143134
+prevState.x = 1.11914
+prevState.x_dot = 0.357233
+prevState.x_double_dot = 0.213174
+Rule 6 weight=0.115404 output=0
+F = 0.375021
+X=0.00174423 Y=1.76919 F=0.375021 angle=0.0413673 x=1.11985
+prevState.angle = 0.0413673
+prevState.angle_dot = -0.0792461
+prevState.angle_double_dot = 0.142653
+prevState.x = 1.11985
+prevState.x_dot = 0.357657
+prevState.x_double_dot = 0.212268
+Rule 6 weight=0.114814 output=0
+F = 0.373556
+X=0.00172849 Y=1.77037 F=0.373556 angle=0.0412094 x=1.12057
+prevState.angle = 0.0412094
+prevState.angle_dot = -0.0789618
+prevState.angle_double_dot = 0.142174
+prevState.x = 1.12057
+prevState.x_dot = 0.35808
+prevState.x_double_dot = 0.211366
+Rule 6 weight=0.114223 output=0
+F = 0.372095
+X=0.00171283 Y=1.77155 F=0.372095 angle=0.041052 x=1.12129
+prevState.angle = 0.041052
+prevState.angle_dot = -0.0786784
+prevState.angle_double_dot = 0.141696
+prevState.x = 1.12129
+prevState.x_dot = 0.358501
+prevState.x_double_dot = 0.210468
+Rule 6 weight=0.113633 output=0
+F = 0.37064
+X=0.00169725 Y=1.77273 F=0.37064 angle=0.0408952 x=1.122
+prevState.angle = 0.0408952
+prevState.angle_dot = -0.0783959
+prevState.angle_double_dot = 0.14122
+prevState.x = 1.122
+prevState.x_dot = 0.35892
+prevState.x_double_dot = 0.209574
+Rule 6 weight=0.113041 output=0
+F = 0.369191
+X=0.00168177 Y=1.77392 F=0.369191 angle=0.040739 x=1.12272
+prevState.angle = 0.040739
+prevState.angle_dot = -0.0781144
+prevState.angle_double_dot = 0.140745
+prevState.x = 1.12272
+prevState.x_dot = 0.359337
+prevState.x_double_dot = 0.208683
+Rule 6 weight=0.11245 output=0
+F = 0.367746
+X=0.00166637 Y=1.7751 F=0.367746 angle=0.0405833 x=1.12344
+prevState.angle = 0.0405833
+prevState.angle_dot = -0.0778339
+prevState.angle_double_dot = 0.140273
+prevState.x = 1.12344
+prevState.x_dot = 0.359753
+prevState.x_double_dot = 0.207795
+Rule 6 weight=0.111858 output=0
+F = 0.366307
+X=0.00165107 Y=1.77628 F=0.366307 angle=0.0404282 x=1.12416
+prevState.angle = 0.0404282
+prevState.angle_dot = -0.0775543
+prevState.angle_double_dot = 0.139802
+prevState.x = 1.12416
+prevState.x_dot = 0.360167
+prevState.x_double_dot = 0.20691
+Rule 6 weight=0.111265 output=0
+F = 0.364874
+X=0.00163585 Y=1.77747 F=0.364874 angle=0.0402737 x=1.12488
+prevState.angle = 0.0402737
+prevState.angle_dot = -0.0772756
+prevState.angle_double_dot = 0.139332
+prevState.x = 1.12488
+prevState.x_dot = 0.360579
+prevState.x_double_dot = 0.206029
+Rule 6 weight=0.110673 output=0
+F = 0.363445
+X=0.00162072 Y=1.77865 F=0.363445 angle=0.0401197 x=1.12561
+prevState.angle = 0.0401197
+prevState.angle_dot = -0.0769979
+prevState.angle_double_dot = 0.138863
+prevState.x = 1.12561
+prevState.x_dot = 0.360989
+prevState.x_double_dot = 0.205152
+Rule 6 weight=0.110079 output=0
+F = 0.362022
+X=0.00160567 Y=1.77984 F=0.362022 angle=0.0399662 x=1.12633
+prevState.angle = 0.0399662
+prevState.angle_dot = -0.0767211
+prevState.angle_double_dot = 0.138396
+prevState.x = 1.12633
+prevState.x_dot = 0.361398
+prevState.x_double_dot = 0.204278
+Rule 6 weight=0.109486 output=0
+F = 0.360604
+X=0.00159071 Y=1.78103 F=0.360604 angle=0.0398133 x=1.12705
+prevState.angle = 0.0398133
+prevState.angle_dot = -0.0764452
+prevState.angle_double_dot = 0.137932
+prevState.x = 1.12705
+prevState.x_dot = 0.361805
+prevState.x_double_dot = 0.203407
+Rule 6 weight=0.108892 output=0
+F = 0.359191
+X=0.00157584 Y=1.78222 F=0.359191 angle=0.039661 x=1.12778
+prevState.angle = 0.039661
+prevState.angle_dot = -0.0761703
+prevState.angle_double_dot = 0.137467
+prevState.x = 1.12778
+prevState.x_dot = 0.36221
+prevState.x_double_dot = 0.202539
+Rule 6 weight=0.108297 output=0
+F = 0.357783
+X=0.00156105 Y=1.78341 F=0.357783 angle=0.0395092 x=1.1285
+prevState.angle = 0.0395092
+prevState.angle_dot = -0.0758963
+prevState.angle_double_dot = 0.137006
+prevState.x = 1.1285
+prevState.x_dot = 0.362613
+prevState.x_double_dot = 0.201676
+Rule 6 weight=0.107703 output=0
+F = 0.356381
+X=0.00154635 Y=1.78459 F=0.356381 angle=0.039358 x=1.12923
+prevState.angle = 0.039358
+prevState.angle_dot = -0.0756232
+prevState.angle_double_dot = 0.136545
+prevState.x = 1.12923
+prevState.x_dot = 0.363015
+prevState.x_double_dot = 0.200814
+Rule 6 weight=0.107108 output=0
+F = 0.354983
+X=0.00153173 Y=1.78578 F=0.354983 angle=0.0392072 x=1.12995
+prevState.angle = 0.0392072
+prevState.angle_dot = -0.075351
+prevState.angle_double_dot = 0.136086
+prevState.x = 1.12995
+prevState.x_dot = 0.363415
+prevState.x_double_dot = 0.199957
+Rule 6 weight=0.106512 output=0
+F = 0.353591
+X=0.0015172 Y=1.78698 F=0.353591 angle=0.0390571 x=1.13068
+prevState.angle = 0.0390571
+prevState.angle_dot = -0.0750798
+prevState.angle_double_dot = 0.135628
+prevState.x = 1.13068
+prevState.x_dot = 0.363813
+prevState.x_double_dot = 0.199103
+Rule 6 weight=0.105916 output=0
+F = 0.352204
+X=0.00150275 Y=1.78817 F=0.352204 angle=0.0389075 x=1.13141
+prevState.angle = 0.0389075
+prevState.angle_dot = -0.0748094
+prevState.angle_double_dot = 0.135171
+prevState.x = 1.13141
+prevState.x_dot = 0.364209
+prevState.x_double_dot = 0.198252
+Rule 6 weight=0.10532 output=0
+F = 0.350823
+X=0.00148839 Y=1.78936 F=0.350823 angle=0.0387584 x=1.13214
+prevState.angle = 0.0387584
+prevState.angle_dot = -0.07454
+prevState.angle_double_dot = 0.134717
+prevState.x = 1.13214
+prevState.x_dot = 0.364604
+prevState.x_double_dot = 0.197405
+Rule 6 weight=0.104723 output=0
+F = 0.349446
+X=0.00147411 Y=1.79055 F=0.349446 angle=0.0386099 x=1.13287
+prevState.angle = 0.0386099
+prevState.angle_dot = -0.0742715
+prevState.angle_double_dot = 0.134261
+prevState.x = 1.13287
+prevState.x_dot = 0.364997
+prevState.x_double_dot = 0.196562
+Rule 6 weight=0.104126 output=0
+F = 0.348073
+X=0.00145991 Y=1.79175 F=0.348073 angle=0.0384618 x=1.1336
+prevState.angle = 0.0384618
+prevState.angle_dot = -0.0740039
+prevState.angle_double_dot = 0.13381
+prevState.x = 1.1336
+prevState.x_dot = 0.365389
+prevState.x_double_dot = 0.195723
+Rule 6 weight=0.103529 output=0
+F = 0.346707
+X=0.0014458 Y=1.79294 F=0.346707 angle=0.0383144 x=1.13433
+prevState.angle = 0.0383144
+prevState.angle_dot = -0.0737371
+prevState.angle_double_dot = 0.133361
+prevState.x = 1.13433
+prevState.x_dot = 0.365778
+prevState.x_double_dot = 0.194885
+Rule 6 weight=0.102931 output=0
+F = 0.345346
+X=0.00143176 Y=1.79414 F=0.345346 angle=0.0381674 x=1.13506
+prevState.angle = 0.0381674
+prevState.angle_dot = -0.0734713
+prevState.angle_double_dot = 0.13291
+prevState.x = 1.13506
+prevState.x_dot = 0.366167
+prevState.x_double_dot = 0.19405
+Rule 6 weight=0.102333 output=0
+F = 0.343989
+X=0.00141781 Y=1.79533 F=0.343989 angle=0.038021 x=1.1358
+prevState.angle = 0.038021
+prevState.angle_dot = -0.0732064
+prevState.angle_double_dot = 0.132462
+prevState.x = 1.1358
+prevState.x_dot = 0.366553
+prevState.x_double_dot = 0.193221
+Rule 6 weight=0.101735 output=0
+F = 0.342637
+X=0.00140394 Y=1.79653 F=0.342637 angle=0.0378751 x=1.13653
+prevState.angle = 0.0378751
+prevState.angle_dot = -0.0729424
+prevState.angle_double_dot = 0.132016
+prevState.x = 1.13653
+prevState.x_dot = 0.366938
+prevState.x_double_dot = 0.192393
+Rule 6 weight=0.101136 output=0
+F = 0.34129
+X=0.00139016 Y=1.79773 F=0.34129 angle=0.0377298 x=1.13727
+prevState.angle = 0.0377298
+prevState.angle_dot = -0.0726792
+prevState.angle_double_dot = 0.131571
+prevState.x = 1.13727
+prevState.x_dot = 0.367321
+prevState.x_double_dot = 0.191569
+Rule 6 weight=0.100536 output=0
+F = 0.339948
+X=0.00137645 Y=1.79893 F=0.339948 angle=0.0375849 x=1.138
+prevState.angle = 0.0375849
+prevState.angle_dot = -0.072417
+prevState.angle_double_dot = 0.131127
+prevState.x = 1.138
+prevState.x_dot = 0.367702
+prevState.x_double_dot = 0.190748
+Rule 6 weight=0.099937 output=0
+F = 0.338612
+X=0.00136282 Y=1.80013 F=0.338612 angle=0.0374406 x=1.13874
+prevState.angle = 0.0374406
+prevState.angle_dot = -0.0721556
+prevState.angle_double_dot = 0.130686
+prevState.x = 1.13874
+prevState.x_dot = 0.368082
+prevState.x_double_dot = 0.189931
+Rule 6 weight=0.0993369 output=0
+F = 0.337281
+X=0.00134928 Y=1.80133 F=0.337281 angle=0.0372968 x=1.13947
+prevState.angle = 0.0372968
+prevState.angle_dot = -0.0718951
+prevState.angle_double_dot = 0.130245
+prevState.x = 1.13947
+prevState.x_dot = 0.36846
+prevState.x_double_dot = 0.189116
+Rule 6 weight=0.0987366 output=0
+F = 0.335953
+X=0.00133581 Y=1.80253 F=0.335953 angle=0.0371536 x=1.14021
+prevState.angle = 0.0371536
+prevState.angle_dot = -0.0716355
+prevState.angle_double_dot = 0.129804
+prevState.x = 1.14021
+prevState.x_dot = 0.368837
+prevState.x_double_dot = 0.188306
+Rule 6 weight=0.0981359 output=0
+F = 0.334632
+X=0.00132243 Y=1.80373 F=0.334632 angle=0.0370108 x=1.14095
+prevState.angle = 0.0370108
+prevState.angle_dot = -0.0713768
+prevState.angle_double_dot = 0.129367
+prevState.x = 1.14095
+prevState.x_dot = 0.369212
+prevState.x_double_dot = 0.187499
+Rule 6 weight=0.0975348 output=0
+F = 0.333314
+X=0.00130912 Y=1.80493 F=0.333314 angle=0.0368686 x=1.14169
+prevState.angle = 0.0368686
+prevState.angle_dot = -0.0711189
+prevState.angle_double_dot = 0.12893
+prevState.x = 1.14169
+prevState.x_dot = 0.369585
+prevState.x_double_dot = 0.186693
+Rule 6 weight=0.0969334 output=0
+F = 0.332002
+X=0.00129589 Y=1.80613 F=0.332002 angle=0.0367268 x=1.14243
+prevState.angle = 0.0367268
+prevState.angle_dot = -0.0708619
+prevState.angle_double_dot = 0.128496
+prevState.x = 1.14243
+prevState.x_dot = 0.369957
+prevState.x_double_dot = 0.185892
+Rule 6 weight=0.0963317 output=0
+F = 0.330694
+X=0.00128274 Y=1.80734 F=0.330694 angle=0.0365856 x=1.14317
+prevState.angle = 0.0365856
+prevState.angle_dot = -0.0706058
+prevState.angle_double_dot = 0.128062
+prevState.x = 1.14317
+prevState.x_dot = 0.370327
+prevState.x_double_dot = 0.185093
+Rule 6 weight=0.0957296 output=0
+F = 0.329391
+X=0.00126966 Y=1.80854 F=0.329391 angle=0.0364449 x=1.14391
+prevState.angle = 0.0364449
+prevState.angle_dot = -0.0703505
+prevState.angle_double_dot = 0.127629
+prevState.x = 1.14391
+prevState.x_dot = 0.370696
+prevState.x_double_dot = 0.184297
+Rule 6 weight=0.0951271 output=0
+F = 0.328094
+X=0.00125667 Y=1.80975 F=0.328094 angle=0.0363047 x=1.14465
+prevState.angle = 0.0363047
+prevState.angle_dot = -0.0700961
+prevState.angle_double_dot = 0.127199
+prevState.x = 1.14465
+prevState.x_dot = 0.371063
+prevState.x_double_dot = 0.183505
+Rule 6 weight=0.0945243 output=0
+F = 0.326801
+X=0.00124376 Y=1.81095 F=0.326801 angle=0.0361651 x=1.1454
+prevState.angle = 0.0361651
+prevState.angle_dot = -0.0698426
+prevState.angle_double_dot = 0.126769
+prevState.x = 1.1454
+prevState.x_dot = 0.371428
+prevState.x_double_dot = 0.182716
+Rule 6 weight=0.0939211 output=0
+F = 0.325513
+X=0.00123091 Y=1.81216 F=0.325513 angle=0.0360259 x=1.14614
+prevState.angle = 0.0360259
+prevState.angle_dot = -0.0695899
+prevState.angle_double_dot = 0.126339
+prevState.x = 1.14614
+prevState.x_dot = 0.371792
+prevState.x_double_dot = 0.181931
+Rule 6 weight=0.0933175 output=0
+F = 0.324229
+X=0.00121815 Y=1.81336 F=0.324229 angle=0.0358872 x=1.14688
+prevState.angle = 0.0358872
+prevState.angle_dot = -0.0693381
+prevState.angle_double_dot = 0.125913
+prevState.x = 1.14688
+prevState.x_dot = 0.372155
+prevState.x_double_dot = 0.181149
+Rule 6 weight=0.0927137 output=0
+F = 0.322951
+X=0.00120546 Y=1.81457 F=0.322951 angle=0.035749 x=1.14763
+prevState.angle = 0.035749
+prevState.angle_dot = -0.0690871
+prevState.angle_double_dot = 0.125489
+prevState.x = 1.14763
+prevState.x_dot = 0.372515
+prevState.x_double_dot = 0.180369
+Rule 6 weight=0.0921094 output=0
+F = 0.321676
+X=0.00119285 Y=1.81578 F=0.321676 angle=0.0356114 x=1.14838
+prevState.angle = 0.0356114
+prevState.angle_dot = -0.068837
+prevState.angle_double_dot = 0.125064
+prevState.x = 1.14838
+prevState.x_dot = 0.372875
+prevState.x_double_dot = 0.179591
+Rule 6 weight=0.0915048 output=0
+F = 0.320407
+X=0.00118031 Y=1.81699 F=0.320407 angle=0.0354742 x=1.14912
+prevState.angle = 0.0354742
+prevState.angle_dot = -0.0685877
+prevState.angle_double_dot = 0.124642
+prevState.x = 1.14912
+prevState.x_dot = 0.373232
+prevState.x_double_dot = 0.178818
+Rule 6 weight=0.0908999 output=0
+F = 0.319143
+X=0.00116786 Y=1.8182 F=0.319143 angle=0.0353375 x=1.14987
+prevState.angle = 0.0353375
+prevState.angle_dot = -0.0683393
+prevState.angle_double_dot = 0.12422
+prevState.x = 1.14987
+prevState.x_dot = 0.373588
+prevState.x_double_dot = 0.178047
+Rule 6 weight=0.0902947 output=0
+F = 0.317883
+X=0.00115547 Y=1.81941 F=0.317883 angle=0.0352013 x=1.15062
+prevState.angle = 0.0352013
+prevState.angle_dot = -0.0680917
+prevState.angle_double_dot = 0.123799
+prevState.x = 1.15062
+prevState.x_dot = 0.373943
+prevState.x_double_dot = 0.17728
+Rule 6 weight=0.0896891 output=0
+F = 0.316628
+X=0.00114316 Y=1.82062 F=0.316628 angle=0.0350656 x=1.15137
+prevState.angle = 0.0350656
+prevState.angle_dot = -0.0678449
+prevState.angle_double_dot = 0.123379
+prevState.x = 1.15137
+prevState.x_dot = 0.374296
+prevState.x_double_dot = 0.176517
+Rule 6 weight=0.0890831 output=0
+F = 0.315377
+X=0.00113092 Y=1.82183 F=0.315377 angle=0.0349304 x=1.15211
+prevState.angle = 0.0349304
+prevState.angle_dot = -0.067599
+prevState.angle_double_dot = 0.122963
+prevState.x = 1.15211
+prevState.x_dot = 0.374647
+prevState.x_double_dot = 0.175757
+Rule 6 weight=0.0884769 output=0
+F = 0.314132
+X=0.00111876 Y=1.82305 F=0.314132 angle=0.0347957 x=1.15286
+prevState.angle = 0.0347957
+prevState.angle_dot = -0.0673539
+prevState.angle_double_dot = 0.122547
+prevState.x = 1.15286
+prevState.x_dot = 0.374997
+prevState.x_double_dot = 0.174998
+Rule 6 weight=0.0878704 output=0
+F = 0.31289
+X=0.00110668 Y=1.82426 F=0.31289 angle=0.0346615 x=1.15362
+prevState.angle = 0.0346615
+prevState.angle_dot = -0.0671097
+prevState.angle_double_dot = 0.122131
+prevState.x = 1.15362
+prevState.x_dot = 0.375346
+prevState.x_double_dot = 0.174243
+Rule 6 weight=0.0872634 output=0
+F = 0.311653
+X=0.00109466 Y=1.82547 F=0.311653 angle=0.0345278 x=1.15437
+prevState.angle = 0.0345278
+prevState.angle_dot = -0.0668662
+prevState.angle_double_dot = 0.121718
+prevState.x = 1.15437
+prevState.x_dot = 0.375693
+prevState.x_double_dot = 0.173491
+Rule 6 weight=0.0866562 output=0
+F = 0.310421
+X=0.00108272 Y=1.82669 F=0.310421 angle=0.0343945 x=1.15512
+prevState.angle = 0.0343945
+prevState.angle_dot = -0.0666236
+prevState.angle_double_dot = 0.121307
+prevState.x = 1.15512
+prevState.x_dot = 0.376038
+prevState.x_double_dot = 0.172741
+Rule 6 weight=0.0860485 output=0
+F = 0.309195
+X=0.00107085 Y=1.8279 F=0.309195 angle=0.0342618 x=1.15587
+prevState.angle = 0.0342618
+prevState.angle_dot = -0.0663818
+prevState.angle_double_dot = 0.120895
+prevState.x = 1.15587
+prevState.x_dot = 0.376382
+prevState.x_double_dot = 0.171994
+Rule 6 weight=0.0854407 output=0
+F = 0.307972
+X=0.00105906 Y=1.82912 F=0.307972 angle=0.0341295 x=1.15662
+prevState.angle = 0.0341295
+prevState.angle_dot = -0.0661408
+prevState.angle_double_dot = 0.120483
+prevState.x = 1.15662
+prevState.x_dot = 0.376725
+prevState.x_double_dot = 0.171253
+Rule 6 weight=0.0848325 output=0
+F = 0.306753
+X=0.00104733 Y=1.83033 F=0.306753 angle=0.0339977 x=1.15738
+prevState.angle = 0.0339977
+prevState.angle_dot = -0.0659007
+prevState.angle_double_dot = 0.120075
+prevState.x = 1.15738
+prevState.x_dot = 0.377066
+prevState.x_double_dot = 0.170515
+Rule 6 weight=0.084224 output=0
+F = 0.305538
+X=0.00103568 Y=1.83155 F=0.305538 angle=0.0338664 x=1.15813
+prevState.angle = 0.0338664
+prevState.angle_dot = -0.0656614
+prevState.angle_double_dot = 0.119668
+prevState.x = 1.15813
+prevState.x_dot = 0.377405
+prevState.x_double_dot = 0.169777
+Rule 6 weight=0.0836151 output=0
+F = 0.304329
+X=0.00102409 Y=1.83277 F=0.304329 angle=0.0337355 x=1.15889
+prevState.angle = 0.0337355
+prevState.angle_dot = -0.0654228
+prevState.angle_double_dot = 0.119264
+prevState.x = 1.15889
+prevState.x_dot = 0.377743
+prevState.x_double_dot = 0.169042
+Rule 6 weight=0.083006 output=0
+F = 0.303124
+X=0.00101258 Y=1.83399 F=0.303124 angle=0.0336051 x=1.15965
+prevState.angle = 0.0336051
+prevState.angle_dot = -0.0651851
+prevState.angle_double_dot = 0.11886
+prevState.x = 1.15965
+prevState.x_dot = 0.37808
+prevState.x_double_dot = 0.168309
+Rule 6 weight=0.0823964 output=0
+F = 0.301924
+X=0.00100114 Y=1.83521 F=0.301924 angle=0.0334752 x=1.1604
+prevState.angle = 0.0334752
+prevState.angle_dot = -0.0649482
+prevState.angle_double_dot = 0.118457
+prevState.x = 1.1604
+prevState.x_dot = 0.378415
+prevState.x_double_dot = 0.167581
+Rule 6 weight=0.0817866 output=0
+F = 0.300728
+X=0.000989772 Y=1.83643 F=0.300728 angle=0.0333458 x=1.16116
+prevState.angle = 0.0333458
+prevState.angle_dot = -0.0647121
+prevState.angle_double_dot = 0.118055
+prevState.x = 1.16116
+prevState.x_dot = 0.378749
+prevState.x_double_dot = 0.166854
+Rule 6 weight=0.0811764 output=0
+F = 0.299536
+X=0.000978474 Y=1.83765 F=0.299536 angle=0.0332169 x=1.16192
+prevState.angle = 0.0332169
+prevState.angle_dot = -0.0644768
+prevState.angle_double_dot = 0.117655
+prevState.x = 1.16192
+prevState.x_dot = 0.379081
+prevState.x_double_dot = 0.166132
+Rule 6 weight=0.080566 output=0
+F = 0.298349
+X=0.000967242 Y=1.83887 F=0.298349 angle=0.0330884 x=1.16268
+prevState.angle = 0.0330884
+prevState.angle_dot = -0.0642423
+prevState.angle_double_dot = 0.117255
+prevState.x = 1.16268
+prevState.x_dot = 0.379412
+prevState.x_double_dot = 0.165412
+Rule 6 weight=0.0799552 output=0
+F = 0.297167
+X=0.000956085 Y=1.84009 F=0.297167 angle=0.0329604 x=1.16344
+prevState.angle = 0.0329604
+prevState.angle_dot = -0.0640085
+prevState.angle_double_dot = 0.116858
+prevState.x = 1.16344
+prevState.x_dot = 0.379741
+prevState.x_double_dot = 0.164696
+Rule 6 weight=0.0793441 output=0
+F = 0.295989
+X=0.000944994 Y=1.84131 F=0.295989 angle=0.0328328 x=1.1642
+prevState.angle = 0.0328328
+prevState.angle_dot = -0.0637756
+prevState.angle_double_dot = 0.116459
+prevState.x = 1.1642
+prevState.x_dot = 0.380069
+prevState.x_double_dot = 0.163981
+Rule 6 weight=0.0787326 output=0
+F = 0.294814
+X=0.000933968 Y=1.84253 F=0.294814 angle=0.0327057 x=1.16496
+prevState.angle = 0.0327057
+prevState.angle_dot = -0.0635435
+prevState.angle_double_dot = 0.116063
+prevState.x = 1.16496
+prevState.x_dot = 0.380396
+prevState.x_double_dot = 0.163273
+Rule 6 weight=0.0781209 output=0
+F = 0.293645
+X=0.000923015 Y=1.84376 F=0.293645 angle=0.0325791 x=1.16572
+prevState.angle = 0.0325791
+prevState.angle_dot = -0.0633122
+prevState.angle_double_dot = 0.11567
+prevState.x = 1.16572
+prevState.x_dot = 0.380721
+prevState.x_double_dot = 0.162564
+Rule 6 weight=0.0775089 output=0
+F = 0.29248
+X=0.000912126 Y=1.84498 F=0.29248 angle=0.0324529 x=1.16648
+prevState.angle = 0.0324529
+prevState.angle_dot = -0.0630816
+prevState.angle_double_dot = 0.115277
+prevState.x = 1.16648
+prevState.x_dot = 0.381045
+prevState.x_double_dot = 0.161857
+Rule 6 weight=0.0768966 output=0
+F = 0.29132
+X=0.000901312 Y=1.84621 F=0.29132 angle=0.0323272 x=1.16724
+prevState.angle = 0.0323272
+prevState.angle_dot = -0.0628518
+prevState.angle_double_dot = 0.114886
+prevState.x = 1.16724
+prevState.x_dot = 0.381367
+prevState.x_double_dot = 0.161155
+Rule 6 weight=0.0762839 output=0
+F = 0.290163
+X=0.00089056 Y=1.84743 F=0.290163 angle=0.032202 x=1.16801
+prevState.angle = 0.032202
+prevState.angle_dot = -0.0626229
+prevState.angle_double_dot = 0.114494
+prevState.x = 1.16801
+prevState.x_dot = 0.381688
+prevState.x_double_dot = 0.160455
+Rule 6 weight=0.075671 output=0
+F = 0.289011
+X=0.000879874 Y=1.84866 F=0.289011 angle=0.0320772 x=1.16877
+prevState.angle = 0.0320772
+prevState.angle_dot = -0.0623946
+prevState.angle_double_dot = 0.114104
+prevState.x = 1.16877
+prevState.x_dot = 0.382008
+prevState.x_double_dot = 0.159759
+Rule 6 weight=0.0750577 output=0
+F = 0.287863
+X=0.000869257 Y=1.84988 F=0.287863 angle=0.0319529 x=1.16954
+prevState.angle = 0.0319529
+prevState.angle_dot = -0.0621672
+prevState.angle_double_dot = 0.113718
+prevState.x = 1.16954
+prevState.x_dot = 0.382326
+prevState.x_double_dot = 0.159065
+Rule 6 weight=0.0744442 output=0
+F = 0.286719
+X=0.000858707 Y=1.85111 F=0.286719 angle=0.031829 x=1.1703
+prevState.angle = 0.031829
+prevState.angle_dot = -0.0619405
+prevState.angle_double_dot = 0.113331
+prevState.x = 1.1703
+prevState.x_dot = 0.382642
+prevState.x_double_dot = 0.158372
+Rule 6 weight=0.0738303 output=0
+F = 0.28558
+X=0.000848223 Y=1.85234 F=0.28558 angle=0.0317056 x=1.17107
+prevState.angle = 0.0317056
+prevState.angle_dot = -0.0617147
+prevState.angle_double_dot = 0.112945
+prevState.x = 1.17107
+prevState.x_dot = 0.382958
+prevState.x_double_dot = 0.157683
+Rule 6 weight=0.0732161 output=0
+F = 0.284445
+X=0.000837805 Y=1.85357 F=0.284445 angle=0.0315826 x=1.17183
+prevState.angle = 0.0315826
+prevState.angle_dot = -0.0614895
+prevState.angle_double_dot = 0.112561
+prevState.x = 1.17183
+prevState.x_dot = 0.383272
+prevState.x_double_dot = 0.156998
+Rule 6 weight=0.0726017 output=0
+F = 0.283315
+X=0.000827454 Y=1.8548 F=0.283315 angle=0.03146 x=1.1726
+prevState.angle = 0.03146
+prevState.angle_dot = -0.0612652
+prevState.angle_double_dot = 0.112178
+prevState.x = 1.1726
+prevState.x_dot = 0.383584
+prevState.x_double_dot = 0.156314
+Rule 6 weight=0.0719869 output=0
+F = 0.282188
+X=0.000817167 Y=1.85603 F=0.282188 angle=0.031338 x=1.17337
+prevState.angle = 0.031338
+prevState.angle_dot = -0.0610416
+prevState.angle_double_dot = 0.111795
+prevState.x = 1.17337
+prevState.x_dot = 0.383896
+prevState.x_double_dot = 0.155635
+Rule 6 weight=0.0713719 output=0
+F = 0.281065
+X=0.000806943 Y=1.85726 F=0.281065 angle=0.0312163 x=1.17414
+prevState.angle = 0.0312163
+prevState.angle_dot = -0.0608188
+prevState.angle_double_dot = 0.111414
+prevState.x = 1.17414
+prevState.x_dot = 0.384206
+prevState.x_double_dot = 0.154958
+Rule 6 weight=0.0707566 output=0
+F = 0.279947
+X=0.000796786 Y=1.85849 F=0.279947 angle=0.0310951 x=1.17491
+prevState.angle = 0.0310951
+prevState.angle_dot = -0.0605967
+prevState.angle_double_dot = 0.111036
+prevState.x = 1.17491
+prevState.x_dot = 0.384514
+prevState.x_double_dot = 0.154283
+Rule 6 weight=0.070141 output=0
+F = 0.278832
+X=0.00078669 Y=1.85972 F=0.278832 angle=0.0309744 x=1.17568
+prevState.angle = 0.0309744
+prevState.angle_dot = -0.0603754
+prevState.angle_double_dot = 0.110657
+prevState.x = 1.17568
+prevState.x_dot = 0.384821
+prevState.x_double_dot = 0.15361
+Rule 6 weight=0.0695251 output=0
+F = 0.277723
+X=0.000776662 Y=1.86095 F=0.277723 angle=0.0308541 x=1.17645
+prevState.angle = 0.0308541
+prevState.angle_dot = -0.0601548
+prevState.angle_double_dot = 0.110282
+prevState.x = 1.17645
+prevState.x_dot = 0.385127
+prevState.x_double_dot = 0.15294
+Rule 6 weight=0.0689089 output=0
+F = 0.276617
+X=0.000766696 Y=1.86218 F=0.276617 angle=0.0307342 x=1.17722
+prevState.angle = 0.0307342
+prevState.angle_dot = -0.059935
+prevState.angle_double_dot = 0.109906
+prevState.x = 1.17722
+prevState.x_dot = 0.385432
+prevState.x_double_dot = 0.152272
+Rule 6 weight=0.0682923 output=0
+F = 0.275516
+X=0.000756795 Y=1.86342 F=0.275516 angle=0.0306148 x=1.17799
+prevState.angle = 0.0306148
+prevState.angle_dot = -0.0597159
+prevState.angle_double_dot = 0.109531
+prevState.x = 1.17799
+prevState.x_dot = 0.385735
+prevState.x_double_dot = 0.151608
+Rule 6 weight=0.0676755 output=0
+F = 0.274418
+X=0.000746956 Y=1.86465 F=0.274418 angle=0.0304958 x=1.17876
+prevState.angle = 0.0304958
+prevState.angle_dot = -0.0594976
+prevState.angle_double_dot = 0.109157
+prevState.x = 1.17876
+prevState.x_dot = 0.386037
+prevState.x_double_dot = 0.150947
+Rule 6 weight=0.0670584 output=0
+F = 0.273325
+X=0.000737181 Y=1.86588 F=0.273325 angle=0.0303772 x=1.17953
+prevState.angle = 0.0303772
+prevState.angle_dot = -0.0592801
+prevState.angle_double_dot = 0.108784
+prevState.x = 1.17953
+prevState.x_dot = 0.386338
+prevState.x_double_dot = 0.150289
+Rule 6 weight=0.0664411 output=0
+F = 0.272236
+X=0.000727467 Y=1.86712 F=0.272236 angle=0.0302591 x=1.18031
+prevState.angle = 0.0302591
+prevState.angle_dot = -0.0590632
+prevState.angle_double_dot = 0.108413
+prevState.x = 1.18031
+prevState.x_dot = 0.386637
+prevState.x_double_dot = 0.149633
+Rule 6 weight=0.0658234 output=0
+F = 0.271151
+X=0.000717815 Y=1.86835 F=0.271151 angle=0.0301414 x=1.18108
+prevState.angle = 0.0301414
+prevState.angle_dot = -0.0588471
+prevState.angle_double_dot = 0.108043
+prevState.x = 1.18108
+prevState.x_dot = 0.386935
+prevState.x_double_dot = 0.14898
+Rule 6 weight=0.0652054 output=0
+F = 0.27007
+X=0.000708226 Y=1.86959 F=0.27007 angle=0.0300241 x=1.18185
+prevState.angle = 0.0300241
+prevState.angle_dot = -0.0586318
+prevState.angle_double_dot = 0.107675
+prevState.x = 1.18185
+prevState.x_dot = 0.387231
+prevState.x_double_dot = 0.148329
+Rule 6 weight=0.0645871 output=0
+F = 0.268993
+X=0.000698699 Y=1.87083 F=0.268993 angle=0.0299073 x=1.18263
+prevState.angle = 0.0299073
+prevState.angle_dot = -0.0584172
+prevState.angle_double_dot = 0.107306
+prevState.x = 1.18263
+prevState.x_dot = 0.387527
+prevState.x_double_dot = 0.147681
+Rule 6 weight=0.0639686 output=0
+F = 0.26792
+X=0.000689233 Y=1.87206 F=0.26792 angle=0.0297909 x=1.18341
+prevState.angle = 0.0297909
+prevState.angle_dot = -0.0582033
+prevState.angle_double_dot = 0.10694
+prevState.x = 1.18341
+prevState.x_dot = 0.387821
+prevState.x_double_dot = 0.147036
+Rule 6 weight=0.0633499 output=0
+F = 0.266851
+X=0.000679828 Y=1.8733 F=0.266851 angle=0.0296749 x=1.18418
+prevState.angle = 0.0296749
+prevState.angle_dot = -0.0579902
+prevState.angle_double_dot = 0.106574
+prevState.x = 1.18418
+prevState.x_dot = 0.388114
+prevState.x_double_dot = 0.146394
+Rule 6 weight=0.0627308 output=0
+F = 0.265786
+X=0.000670483 Y=1.87454 F=0.265786 angle=0.0295594 x=1.18496
+prevState.angle = 0.0295594
+prevState.angle_dot = -0.0577777
+prevState.angle_double_dot = 0.10621
+prevState.x = 1.18496
+prevState.x_dot = 0.388405
+prevState.x_double_dot = 0.145754
+Rule 6 weight=0.0621116 output=0
+F = 0.264725
+X=0.0006612 Y=1.87578 F=0.264725 angle=0.0294442 x=1.18574
+prevState.angle = 0.0294442
+prevState.angle_dot = -0.057566
+prevState.angle_double_dot = 0.105848
+prevState.x = 1.18574
+prevState.x_dot = 0.388695
+prevState.x_double_dot = 0.145115
+Rule 6 weight=0.061492 output=0
+F = 0.263668
+X=0.000651976 Y=1.87702 F=0.263668 angle=0.0293295 x=1.18651
+prevState.angle = 0.0293295
+prevState.angle_dot = -0.0573551
+prevState.angle_double_dot = 0.105486
+prevState.x = 1.18651
+prevState.x_dot = 0.388984
+prevState.x_double_dot = 0.14448
+Rule 6 weight=0.0608721 output=0
+F = 0.262615
+X=0.000642812 Y=1.87826 F=0.262615 angle=0.0292152 x=1.18729
+prevState.angle = 0.0292152
+prevState.angle_dot = -0.0571448
+prevState.angle_double_dot = 0.105127
+prevState.x = 1.18729
+prevState.x_dot = 0.389272
+prevState.x_double_dot = 0.143847
+Rule 6 weight=0.060252 output=0
+F = 0.261565
+X=0.000633707 Y=1.8795 F=0.261565 angle=0.0291013 x=1.18807
+prevState.angle = 0.0291013
+prevState.angle_dot = -0.0569353
+prevState.angle_double_dot = 0.104767
+prevState.x = 1.18807
+prevState.x_dot = 0.389558
+prevState.x_double_dot = 0.143216
+Rule 6 weight=0.0596316 output=0
+F = 0.26052
+X=0.000624664 Y=1.88074 F=0.26052 angle=0.0289879 x=1.18885
+prevState.angle = 0.0289879
+prevState.angle_dot = -0.0567265
+prevState.angle_double_dot = 0.10441
+prevState.x = 1.18885
+prevState.x_dot = 0.389844
+prevState.x_double_dot = 0.142588
+Rule 6 weight=0.0590109 output=0
+F = 0.259479
+X=0.000615679 Y=1.88198 F=0.259479 angle=0.0288749 x=1.18963
+prevState.angle = 0.0288749
+prevState.angle_dot = -0.0565184
+prevState.angle_double_dot = 0.104052
+prevState.x = 1.18963
+prevState.x_dot = 0.390128
+prevState.x_double_dot = 0.141963
+Rule 6 weight=0.0583899 output=0
+F = 0.258442
+X=0.000606753 Y=1.88322 F=0.258442 angle=0.0287622 x=1.19041
+prevState.angle = 0.0287622
+prevState.angle_dot = -0.056311
+prevState.angle_double_dot = 0.103696
+prevState.x = 1.19041
+prevState.x_dot = 0.39041
+prevState.x_double_dot = 0.141341
+Rule 6 weight=0.0577687 output=0
+F = 0.257408
+X=0.000597883 Y=1.88446 F=0.257408 angle=0.02865 x=1.19119
+prevState.angle = 0.02865
+prevState.angle_dot = -0.0561043
+prevState.angle_double_dot = 0.10334
+prevState.x = 1.19119
+prevState.x_dot = 0.390692
+prevState.x_double_dot = 0.140721
+Rule 6 weight=0.0571473 output=0
+F = 0.256379
+X=0.000589075 Y=1.88571 F=0.256379 angle=0.0285382 x=1.19197
+prevState.angle = 0.0285382
+prevState.angle_dot = -0.0558983
+prevState.angle_double_dot = 0.102988
+prevState.x = 1.19197
+prevState.x_dot = 0.390972
+prevState.x_double_dot = 0.140104
+Rule 6 weight=0.0565256 output=0
+F = 0.255353
+X=0.000580324 Y=1.88695 F=0.255353 angle=0.0284268 x=1.19276
+prevState.angle = 0.0284268
+prevState.angle_dot = -0.055693
+prevState.angle_double_dot = 0.102635
+prevState.x = 1.19276
+prevState.x_dot = 0.391251
+prevState.x_double_dot = 0.139488
+Rule 6 weight=0.0559035 output=0
+F = 0.254333
+X=0.000571631 Y=1.88819 F=0.254333 angle=0.0283159 x=1.19354
+prevState.angle = 0.0283159
+prevState.angle_dot = -0.0554885
+prevState.angle_double_dot = 0.102283
+prevState.x = 1.19354
+prevState.x_dot = 0.391529
+prevState.x_double_dot = 0.138877
+Rule 6 weight=0.0552812 output=0
+F = 0.253315
+X=0.000562994 Y=1.88944 F=0.253315 angle=0.0282053 x=1.19432
+prevState.angle = 0.0282053
+prevState.angle_dot = -0.0552846
+prevState.angle_double_dot = 0.10193
+prevState.x = 1.19432
+prevState.x_dot = 0.391805
+prevState.x_double_dot = 0.138268
+Rule 6 weight=0.0546588 output=0
+F = 0.252299
+X=0.000554413 Y=1.89068 F=0.252299 angle=0.0280951 x=1.19511
+prevState.angle = 0.0280951
+prevState.angle_dot = -0.0550814
+prevState.angle_double_dot = 0.101581
+prevState.x = 1.19511
+prevState.x_dot = 0.39208
+prevState.x_double_dot = 0.137663
+Rule 6 weight=0.0540359 output=0
+F = 0.251289
+X=0.000545889 Y=1.89193 F=0.251289 angle=0.0279854 x=1.19589
+prevState.angle = 0.0279854
+prevState.angle_dot = -0.054879
+prevState.angle_double_dot = 0.101235
+prevState.x = 1.19589
+prevState.x_dot = 0.392355
+prevState.x_double_dot = 0.137057
+Rule 6 weight=0.0534128 output=0
+F = 0.250283
+X=0.000537423 Y=1.89317 F=0.250283 angle=0.027876 x=1.19668
+prevState.angle = 0.027876
+prevState.angle_dot = -0.0546772
+prevState.angle_double_dot = 0.100888
+prevState.x = 1.19668
+prevState.x_dot = 0.392627
+prevState.x_double_dot = 0.136453
+Rule 6 weight=0.0527895 output=0
+F = 0.249281
+X=0.000529014 Y=1.89442 F=0.249281 angle=0.0277671 x=1.19746
+prevState.angle = 0.0277671
+prevState.angle_dot = -0.0544761
+prevState.angle_double_dot = 0.100541
+prevState.x = 1.19746
+prevState.x_dot = 0.392899
+prevState.x_double_dot = 0.135853
+Rule 6 weight=0.0521659 output=0
+F = 0.248281
+X=0.000520658 Y=1.89567 F=0.248281 angle=0.0276585 x=1.19825
+prevState.angle = 0.0276585
+prevState.angle_dot = -0.0542757
+prevState.angle_double_dot = 0.100196
+prevState.x = 1.19825
+prevState.x_dot = 0.39317
+prevState.x_double_dot = 0.135257
+Rule 6 weight=0.0515422 output=0
+F = 0.247286
+X=0.00051236 Y=1.89692 F=0.247286 angle=0.0275504 x=1.19904
+prevState.angle = 0.0275504
+prevState.angle_dot = -0.054076
+prevState.angle_double_dot = 0.0998539
+prevState.x = 1.19904
+prevState.x_dot = 0.393439
+prevState.x_double_dot = 0.134661
+Rule 6 weight=0.0509181 output=0
+F = 0.246295
+X=0.000504117 Y=1.89816 F=0.246295 angle=0.0274426 x=1.19982
+prevState.angle = 0.0274426
+prevState.angle_dot = -0.053877
+prevState.angle_double_dot = 0.0995115
+prevState.x = 1.19982
+prevState.x_dot = 0.393707
+prevState.x_double_dot = 0.134067
+Rule 6 weight=0.0502937 output=0
+F = 0.245307
+X=0.000495929 Y=1.89941 F=0.245307 angle=0.0273353 x=1.20061
+prevState.angle = 0.0273353
+prevState.angle_dot = -0.0536787
+prevState.angle_double_dot = 0.0991693
+prevState.x = 1.20061
+prevState.x_dot = 0.393974
+prevState.x_double_dot = 0.133477
+Rule 6 weight=0.0496692 output=0
+F = 0.244322
+X=0.000487795 Y=1.90066 F=0.244322 angle=0.0272283 x=1.2014
+prevState.angle = 0.0272283
+prevState.angle_dot = -0.053481
+prevState.angle_double_dot = 0.0988284
+prevState.x = 1.2014
+prevState.x_dot = 0.39424
+prevState.x_double_dot = 0.13289
+Rule 6 weight=0.0490443 output=0
+F = 0.243343
+X=0.000479719 Y=1.90191 F=0.243343 angle=0.0271217 x=1.20219
+prevState.angle = 0.0271217
+prevState.angle_dot = -0.053284
+prevState.angle_double_dot = 0.0984913
+prevState.x = 1.20219
+prevState.x_dot = 0.394504
+prevState.x_double_dot = 0.132304
+Rule 6 weight=0.0484192 output=0
+F = 0.242365
+X=0.000471693 Y=1.90316 F=0.242365 angle=0.0270156 x=1.20298
+prevState.angle = 0.0270156
+prevState.angle_dot = -0.0530877
+prevState.angle_double_dot = 0.0981505
+prevState.x = 1.20298
+prevState.x_dot = 0.394768
+prevState.x_double_dot = 0.13172
+Rule 6 weight=0.0477939 output=0
+F = 0.241394
+X=0.000463724 Y=1.90441 F=0.241394 angle=0.0269098 x=1.20377
+prevState.angle = 0.0269098
+prevState.angle_dot = -0.0528921
+prevState.angle_double_dot = 0.0978156
+prevState.x = 1.20377
+prevState.x_dot = 0.39503
+prevState.x_double_dot = 0.131141
+Rule 6 weight=0.0471683 output=0
+F = 0.240424
+X=0.000455808 Y=1.90566 F=0.240424 angle=0.0268044 x=1.20456
+prevState.angle = 0.0268044
+prevState.angle_dot = -0.0526971
+prevState.angle_double_dot = 0.0974776
+prevState.x = 1.20456
+prevState.x_dot = 0.395291
+prevState.x_double_dot = 0.130561
+Rule 6 weight=0.0465425 output=0
+F = 0.239458
+X=0.000447944 Y=1.90692 F=0.239458 angle=0.0266994 x=1.20535
+prevState.angle = 0.0266994
+prevState.angle_dot = -0.0525028
+prevState.angle_double_dot = 0.0971425
+prevState.x = 1.20535
+prevState.x_dot = 0.395551
+prevState.x_double_dot = 0.129987
+Rule 6 weight=0.0459164 output=0
+F = 0.238497
+X=0.000440136 Y=1.90817 F=0.238497 angle=0.0265947 x=1.20614
+prevState.angle = 0.0265947
+prevState.angle_dot = -0.0523092
+prevState.angle_double_dot = 0.0968106
+prevState.x = 1.20614
+prevState.x_dot = 0.39581
+prevState.x_double_dot = 0.129412
+Rule 6 weight=0.0452901 output=0
+F = 0.237538
+X=0.00043238 Y=1.90942 F=0.237538 angle=0.0264905 x=1.20694
+prevState.angle = 0.0264905
+prevState.angle_dot = -0.0521163
+prevState.angle_double_dot = 0.0964764
+prevState.x = 1.20694
+prevState.x_dot = 0.396068
+prevState.x_double_dot = 0.12884
+Rule 6 weight=0.0446635 output=0
+F = 0.236583
+X=0.000424676 Y=1.91067 F=0.236583 angle=0.0263867 x=1.20773
+prevState.angle = 0.0263867
+prevState.angle_dot = -0.051924
+prevState.angle_double_dot = 0.096145
+prevState.x = 1.20773
+prevState.x_dot = 0.396324
+prevState.x_double_dot = 0.128272
+Rule 6 weight=0.0440367 output=0
+F = 0.235633
+X=0.000417026 Y=1.91193 F=0.235633 angle=0.0262832 x=1.20852
+prevState.angle = 0.0262832
+prevState.angle_dot = -0.0517324
+prevState.angle_double_dot = 0.0958147
+prevState.x = 1.20852
+prevState.x_dot = 0.39658
+prevState.x_double_dot = 0.127705
+Rule 6 weight=0.0434096 output=0
+F = 0.234685
+X=0.000409426 Y=1.91318 F=0.234685 angle=0.0261801 x=1.20931
+prevState.angle = 0.0261801
+prevState.angle_dot = -0.0515414
+prevState.angle_double_dot = 0.0954831
+prevState.x = 1.20931
+prevState.x_dot = 0.396834
+prevState.x_double_dot = 0.127141
+Rule 6 weight=0.0427824 output=0
+F = 0.233741
+X=0.000401879 Y=1.91444 F=0.233741 angle=0.0260774 x=1.21011
+prevState.angle = 0.0260774
+prevState.angle_dot = -0.0513511
+prevState.angle_double_dot = 0.0951555
+prevState.x = 1.21011
+prevState.x_dot = 0.397087
+prevState.x_double_dot = 0.12658
+Rule 6 weight=0.0421548 output=0
+F = 0.232802
+X=0.000394385 Y=1.91569 F=0.232802 angle=0.0259751 x=1.2109
+prevState.angle = 0.0259751
+prevState.angle_dot = -0.0511614
+prevState.angle_double_dot = 0.0948287
+prevState.x = 1.2109
+prevState.x_dot = 0.397339
+prevState.x_double_dot = 0.126019
+Rule 6 weight=0.0415272 output=0
+F = 0.231865
+X=0.000386942 Y=1.91695 F=0.231865 angle=0.0258732 x=1.2117
+prevState.angle = 0.0258732
+prevState.angle_dot = -0.0509724
+prevState.angle_double_dot = 0.0945005
+prevState.x = 1.2117
+prevState.x_dot = 0.39759
+prevState.x_double_dot = 0.125462
+Rule 6 weight=0.0408991 output=0
+F = 0.230932
+X=0.000379549 Y=1.9182 F=0.230932 angle=0.0257716 x=1.21249
+prevState.angle = 0.0257716
+prevState.angle_dot = -0.0507841
+prevState.angle_double_dot = 0.094175
+prevState.x = 1.21249
+prevState.x_dot = 0.39784
+prevState.x_double_dot = 0.124909
+Rule 6 weight=0.0402709 output=0
+F = 0.230002
+X=0.000372209 Y=1.91946 F=0.230002 angle=0.0256704 x=1.21329
+prevState.angle = 0.0256704
+prevState.angle_dot = -0.0505964
+prevState.angle_double_dot = 0.0938505
+prevState.x = 1.21329
+prevState.x_dot = 0.398089
+prevState.x_double_dot = 0.124356
+Rule 6 weight=0.0396425 output=0
+F = 0.229075
+X=0.000364916 Y=1.92072 F=0.229075 angle=0.0255696 x=1.21409
+prevState.angle = 0.0255696
+prevState.angle_dot = -0.0504093
+prevState.angle_double_dot = 0.0935268
+prevState.x = 1.21409
+prevState.x_dot = 0.398336
+prevState.x_double_dot = 0.123806
+Rule 6 weight=0.0390137 output=0
+F = 0.228154
+X=0.000357678 Y=1.92197 F=0.228154 angle=0.0254691 x=1.21488
+prevState.angle = 0.0254691
+prevState.angle_dot = -0.0502229
+prevState.angle_double_dot = 0.0932062
+prevState.x = 1.21488
+prevState.x_dot = 0.398583
+prevState.x_double_dot = 0.123257
+Rule 6 weight=0.0383849 output=0
+F = 0.227234
+X=0.000350486 Y=1.92323 F=0.227234 angle=0.0253691 x=1.21568
+prevState.angle = 0.0253691
+prevState.angle_dot = -0.0500371
+prevState.angle_double_dot = 0.0928822
+prevState.x = 1.21568
+prevState.x_dot = 0.398828
+prevState.x_double_dot = 0.12271
+Rule 6 weight=0.0377557 output=0
+F = 0.226319
+X=0.000343347 Y=1.92449 F=0.226319 angle=0.0252694 x=1.21648
+prevState.angle = 0.0252694
+prevState.angle_dot = -0.049852
+prevState.angle_double_dot = 0.0925643
+prevState.x = 1.21648
+prevState.x_dot = 0.399073
+prevState.x_double_dot = 0.122168
+Rule 6 weight=0.0371264 output=0
+F = 0.225405
+X=0.000336256 Y=1.92575 F=0.225405 angle=0.02517 x=1.21728
+prevState.angle = 0.02517
+prevState.angle_dot = -0.0496675
+prevState.angle_double_dot = 0.0922445
+prevState.x = 1.21728
+prevState.x_dot = 0.399316
+prevState.x_double_dot = 0.121624
+Rule 6 weight=0.0364968 output=0
+F = 0.224497
+X=0.000329215 Y=1.92701 F=0.224497 angle=0.025071 x=1.21808
+prevState.angle = 0.025071
+prevState.angle_dot = -0.0494837
+prevState.angle_double_dot = 0.091928
+prevState.x = 1.21808
+prevState.x_dot = 0.399558
+prevState.x_double_dot = 0.121085
+Rule 6 weight=0.035867 output=0
+F = 0.223593
+X=0.000322225 Y=1.92827 F=0.223593 angle=0.0249724 x=1.21888
+prevState.angle = 0.0249724
+prevState.angle_dot = -0.0493004
+prevState.angle_double_dot = 0.0916105
+prevState.x = 1.21888
+prevState.x_dot = 0.399799
+prevState.x_double_dot = 0.120546
+Rule 6 weight=0.0352368 output=0
+F = 0.222691
+X=0.000315281 Y=1.92953 F=0.222691 angle=0.0248742 x=1.21968
+prevState.angle = 0.0248742
+prevState.angle_dot = -0.0491179
+prevState.angle_double_dot = 0.0912925
+prevState.x = 1.21968
+prevState.x_dot = 0.400039
+prevState.x_double_dot = 0.120012
+Rule 6 weight=0.0346065 output=0
+F = 0.221791
+X=0.000308385 Y=1.93079 F=0.221791 angle=0.0247763 x=1.22048
+prevState.angle = 0.0247763
+prevState.angle_dot = -0.0489359
+prevState.angle_double_dot = 0.0909777
+prevState.x = 1.22048
+prevState.x_dot = 0.400278
+prevState.x_double_dot = 0.119481
+Rule 6 weight=0.033976 output=0
+F = 0.220897
+X=0.00030154 Y=1.93205 F=0.220897 angle=0.0246788 x=1.22128
+prevState.angle = 0.0246788
+prevState.angle_dot = -0.0487546
+prevState.angle_double_dot = 0.090665
+prevState.x = 1.22128
+prevState.x_dot = 0.400516
+prevState.x_double_dot = 0.11895
+Rule 6 weight=0.0333452 output=0
+F = 0.220007
+X=0.000294743 Y=1.93331 F=0.220007 angle=0.0245817 x=1.22208
+prevState.angle = 0.0245817
+prevState.angle_dot = -0.0485739
+prevState.angle_double_dot = 0.0903504
+prevState.x = 1.22208
+prevState.x_dot = 0.400753
+prevState.x_double_dot = 0.118421
+Rule 6 weight=0.0327142 output=0
+F = 0.219118
+X=0.000287993 Y=1.93457 F=0.219118 angle=0.0244849 x=1.22288
+prevState.angle = 0.0244849
+prevState.angle_dot = -0.0483938
+prevState.angle_double_dot = 0.0900362
+prevState.x = 1.22288
+prevState.x_dot = 0.400989
+prevState.x_double_dot = 0.117897
+Rule 6 weight=0.0320832 output=0
+F = 0.218232
+X=0.000281291 Y=1.93583 F=0.218232 angle=0.0243885 x=1.22369
+prevState.angle = 0.0243885
+prevState.angle_dot = -0.0482143
+prevState.angle_double_dot = 0.0897266
+prevState.x = 1.22369
+prevState.x_dot = 0.401223
+prevState.x_double_dot = 0.117374
+Rule 6 weight=0.0314518 output=0
+F = 0.217352
+X=0.000274638 Y=1.9371 F=0.217352 angle=0.0242924 x=1.22449
+prevState.angle = 0.0242924
+prevState.angle_dot = -0.0480355
+prevState.angle_double_dot = 0.0894172
+prevState.x = 1.22449
+prevState.x_dot = 0.401457
+prevState.x_double_dot = 0.11685
+Rule 6 weight=0.0308201 output=0
+F = 0.216474
+X=0.000268031 Y=1.93836 F=0.216474 angle=0.0241967 x=1.22529
+prevState.angle = 0.0241967
+prevState.angle_dot = -0.0478573
+prevState.angle_double_dot = 0.0891063
+prevState.x = 1.22529
+prevState.x_dot = 0.40169
+prevState.x_double_dot = 0.116331
+Rule 6 weight=0.0301883 output=0
+F = 0.215598
+X=0.000261469 Y=1.93962 F=0.215598 angle=0.0241013 x=1.2261
+prevState.angle = 0.0241013
+prevState.angle_dot = -0.0476797
+prevState.angle_double_dot = 0.0887972
+prevState.x = 1.2261
+prevState.x_dot = 0.401921
+prevState.x_double_dot = 0.115815
+Rule 6 weight=0.0295563 output=0
+F = 0.214726
+X=0.000254955 Y=1.94089 F=0.214726 angle=0.0240063 x=1.2269
+prevState.angle = 0.0240063
+prevState.angle_dot = -0.0475027
+prevState.angle_double_dot = 0.0884933
+prevState.x = 1.2269
+prevState.x_dot = 0.402152
+prevState.x_double_dot = 0.115299
+Rule 6 weight=0.028924 output=0
+F = 0.213859
+X=0.00024849 Y=1.94215 F=0.213859 angle=0.0239117 x=1.2277
+prevState.angle = 0.0239117
+prevState.angle_dot = -0.0473263
+prevState.angle_double_dot = 0.0881873
+prevState.x = 1.2277
+prevState.x_dot = 0.402382
+prevState.x_double_dot = 0.114783
+Rule 6 weight=0.0282915 output=0
+F = 0.212994
+X=0.000242068 Y=1.94342 F=0.212994 angle=0.0238174 x=1.22851
+prevState.angle = 0.0238174
+prevState.angle_dot = -0.0471506
+prevState.angle_double_dot = 0.0878796
+prevState.x = 1.22851
+prevState.x_dot = 0.40261
+prevState.x_double_dot = 0.114273
+Rule 6 weight=0.0276588 output=0
+F = 0.212133
+X=0.000235694 Y=1.94468 F=0.212133 angle=0.0237234 x=1.22932
+prevState.angle = 0.0237234
+prevState.angle_dot = -0.0469754
+prevState.angle_double_dot = 0.0875766
+prevState.x = 1.22932
+prevState.x_dot = 0.402838
+prevState.x_double_dot = 0.113765
+Rule 6 weight=0.0270259 output=0
+F = 0.211274
+X=0.000229364 Y=1.94595 F=0.211274 angle=0.0236298 x=1.23012
+prevState.angle = 0.0236298
+prevState.angle_dot = -0.0468009
+prevState.angle_double_dot = 0.0872726
+prevState.x = 1.23012
+prevState.x_dot = 0.403064
+prevState.x_double_dot = 0.113258
+Rule 6 weight=0.0263928 output=0
+F = 0.21042
+X=0.000223082 Y=1.94721 F=0.21042 angle=0.0235366 x=1.23093
+prevState.angle = 0.0235366
+prevState.angle_dot = -0.0466269
+prevState.angle_double_dot = 0.0869712
+prevState.x = 1.23093
+prevState.x_dot = 0.40329
+prevState.x_double_dot = 0.112753
+Rule 6 weight=0.0257595 output=0
+F = 0.209568
+X=0.000216844 Y=1.94848 F=0.209568 angle=0.0234436 x=1.23173
+prevState.angle = 0.0234436
+prevState.angle_dot = -0.0464536
+prevState.angle_double_dot = 0.0866685
+prevState.x = 1.23173
+prevState.x_dot = 0.403514
+prevState.x_double_dot = 0.11225
+Rule 6 weight=0.0251259 output=0
+F = 0.208718
+X=0.000210648 Y=1.94975 F=0.208718 angle=0.0233511 x=1.23254
+prevState.angle = 0.0233511
+prevState.angle_dot = -0.0462809
+prevState.angle_double_dot = 0.0863674
+prevState.x = 1.23254
+prevState.x_dot = 0.403738
+prevState.x_double_dot = 0.111751
+Rule 6 weight=0.0244921 output=0
+F = 0.207876
+X=0.000204504 Y=1.95102 F=0.207876 angle=0.0232589 x=1.23335
+prevState.angle = 0.0232589
+prevState.angle_dot = -0.0461087
+prevState.angle_double_dot = 0.0860722
+prevState.x = 1.23335
+prevState.x_dot = 0.40396
+prevState.x_double_dot = 0.111251
+Rule 6 weight=0.0238582 output=0
+F = 0.20703
+X=0.000198396 Y=1.95228 F=0.20703 angle=0.023167 x=1.23416
+prevState.angle = 0.023167
+prevState.angle_dot = -0.0459372
+prevState.angle_double_dot = 0.0857665
+prevState.x = 1.23416
+prevState.x_dot = 0.404182
+prevState.x_double_dot = 0.110754
+Rule 6 weight=0.0232241 output=0
+F = 0.206195
+X=0.00019234 Y=1.95355 F=0.206195 angle=0.0230755 x=1.23497
+prevState.angle = 0.0230755
+prevState.angle_dot = -0.0457662
+prevState.angle_double_dot = 0.0854773
+prevState.x = 1.23497
+prevState.x_dot = 0.404402
+prevState.x_double_dot = 0.110263
+Rule 6 weight=0.0225897 output=0
+F = 0.205355
+X=0.000186322 Y=1.95482 F=0.205355 angle=0.0229843 x=1.23578
+prevState.angle = 0.0229843
+prevState.angle_dot = -0.0455959
+prevState.angle_double_dot = 0.0851735
+prevState.x = 1.23578
+prevState.x_dot = 0.404622
+prevState.x_double_dot = 0.109766
+Rule 6 weight=0.0219551 output=0
+F = 0.204529
+X=0.000180356 Y=1.95609 F=0.204529 angle=0.0228934 x=1.23659
+prevState.angle = 0.0228934
+prevState.angle_dot = -0.0454261
+prevState.angle_double_dot = 0.0848857
+prevState.x = 1.23659
+prevState.x_dot = 0.40484
+prevState.x_double_dot = 0.109279
+Rule 6 weight=0.0213203 output=0
+F = 0.203692
+X=0.000174422 Y=1.95736 F=0.203692 angle=0.0228029 x=1.2374
+prevState.angle = 0.0228029
+prevState.angle_dot = -0.045257
+prevState.angle_double_dot = 0.084579
+prevState.x = 1.2374
+prevState.x_dot = 0.405058
+prevState.x_double_dot = 0.108789
+Rule 6 weight=0.0206854 output=0
+F = 0.202877
+X=0.000168547 Y=1.95863 F=0.202877 angle=0.0227127 x=1.23821
+prevState.angle = 0.0227127
+prevState.angle_dot = -0.0450884
+prevState.angle_double_dot = 0.0843011
+prevState.x = 1.23821
+prevState.x_dot = 0.405275
+prevState.x_double_dot = 0.108307
+Rule 6 weight=0.0200501 output=0
+F = 0.202038
+X=0.000162693 Y=1.9599 F=0.202038 angle=0.0226229 x=1.23902
+prevState.angle = 0.0226229
+prevState.angle_dot = -0.0449204
+prevState.angle_double_dot = 0.0839868
+prevState.x = 1.23902
+prevState.x_dot = 0.40549
+prevState.x_double_dot = 0.107818
+Rule 6 weight=0.0194147 output=0
+F = 0.201241
+X=0.000156913 Y=1.96117 F=0.201241 angle=0.0225334 x=1.23983
+prevState.angle = 0.0225334
+prevState.angle_dot = -0.0447529
+prevState.angle_double_dot = 0.0837264
+prevState.x = 1.23983
+prevState.x_dot = 0.405705
+prevState.x_double_dot = 0.107341
+Rule 6 weight=0.0187792 output=0
+F = 0.200389
+X=0.000151131 Y=1.96244 F=0.200389 angle=0.0224442 x=1.24064
+prevState.angle = 0.0224442
+prevState.angle_dot = -0.0445862
+prevState.angle_double_dot = 0.0833903
+prevState.x = 1.24064
+prevState.x_dot = 0.405919
+prevState.x_double_dot = 0.106853
+Rule 6 weight=0.0181434 output=0
+F = 0.199636
+X=0.000145463 Y=1.96371 F=0.199636 angle=0.0223554 x=1.24145
+prevState.angle = 0.0223554
+prevState.angle_dot = -0.0444198
+prevState.angle_double_dot = 0.0831704
+prevState.x = 1.24145
+prevState.x_dot = 0.406131
+prevState.x_double_dot = 0.106384
+Rule 6 weight=0.0175074 output=0
+F = 0.198716
+X=0.000139715 Y=1.96499 F=0.198716 angle=0.0222669 x=1.24227
+prevState.angle = 0.0222669
+prevState.angle_dot = -0.0442543
+prevState.angle_double_dot = 0.0827614
+prevState.x = 1.24227
+prevState.x_dot = 0.406343
+prevState.x_double_dot = 0.105898
+Rule 6 weight=0.0168712 output=0
+F = 0.198116
+X=0.00013423 Y=1.96626 F=0.198116 angle=0.0221787 x=1.24308
+prevState.angle = 0.0221787
+prevState.angle_dot = -0.0440889
+prevState.angle_double_dot = 0.0826917
+prevState.x = 1.24308
+prevState.x_dot = 0.406554
+prevState.x_double_dot = 0.105434
+Rule 6 weight=0.0162348 output=0
+F = 0.196898
+X=0.00012837 Y=1.96753 F=0.196898 angle=0.0220908 x=1.24389
+prevState.angle = 0.0220908
+prevState.angle_dot = -0.0439249
+prevState.angle_double_dot = 0.0819904
+prevState.x = 1.24389
+prevState.x_dot = 0.406764
+prevState.x_double_dot = 0.104952
+Rule 6 weight=0.0155982 output=0
+F = 0.196967
+X=0.00012338 Y=1.9688 F=0.196967 angle=0.0220033 x=1.24471
+prevState.angle = 0.0220033
+prevState.angle_dot = -0.0437599
+prevState.angle_double_dot = 0.0825309
+prevState.x = 1.24471
+prevState.x_dot = 0.406973
+prevState.x_double_dot = 0.104482
+Rule 6 weight=0.0149615 output=0
+F = 0.194222
+X=0.000116687 Y=1.97008 F=0.194222 angle=0.0219161 x=1.24552
+prevState.angle = 0.0219161
+prevState.angle_dot = -0.0435989
+prevState.angle_double_dot = 0.0805058
+prevState.x = 1.24552
+prevState.x_dot = 0.407181
+prevState.x_double_dot = 0.104053
+Rule 6 weight=0.0143245 output=0
+F = 0.19807
+X=0.000113942 Y=1.97135 F=0.19807 angle=0.0218293 x=1.24634
+prevState.angle = 0.0218293
+prevState.angle_dot = -0.0434306
+prevState.angle_double_dot = 0.0841145
+prevState.x = 1.24634
+prevState.x_dot = 0.407388
+prevState.x_double_dot = 0.103398
+Rule 6 weight=0.0136873 output=0
+F = 0.185482
+X=0.000101928 Y=1.97263 F=0.185482 angle=0.0217427 x=1.24715
+prevState.angle = 0.0217427
+prevState.angle_dot = -0.0432815
+prevState.angle_double_dot = 0.0745486
+prevState.x = 1.24715
+prevState.x_dot = 0.407595
+prevState.x_double_dot = 0.103616
+Rule 6 weight=0.0130503 output=0
+F = 0.216688
+X=0.000113606 Y=1.9739 F=0.216688 angle=0.0216565 x=1.24797
+prevState.angle = 0.0216565
+prevState.angle_dot = -0.0430858
+prevState.angle_double_dot = 0.0978505
+prevState.x = 1.24797
+prevState.x_dot = 0.407797
+prevState.x_double_dot = 0.100866
+Rule 6 weight=0.0124113 output=0
+F = 0.122903
+X=6.11655e-05 Y=1.97518 F=0.122903 angle=0.0215705 x=1.24878
+prevState.angle = 0.0215705
+prevState.angle_dot = -0.0430186
+prevState.angle_double_dot = 0.0335972
+prevState.x = 1.24878
+prevState.x_dot = 0.408013
+prevState.x_double_dot = 0.108057
+Rule 6 weight=0.0117787 output=0
+F = 0.411041
+X=0.000195267 Y=1.97644 F=0.411041 angle=0.0214853 x=1.2496
+prevState.angle = 0.0214853
+prevState.angle_dot = -0.0425801
+prevState.angle_double_dot = 0.219261
+prevState.x = 1.2496
+prevState.x_dot = 0.408175
+prevState.x_double_dot = 0.0811956
+Rule 6 weight=0.0111224 output=0
+F = -0.277863
+X=-0.000250019 Y=1.97776 F=-0.277863 angle=0.0213987 x=1.25042
+prevState.angle = 0.0213987
+prevState.angle_dot = -0.0432975
+prevState.angle_double_dot = -0.358692
+prevState.x = 1.25042
+prevState.x_dot = 0.408524
+prevState.x_double_dot = 0.174393
+Rule 6 weight=0.0104911 output=0
+F = 1.57922
+X=0.000684323 Y=1.97902 F=1.57922 angle=0.0213162 x=1.25123
+prevState.angle = 0.0213162
+prevState.angle_dot = -0.0412638
+prevState.angle_double_dot = 1.01687
+prevState.x = 1.25123
+prevState.x_dot = 0.408671
+prevState.x_double_dot = 0.0734082
+F = -2.43825
+X=-0.00210706 Y=1.9805 F=-2.43825 angle=0.0212229 x=1.25205
+prevState.angle = 0.0212229
+prevState.angle_dot = -0.0466599
+prevState.angle_double_dot = -2.69806
+prevState.x = 1.25205
+prevState.x_dot = 0.409694
+prevState.x_double_dot = 0.51144
+F = 7.40203
+X=0.00315364 Y=1.98185 F=7.40203 angle=0.0211509 x=1.25287
+prevState.angle = 0.0211509
+prevState.angle_dot = -0.0359945
+prevState.angle_double_dot = 5.33269
+prevState.x = 1.25287
+prevState.x_dot = 0.410165
+prevState.x_double_dot = 0.235641
+F = -10.3715
+X=-0.0113199 Y=1.98403 F=-10.3715 angle=0.0210215 x=1.2537
+prevState.angle = 0.0210215
+prevState.angle_dot = -0.0646828
+prevState.angle_double_dot = -14.3441
+prevState.x = 1.2537
+prevState.x_dot = 0.41393
+prevState.x_double_dot = 1.88231
+F = 21.6205
+X=0.00982624 Y=1.9871 F=21.6205 angle=0.0209769 x=1.25454
+prevState.angle = 0.0209769
+prevState.angle_dot = -0.0223014
+prevState.angle_double_dot = 21.1907
+prevState.x = 1.25454
+prevState.x_dot = 0.421147
+prevState.x_double_dot = 3.60859
+Rule 3 weight=0.0165835 output=-25
+F = -18.5906
+X=-0.0331669 Y=1.98857 F=-18.5906 angle=0.0207612 x=1.25539
+prevState.angle = 0.0207612
+prevState.angle_dot = -0.107856
+prevState.angle_double_dot = -42.7774
+prevState.x = 1.25539
+prevState.x_dot = 0.421937
+prevState.x_double_dot = 0.394986
+F = 45.5394
+X=0.00438698 Y=2.00095 F=45.5394 angle=0.020696 x=1.25632
+prevState.angle = 0.020696
+prevState.angle_dot = -0.032618
+prevState.angle_double_dot = 37.6191
+prevState.x = 1.25632
+prevState.x_dot = 0.465896
+prevState.x_double_dot = 21.9797
+Rule 3 weight=0.043325 output=-25
+F = -21.7634
+X=-0.08665 Y=2.006 F=-21.7634 angle=0.0202683 x=1.25728
+prevState.angle = 0.0202683
+prevState.angle_dot = -0.213837
+prevState.angle_double_dot = -90.6093
+prevState.x = 1.25728
+prevState.x_dot = 0.480311
+prevState.x_double_dot = 7.20761
+Rule 1 weight=0.0195494 output=25
+Rule 3 weight=0.0214745 output=-25
+F = -1.17315
+X=-0.0429489 Y=2.0391 F=-1.17315 angle=0.0200164 x=1.25849
+prevState.angle = 0.0200164
+prevState.angle_dot = -0.125931
+prevState.angle_double_dot = 43.953
+prevState.x = 1.25849
+prevState.x_dot = 0.605452
+prevState.x_double_dot = 62.5703
+Rule 1 weight=0.0100807 output=25
+Rule 3 weight=0.0202062 output=-25
+F = -8.35801
+X=-0.0404125 Y=2.02016 F=-8.35801 angle=0.0197757 x=1.25954
+prevState.angle = 0.0197757
+prevState.angle_dot = -0.120376
+prevState.angle_double_dot = 2.77722
+prevState.x = 1.25954
+prevState.x_dot = 0.523421
+prevState.x_double_dot = -41.0157
+Rule 3 weight=0.0117231 output=-25
+F = -4.26691
+X=-0.0234463 Y=2.01661 F=-4.26691 angle=0.0196035 x=1.26054
+prevState.angle = 0.0196035
+prevState.angle_dot = -0.0860995
+prevState.angle_double_dot = 17.1384
+prevState.x = 1.26054
+prevState.x_dot = 0.503176
+prevState.x_double_dot = -10.1224
+F = -6.9358
+X=-0.0146282 Y=2.00827 F=-6.9358 angle=0.0194671 x=1.26147
+prevState.angle = 0.0194671
+prevState.angle_dot = -0.0681906
+prevState.angle_double_dot = 8.95444
+prevState.x = 1.26147
+prevState.x_dot = 0.464263
+prevState.x_double_dot = -19.4564
+F = 17.4513
+X=-0.000419334 Y=2.00236 F=17.4513 angle=0.0193879 x=1.26234
+prevState.angle = 0.0193879
+prevState.angle_dot = -0.0396144
+prevState.angle_double_dot = 14.2881
+prevState.x = 1.26234
+prevState.x_dot = 0.435375
+prevState.x_double_dot = -14.4441
+Rule 3 weight=0.0175566 output=-25
+F = -18.6363
+X=-0.0351133 Y=2.00512 F=-18.6363 angle=0.0191707 x=1.26323
+prevState.angle = 0.0191707
+prevState.angle_dot = -0.108568
+prevState.angle_double_dot = -34.4768
+prevState.x = 1.26323
+prevState.x_dot = 0.441131
+prevState.x_double_dot = 2.8781
+F = 28.8487
+X=0.00249791 Y=2.01373 F=28.8487 angle=0.0191043 x=1.26417
+prevState.angle = 0.0191043
+prevState.angle_dot = -0.0332128
+prevState.angle_double_dot = 37.6776
+prevState.x = 1.26417
+prevState.x_dot = 0.46992
+prevState.x_double_dot = 14.3947
+Rule 3 weight=0.0275352 output=-25
+F = -16.6254
+X=-0.0550705 Y=2.01108 F=-16.6254 angle=0.0188088 x=1.26507
+prevState.angle = 0.0188088
+prevState.angle_dot = -0.147759
+prevState.angle_double_dot = -57.2729
+prevState.x = 1.26507
+prevState.x_dot = 0.45388
+prevState.x_double_dot = -8.02007
+Rule 1 weight=0.0155671 output=25
+Rule 3 weight=0.0107911 output=-25
+F = 4.52991
+X=-0.0215821 Y=2.03113 F=4.52991 angle=0.0186479 x=1.26613
+prevState.angle = 0.0186479
+prevState.angle_dot = -0.08046
+prevState.angle_double_dot = 33.6493
+prevState.x = 1.26613
+prevState.x_dot = 0.527766
+prevState.x_double_dot = 36.943
+Rule 3 weight=0.0152168 output=-25
+F = -5.58109
+X=-0.0304336 Y=2.01933 F=-5.58109 angle=0.0184523 x=1.26708
+prevState.angle = 0.0184523
+prevState.angle_dot = -0.0977719
+prevState.angle_double_dot = -8.65593
+prevState.x = 1.26708
+prevState.x_dot = 0.474833
+prevState.x_double_dot = -26.4668
+Rule 1 weight=0.0110817 output=25
+F = 1.90474
+X=-0.0190252 Y=2.02216 F=1.90474 angle=0.018303 x=1.26804
+prevState.angle = 0.018303
+prevState.angle_dot = -0.0746565
+prevState.angle_double_dot = 11.5577
+prevState.x = 1.26804
+prevState.x_dot = 0.480421
+prevState.x_double_dot = 2.79398
+Rule 3 weight=0.0113012 output=-25
+F = -2.05727
+X=-0.0226024 Y=2.01917 F=-2.05727 angle=0.01814 x=1.26896
+prevState.angle = 0.01814
+prevState.angle_dot = -0.0814848
+prevState.angle_double_dot = -3.41416
+prevState.x = 1.26896
+prevState.x_dot = 0.462873
+prevState.x_double_dot = -8.77363
+Rule 1 weight=0.0105889 output=25
+F = 1.86149
+X=-0.0182425 Y=2.02118 F=1.86149 angle=0.0179951 x=1.2699
+prevState.angle = 0.0179951
+prevState.angle_dot = -0.0724753
+prevState.angle_double_dot = 4.50477
+prevState.x = 1.2699
+prevState.x_dot = 0.465339
+prevState.x_double_dot = 1.23303
+Rule 1 weight=0.0106791 output=25
+Rule 3 weight=0.0108676 output=-25
+F = -0.218658
+X=-0.0217352 Y=2.02136 F=-0.218658 angle=0.0178368 x=1.27082
+prevState.angle = 0.0178368
+prevState.angle_dot = -0.0791439
+prevState.angle_double_dot = -3.33433
+prevState.x = 1.27082
+prevState.x_dot = 0.460535
+prevState.x_double_dot = -2.40231
+Rule 1 weight=0.0120864 output=25
+Rule 3 weight=0.0105342 output=-25
+F = 1.71546
+X=-0.0210684 Y=2.02417 F=1.71546 angle=0.0176818 x=1.27175
+prevState.angle = 0.0176818
+prevState.angle_dot = -0.0775004
+prevState.angle_double_dot = 0.82175
+prevState.x = 1.27175
+prevState.x_dot = 0.466199
+prevState.x_double_dot = 2.83195
+Rule 1 weight=0.0129913 output=25
+Rule 3 weight=0.0121423 output=-25
+F = 0.844445
+X=-0.0242847 Y=2.02598 F=0.844445 angle=0.0175146 x=1.27268
+prevState.angle = 0.0175146
+prevState.angle_dot = -0.0835986
+prevState.angle_double_dot = -3.04909
+prevState.x = 1.27268
+prevState.x_dot = 0.467824
+prevState.x_double_dot = 0.812583
+Rule 1 weight=0.0145885 output=25
+Rule 3 weight=0.0128841 output=-25
+F = 1.551
+X=-0.0257681 Y=2.02918 F=1.551 angle=0.0173422 x=1.27363
+prevState.angle = 0.0173422
+prevState.angle_dot = -0.0862206
+prevState.angle_double_dot = -1.31101
+prevState.x = 1.27363
+prevState.x_dot = 0.474902
+prevState.x_double_dot = 3.53916
+Rule 1 weight=0.0159591 output=25
+Rule 3 weight=0.0143395 output=-25
+F = 1.33636
+X=-0.0286791 Y=2.03192 F=1.33636 angle=0.0171588 x=1.27459
+prevState.angle = 0.0171588
+prevState.angle_dot = -0.0916758
+prevState.angle_double_dot = -2.72759
+prevState.x = 1.27459
+prevState.x_dot = 0.480105
+prevState.x_double_dot = 2.60165
+Rule 1 weight=0.0176139 output=25
+Rule 3 weight=0.015587 output=-25
+F = 1.52623
+X=-0.031174 Y=2.03523 F=1.52623 angle=0.0169663 x=1.27557
+prevState.angle = 0.0169663
+prevState.angle_dot = -0.0962805
+prevState.angle_double_dot = -2.30234
+prevState.x = 1.27557
+prevState.x_dot = 0.487494
+prevState.x_double_dot = 3.69414
+Rule 1 weight=0.0192257 output=25
+Rule 3 weight=0.0170317 output=-25
+F = 1.51277
+X=-0.0340635 Y=2.03845 F=1.51277 angle=0.016763 x=1.27656
+prevState.angle = 0.016763
+prevState.angle_dot = -0.101653
+prevState.angle_double_dot = -2.68618
+prevState.x = 1.27656
+prevState.x_dot = 0.494454
+prevState.x_double_dot = 3.48023
+Rule 1 weight=0.020933 output=25
+Rule 3 weight=0.0184706 output=-25
+F = 1.56234
+X=-0.0369411 Y=2.04187 F=1.56234 angle=0.016549 x=1.27756
+prevState.angle = 0.016549
+prevState.angle_dot = -0.10698
+prevState.angle_double_dot = -2.66367
+prevState.x = 1.27756
+prevState.x_dot = 0.502088
+prevState.x_double_dot = 3.8169
+Rule 1 weight=0.0226581 output=25
+Rule 3 weight=0.0199668 output=-25
+F = 1.57849
+X=-0.0399336 Y=2.04532 F=1.57849 angle=0.016324 x=1.27858
+prevState.angle = 0.016324
+prevState.angle_dot = -0.112515
+prevState.angle_double_dot = -2.76741
+prevState.x = 1.27858
+prevState.x_dot = 0.509771
+prevState.x_double_dot = 3.84151
+Rule 1 weight=0.0244222 output=25
+Rule 3 weight=0.0214872 output=-25
+F = 1.59824
+X=-0.0429744 Y=2.04884 F=1.59824 angle=0.0160877 x=1.27962
+prevState.angle = 0.0160877
+prevState.angle_dot = -0.118124
+prevState.angle_double_dot = -2.80458
+prevState.x = 1.27962
+prevState.x_dot = 0.517672
+prevState.x_double_dot = 3.9505
+Rule 1 weight=0.0262113 output=25
+Rule 3 weight=0.0230356 output=-25
+F = 1.6121
+X=-0.0460712 Y=2.05242 F=1.6121 angle=0.0158401 x=1.28067
+prevState.angle = 0.0158401
+prevState.angle_dot = -0.123823
+prevState.angle_double_dot = -2.84918
+prevState.x = 1.28067
+prevState.x_dot = 0.525677
+prevState.x_double_dot = 4.00225
+Rule 1 weight=0.0280259 output=25
+Rule 3 weight=0.0246063 output=-25
+F = 1.62426
+X=-0.0492127 Y=2.05605 F=1.62426 angle=0.0155809 x=1.28174
+prevState.angle = 0.0155809
+prevState.angle_dot = -0.129587
+prevState.angle_double_dot = -2.88226
+prevState.x = 1.28174
+prevState.x_dot = 0.533787
+prevState.x_double_dot = 4.0554
+Rule 1 weight=0.0298629 output=25
+Rule 3 weight=0.0261978 output=-25
+F = 1.63441
+X=-0.0523957 Y=2.05973 F=1.63441 angle=0.0153101 x=1.28282
+prevState.angle = 0.0153101
+prevState.angle_dot = -0.135411
+prevState.angle_double_dot = -2.91217
+prevState.x = 1.28282
+prevState.x_dot = 0.54198
+prevState.x_double_dot = 4.09653
+Rule 1 weight=0.0317216 output=25
+Rule 3 weight=0.0278083 output=-25
+F = 1.64342
+X=-0.0556166 Y=2.06344 F=1.64342 angle=0.0150275 x=1.28392
+prevState.angle = 0.0150275
+prevState.angle_dot = -0.141288
+prevState.angle_double_dot = -2.93833
+prevState.x = 1.28392
+prevState.x_dot = 0.550246
+prevState.x_double_dot = 4.13296
+Rule 1 weight=0.0336007 output=25
+Rule 3 weight=0.0294367 output=-25
+F = 1.65139
+X=-0.0588735 Y=2.0672 F=1.65139 angle=0.0147331 x=1.28504
+prevState.angle = 0.0147331
+prevState.angle_dot = -0.147213
+prevState.angle_double_dot = -2.96246
+prevState.x = 1.28504
+prevState.x_dot = 0.558576
+prevState.x_double_dot = 4.16494
+Rule 1 weight=0.0354996 output=25
+Rule 3 weight=0.0310823 output=-25
+F = 1.65859
+X=-0.0621646 Y=2.071 F=1.65859 angle=0.0144267 x=1.28617
+prevState.angle = 0.0144267
+prevState.angle_dot = -0.153183
+prevState.angle_double_dot = -2.98475
+prevState.x = 1.28617
+prevState.x_dot = 0.566965
+prevState.x_double_dot = 4.19413
+Rule 1 weight=0.0374179 output=25
+Rule 3 weight=0.0327444 output=-25
+F = 1.66525
+X=-0.0654887 Y=2.07484 F=1.66525 angle=0.0141083 x=1.28732
+prevState.angle = 0.0141083
+prevState.angle_dot = -0.159194
+prevState.angle_double_dot = -3.00579
+prevState.x = 1.28732
+prevState.x_dot = 0.575406
+prevState.x_double_dot = 4.22095
+Rule 1 weight=0.0393553 output=25
+Rule 3 weight=0.0344226 output=-25
+F = 1.67146
+X=-0.0688452 Y=2.07871 F=1.67146 angle=0.0137778 x=1.28849
+prevState.angle = 0.0137778
+prevState.angle_dot = -0.165246
+prevState.angle_double_dot = -3.02599
+prevState.x = 1.28849
+prevState.x_dot = 0.583899
+prevState.x_double_dot = 4.24614
+Rule 1 weight=0.0413115 output=25
+Rule 3 weight=0.0361167 output=-25
+F = 1.67729
+X=-0.0722334 Y=2.08262 F=1.67729 angle=0.0134352 x=1.28968
+prevState.angle = 0.0134352
+prevState.angle_dot = -0.171337
+prevState.angle_double_dot = -3.04554
+prevState.x = 1.28968
+prevState.x_dot = 0.592439
+prevState.x_double_dot = 4.27016
+Rule 1 weight=0.0432863 output=25
+Rule 3 weight=0.0378265 output=-25
+F = 1.68279
+X=-0.075653 Y=2.08657 F=1.68279 angle=0.0130802 x=1.29088
+prevState.angle = 0.0130802
+prevState.angle_dot = -0.177466
+prevState.angle_double_dot = -3.06461
+prevState.x = 1.29088
+prevState.x_dot = 0.601026
+prevState.x_double_dot = 4.29325
+Rule 1 weight=0.0452797 output=25
+Rule 3 weight=0.0395518 output=-25
+F = 1.68805
+X=-0.0791035 Y=2.09056 F=1.68805 angle=0.012713 x=1.2921
+prevState.angle = 0.012713
+prevState.angle_dot = -0.183633
+prevState.angle_double_dot = -3.08328
+prevState.x = 1.2921
+prevState.x_dot = 0.609657
+prevState.x_double_dot = 4.3156
+Rule 1 weight=0.0472916 output=25
+Rule 3 weight=0.0412925 output=-25
+F = 1.69307
+X=-0.0825849 Y=2.09458 F=1.69307 angle=0.0123333 x=1.29333
+prevState.angle = 0.0123333
+prevState.angle_dot = -0.189836
+prevState.angle_double_dot = -3.10173
+prevState.x = 1.29333
+prevState.x_dot = 0.618331
+prevState.x_double_dot = 4.33736
+Rule 1 weight=0.0493218 output=25
+Rule 3 weight=0.0430485 output=-25
+F = 1.69785
+X=-0.0860971 Y=2.09864 F=1.69785 angle=0.0119411 x=1.29459
+prevState.angle = 0.0119411
+prevState.angle_dot = -0.196076
+prevState.angle_double_dot = -3.11999
+prevState.x = 1.29459
+prevState.x_dot = 0.627049
+prevState.x_double_dot = 4.35871
+Rule 1 weight=0.0513704 output=25
+Rule 3 weight=0.0448199 output=-25
+F = 1.70248
+X=-0.0896398 Y=2.10274 F=1.70248 angle=0.0115364 x=1.29586
+prevState.angle = 0.0115364
+prevState.angle_dot = -0.202352
+prevState.angle_double_dot = -3.13801
+prevState.x = 1.29586
+prevState.x_dot = 0.635808
+prevState.x_double_dot = 4.37967
+Rule 1 weight=0.0534375 output=25
+Rule 3 weight=0.0466066 output=-25
+F = 1.70697
+X=-0.0932131 Y=2.10687 F=1.70697 angle=0.0111191 x=1.29715
+prevState.angle = 0.0111191
+prevState.angle_dot = -0.208664
+prevState.angle_double_dot = -3.15602
+prevState.x = 1.29715
+prevState.x_dot = 0.644609
+prevState.x_double_dot = 4.40028
+Rule 1 weight=0.0555228 output=25
+Rule 3 weight=0.0484086 output=-25
+F = 1.71127
+X=-0.0968172 Y=2.11105 F=1.71127 angle=0.0106891 x=1.29846
+prevState.angle = 0.0106891
+prevState.angle_dot = -0.215013
+prevState.angle_double_dot = -3.17402
+prevState.x = 1.29846
+prevState.x_dot = 0.65345
+prevState.x_double_dot = 4.42075
+Rule 1 weight=0.0576266 output=25
+Rule 3 weight=0.0502259 output=-25
+F = 1.71546
+X=-0.100452 Y=2.11525 F=1.71546 angle=0.0102463 x=1.29978
+prevState.angle = 0.0102463
+prevState.angle_dot = -0.221396
+prevState.angle_double_dot = -3.19191
+prevState.x = 1.29978
+prevState.x_dot = 0.662332
+prevState.x_double_dot = 4.44104
+Rule 1 weight=0.0597486 output=25
+Rule 3 weight=0.0520587 output=-25
+F = 1.71947
+X=-0.104117 Y=2.1195 F=1.71947 angle=0.00979064 x=1.30112
+prevState.angle = 0.00979064
+prevState.angle_dot = -0.227816
+prevState.angle_double_dot = -3.20985
+prevState.x = 1.30112
+prevState.x_dot = 0.671255
+prevState.x_double_dot = 4.46112
+Rule 1 weight=0.0618893 output=25
+Rule 3 weight=0.0539068 output=-25
+F = 1.72339
+X=-0.107814 Y=2.12378 F=1.72339 angle=0.0093221 x=1.30248
+prevState.angle = 0.0093221
+prevState.angle_dot = -0.234271
+prevState.angle_double_dot = -3.22771
+prevState.x = 1.30248
+prevState.x_dot = 0.680217
+prevState.x_double_dot = 4.48108
+Rule 1 weight=0.0640483 output=25
+Rule 3 weight=0.0557704 output=-25
+F = 1.72717
+X=-0.111541 Y=2.1281 F=1.72717 angle=0.00884057 x=1.30386
+prevState.angle = 0.00884057
+prevState.angle_dot = -0.240763
+prevState.angle_double_dot = -3.24568
+prevState.x = 1.30386
+prevState.x_dot = 0.689219
+prevState.x_double_dot = 4.5009
+Rule 1 weight=0.066226 output=25
+Rule 3 weight=0.0576495 output=-25
+F = 1.73087
+X=-0.115299 Y=2.13245 F=1.73087 angle=0.00834599 x=1.30526
+prevState.angle = 0.00834599
+prevState.angle_dot = -0.24729
+prevState.angle_double_dot = -3.26363
+prevState.x = 1.30526
+prevState.x_dot = 0.69826
+prevState.x_double_dot = 4.52068
+Rule 1 weight=0.068422 output=25
+Rule 3 weight=0.0595442 output=-25
+F = 1.73439
+X=-0.119088 Y=2.13684 F=1.73439 angle=0.00783829 x=1.30667
+prevState.angle = 0.00783829
+prevState.angle_dot = -0.253853
+prevState.angle_double_dot = -3.28171
+prevState.x = 1.30667
+prevState.x_dot = 0.707341
+prevState.x_double_dot = 4.54037
+Rule 1 weight=0.0706367 output=25
+Rule 3 weight=0.0614545 output=-25
+F = 1.73785
+X=-0.122909 Y=2.14127 F=1.73785 angle=0.00731738 x=1.30811
+prevState.angle = 0.00731738
+prevState.angle_dot = -0.260453
+prevState.angle_double_dot = -3.29971
+prevState.x = 1.30811
+prevState.x_dot = 0.716461
+prevState.x_double_dot = 4.56002
+Rule 1 weight=0.07287 output=25
+Rule 3 weight=0.0633806 output=-25
+F = 1.74118
+X=-0.126761 Y=2.14574 F=1.74118 angle=0.0067832 x=1.30956
+prevState.angle = 0.0067832
+prevState.angle_dot = -0.267089
+prevState.angle_double_dot = -3.31789
+prevState.x = 1.30956
+prevState.x_dot = 0.72562
+prevState.x_double_dot = 4.57955
+Rule 1 weight=0.075122 output=25
+Rule 3 weight=0.0653224 output=-25
+F = 1.7444
+X=-0.130645 Y=2.15024 F=1.7444 angle=0.00623568 x=1.31103
+prevState.angle = 0.00623568
+prevState.angle_dot = -0.273761
+prevState.angle_double_dot = -3.33606
+prevState.x = 1.31103
+prevState.x_dot = 0.734818
+prevState.x_double_dot = 4.5991
+Rule 1 weight=0.0773927 output=25
+Rule 3 weight=0.06728 output=-25
+F = 1.74752
+X=-0.13456 Y=2.15479 F=1.74752 angle=0.00567474 x=1.31251
+prevState.angle = 0.00567474
+prevState.angle_dot = -0.280469
+prevState.angle_double_dot = -3.35432
+prevState.x = 1.31251
+prevState.x_dot = 0.744055
+prevState.x_double_dot = 4.61856
+Rule 1 weight=0.0796822 output=25
+Rule 3 weight=0.0692535 output=-25
+F = 1.75054
+X=-0.138507 Y=2.15936 F=1.75054 angle=0.00510031 x=1.31402
+prevState.angle = 0.00510031
+prevState.angle_dot = -0.287215
+prevState.angle_double_dot = -3.37266
+prevState.x = 1.31402
+prevState.x_dot = 0.753331
+prevState.x_double_dot = 4.63801
+Rule 1 weight=0.0819905 output=25
+Rule 3 weight=0.0712431 output=-25
+F = 1.75344
+X=-0.142486 Y=2.16398 F=1.75344 angle=0.00451232 x=1.31555
+prevState.angle = 0.00451232
+prevState.angle_dot = -0.293997
+prevState.angle_double_dot = -3.3911
+prevState.x = 1.31555
+prevState.x_dot = 0.762646
+prevState.x_double_dot = 4.65743
+Rule 1 weight=0.0843177 output=25
+Rule 3 weight=0.0732487 output=-25
+F = 1.75624
+X=-0.146497 Y=2.16864 F=1.75624 angle=0.00391069 x=1.31709
+prevState.angle = 0.00391069
+prevState.angle_dot = -0.300816
+prevState.angle_double_dot = -3.40958
+prevState.x = 1.31709
+prevState.x_dot = 0.772
+prevState.x_double_dot = 4.67683
+Rule 1 weight=0.086664 output=25
+Rule 3 weight=0.0752704 output=-25
+F = 1.75897
+X=-0.150541 Y=2.17333 F=1.75897 angle=0.00329534 x=1.31865
+prevState.angle = 0.00329534
+prevState.angle_dot = -0.307672
+prevState.angle_double_dot = -3.42818
+prevState.x = 1.31865
+prevState.x_dot = 0.781392
+prevState.x_double_dot = 4.6962
+Rule 1 weight=0.0890291 output=25
+Rule 3 weight=0.0773085 output=-25
+F = 1.76157
+X=-0.154617 Y=2.17806 F=1.76157 angle=0.00266621 x=1.32023
+prevState.angle = 0.00266621
+prevState.angle_dot = -0.314566
+prevState.angle_double_dot = -3.4469
+prevState.x = 1.32023
+prevState.x_dot = 0.790823
+prevState.x_double_dot = 4.71559
+Rule 1 weight=0.0914133 output=25
+Rule 3 weight=0.0793628 output=-25
+F = 1.76407
+X=-0.158726 Y=2.18283 F=1.76407 angle=0.00202321 x=1.32184
+prevState.angle = 0.00202321
+prevState.angle_dot = -0.321498
+prevState.angle_double_dot = -3.46567
+prevState.x = 1.32184
+prevState.x_dot = 0.800293
+prevState.x_double_dot = 4.73498
+Rule 1 weight=0.0938165 output=25
+Rule 3 weight=0.0814335 output=-25
+F = 1.76647
+X=-0.162867 Y=2.18763 F=1.76647 angle=0.00136628 x=1.32346
+prevState.angle = 0.00136628
+prevState.angle_dot = -0.328467
+prevState.angle_double_dot = -3.48454
+prevState.x = 1.32346
+prevState.x_dot = 0.809802
+prevState.x_double_dot = 4.75431
+Rule 1 weight=0.096239 output=25
+Rule 3 weight=0.0835208 output=-25
+F = 1.76878
+X=-0.167042 Y=2.19248 F=1.76878 angle=0.000695333 x=1.32509
+prevState.angle = 0.000695333
+prevState.angle_dot = -0.335474
+prevState.angle_double_dot = -3.5035
+prevState.x = 1.32509
+prevState.x_dot = 0.819349
+prevState.x_double_dot = 4.77365
+Rule 1 weight=0.0986805 output=25
+Rule 3 weight=0.0856246 output=-25
+F = 1.77097
+X=-0.171249 Y=2.19736 F=1.77097 angle=1.02952e-05 x=1.32675
+prevState.angle = 1.02952e-05
+prevState.angle_dot = -0.342519
+prevState.angle_double_dot = -3.52257
+prevState.x = 1.32675
+prevState.x_dot = 0.828935
+prevState.x_double_dot = 4.79298
+Rule 1 weight=0.101141 output=25
+Rule 3 weight=0.087745 output=-25
+F = 1.77308
+X=-0.17549 Y=2.20228 F=1.77308 angle=-0.000688909 x=1.32843
+prevState.angle = -0.000688909
+prevState.angle_dot = -0.349602
+prevState.angle_double_dot = -3.54171
+prevState.x = 1.32843
+prevState.x_dot = 0.83856
+prevState.x_double_dot = 4.81231
+Rule 1 weight=0.103622 output=25
+Rule 3 weight=0.0898823 output=-25
+F = 1.77509
+X=-0.179765 Y=2.20724 F=1.77509 angle=-0.00140236 x=1.33013
+prevState.angle = -0.00140236
+prevState.angle_dot = -0.356724
+prevState.angle_double_dot = -3.561
+prevState.x = 1.33013
+prevState.x_dot = 0.848223
+prevState.x_double_dot = 4.83162
+Rule 1 weight=0.106121 output=25
+Rule 3 weight=0.0920363 output=-25
+F = 1.777
+X=-0.184073 Y=2.21224 F=1.777 angle=-0.00213013 x=1.33184
+prevState.angle = -0.00213013
+prevState.angle_dot = -0.363885
+prevState.angle_double_dot = -3.58039
+prevState.x = 1.33184
+prevState.x_dot = 0.857925
+prevState.x_double_dot = 4.85098
+Rule 1 weight=0.108641 output=25
+Rule 3 weight=0.0942074 output=-25
+F = 1.77882
+X=-0.188415 Y=2.21728 F=1.77882 angle=-0.0028723 x=1.33358
+prevState.angle = -0.0028723
+prevState.angle_dot = -0.371085
+prevState.angle_double_dot = -3.5999
+prevState.x = 1.33358
+prevState.x_dot = 0.867665
+prevState.x_double_dot = 4.87034
+Rule 1 weight=0.111179 output=25
+Rule 3 weight=0.0963954 output=-25
+F = 1.78053
+X=-0.192791 Y=2.22236 F=1.78053 angle=-0.00362895 x=1.33533
+prevState.angle = -0.00362895
+prevState.angle_dot = -0.378324
+prevState.angle_double_dot = -3.61951
+prevState.x = 1.33533
+prevState.x_dot = 0.877445
+prevState.x_double_dot = 4.88971
+Rule 1 weight=0.113737 output=25
+Rule 3 weight=0.0986006 output=-25
+F = 1.78215
+X=-0.197201 Y=2.22747 F=1.78215 angle=-0.00440015 x=1.33711
+prevState.angle = -0.00440015
+prevState.angle_dot = -0.385602
+prevState.angle_double_dot = -3.63921
+prevState.x = 1.33711
+prevState.x_dot = 0.887263
+prevState.x_double_dot = 4.90907
+Rule 1 weight=0.116315 output=25
+Rule 3 weight=0.100823 output=-25
+F = 1.78365
+X=-0.201646 Y=2.23263 F=1.78365 angle=-0.00518599 x=1.3389
+prevState.angle = -0.00518599
+prevState.angle_dot = -0.39292
+prevState.angle_double_dot = -3.65905
+prevState.x = 1.3389
+prevState.x_dot = 0.89712
+prevState.x_double_dot = 4.92844
+Rule 1 weight=0.118913 output=25
+Rule 3 weight=0.103063 output=-25
+F = 1.78508
+X=-0.206126 Y=2.23783 F=1.78508 angle=-0.00598655 x=1.34071
+prevState.angle = -0.00598655
+prevState.angle_dot = -0.400278
+prevState.angle_double_dot = -3.67896
+prevState.x = 1.34071
+prevState.x_dot = 0.907016
+prevState.x_double_dot = 4.94783
+Rule 1 weight=0.12153 output=25
+Rule 3 weight=0.10532 output=-25
+F = 1.7864
+X=-0.21064 Y=2.24306 F=1.7864 angle=-0.0068019 x=1.34255
+prevState.angle = -0.0068019
+prevState.angle_dot = -0.407676
+prevState.angle_double_dot = -3.69905
+prevState.x = 1.34255
+prevState.x_dot = 0.91695
+prevState.x_double_dot = 4.96721
+Rule 1 weight=0.124167 output=25
+Rule 3 weight=0.107595 output=-25
+F = 1.78761
+X=-0.21519 Y=2.24833 F=1.78761 angle=-0.00763213 x=1.3444
+prevState.angle = -0.00763213
+prevState.angle_dot = -0.415115
+prevState.angle_double_dot = -3.71923
+prevState.x = 1.3444
+prevState.x_dot = 0.926923
+prevState.x_double_dot = 4.98664
+Rule 1 weight=0.126824 output=25
+Rule 3 weight=0.109887 output=-25
+F = 1.78874
+X=-0.219774 Y=2.25365 F=1.78874 angle=-0.00847732 x=1.34628
+prevState.angle = -0.00847732
+prevState.angle_dot = -0.422594
+prevState.angle_double_dot = -3.7395
+prevState.x = 1.34628
+prevState.x_dot = 0.936935
+prevState.x_double_dot = 5.00606
+Rule 1 weight=0.129501 output=25
+Rule 3 weight=0.112197 output=-25
+F = 1.78977
+X=-0.224394 Y=2.259 F=1.78977 angle=-0.00933755 x=1.34817
+prevState.angle = -0.00933755
+prevState.angle_dot = -0.430114
+prevState.angle_double_dot = -3.75994
+prevState.x = 1.34817
+prevState.x_dot = 0.946986
+prevState.x_double_dot = 5.02548
+Rule 1 weight=0.132197 output=25
+Rule 3 weight=0.114525 output=-25
+F = 1.7907
+X=-0.22905 Y=2.26439 F=1.7907 angle=-0.0102129 x=1.35008
+prevState.angle = -0.0102129
+prevState.angle_dot = -0.437675
+prevState.angle_double_dot = -3.78048
+prevState.x = 1.35008
+prevState.x_dot = 0.957076
+prevState.x_double_dot = 5.04496
+Rule 1 weight=0.134914 output=25
+Rule 3 weight=0.116871 output=-25
+F = 1.79154
+X=-0.233742 Y=2.26983 F=1.79154 angle=-0.0111034 x=1.35202
+prevState.angle = -0.0111034
+prevState.angle_dot = -0.445277
+prevState.angle_double_dot = -3.80117
+prevState.x = 1.35202
+prevState.x_dot = 0.967205
+prevState.x_double_dot = 5.06445
+Rule 1 weight=0.137651 output=25
+Rule 3 weight=0.119235 output=-25
+F = 1.79229
+X=-0.23847 Y=2.2753 F=1.79229 angle=-0.0120093 x=1.35397
+prevState.angle = -0.0120093
+prevState.angle_dot = -0.452921
+prevState.angle_double_dot = -3.82197
+prevState.x = 1.35397
+prevState.x_dot = 0.977373
+prevState.x_double_dot = 5.08396
+Rule 1 weight=0.140409 output=25
+Rule 3 weight=0.121617 output=-25
+F = 1.79292
+X=-0.243234 Y=2.28082 F=1.79292 angle=-0.0129305 x=1.35595
+prevState.angle = -0.0129305
+prevState.angle_dot = -0.460607
+prevState.angle_double_dot = -3.84293
+prevState.x = 1.35595
+prevState.x_dot = 0.98758
+prevState.x_double_dot = 5.1035
+Rule 1 weight=0.143186 output=25
+Rule 3 weight=0.124017 output=-25
+F = 1.79348
+X=-0.248035 Y=2.28637 F=1.79348 angle=-0.0138672 x=1.35794
+prevState.angle = -0.0138672
+prevState.angle_dot = -0.468335
+prevState.angle_double_dot = -3.86398
+prevState.x = 1.35794
+prevState.x_dot = 0.997826
+prevState.x_double_dot = 5.12308
+Rule 1 weight=0.145984 output=25
+Rule 3 weight=0.126436 output=-25
+F = 1.79392
+X=-0.252872 Y=2.29197 F=1.79392 angle=-0.0148194 x=1.35996
+prevState.angle = -0.0148194
+prevState.angle_dot = -0.476105
+prevState.angle_double_dot = -3.88519
+prevState.x = 1.35996
+prevState.x_dot = 1.00811
+prevState.x_double_dot = 5.14267
+Rule 1 weight=0.148802 output=25
+Rule 3 weight=0.128873 output=-25
+F = 1.79428
+X=-0.257746 Y=2.2976 F=1.79428 angle=-0.0157872 x=1.362
+prevState.angle = -0.0157872
+prevState.angle_dot = -0.483918
+prevState.angle_double_dot = -3.90651
+prevState.x = 1.362
+prevState.x_dot = 1.01844
+prevState.x_double_dot = 5.16229
+Rule 1 weight=0.151641 output=25
+Rule 3 weight=0.131329 output=-25
+F = 1.79453
+X=-0.262658 Y=2.30328 F=1.79453 angle=-0.0167708 x=1.36405
+prevState.angle = -0.0167708
+prevState.angle_dot = -0.491774
+prevState.angle_double_dot = -3.92801
+prevState.x = 1.36405
+prevState.x_dot = 1.0288
+prevState.x_double_dot = 5.18193
+Rule 1 weight=0.1545 output=25
+Rule 3 weight=0.133803 output=-25
+F = 1.79471
+X=-0.267607 Y=2.309 F=1.79471 angle=-0.0177701 x=1.36613
+prevState.angle = -0.0177701
+prevState.angle_dot = -0.499673
+prevState.angle_double_dot = -3.94961
+prevState.x = 1.36613
+prevState.x_dot = 1.0392
+prevState.x_double_dot = 5.20162
+Rule 1 weight=0.15738 output=25
+Rule 3 weight=0.136297 output=-25
+F = 1.79476
+X=-0.272593 Y=2.31476 F=1.79476 angle=-0.0187854 x=1.36823
+prevState.angle = -0.0187854
+prevState.angle_dot = -0.507616
+prevState.angle_double_dot = -3.97138
+prevState.x = 1.36823
+prevState.x_dot = 1.04965
+prevState.x_double_dot = 5.22133
+Rule 1 weight=0.16028 output=25
+Rule 3 weight=0.138809 output=-25
+F = 1.79473
+X=-0.277618 Y=2.32056 F=1.79473 angle=-0.0198166 x=1.37035
+prevState.angle = -0.0198166
+prevState.angle_dot = -0.515603
+prevState.angle_double_dot = -3.99325
+prevState.x = 1.37035
+prevState.x_dot = 1.06013
+prevState.x_double_dot = 5.24109
+Rule 1 weight=0.163202 output=25
+Rule 3 weight=0.14134 output=-25
+F = 1.79461
+X=-0.28268 Y=2.3264 F=1.79461 angle=-0.0208638 x=1.37249
+prevState.angle = -0.0208638
+prevState.angle_dot = -0.523633
+prevState.angle_double_dot = -4.01529
+prevState.x = 1.37249
+prevState.x_dot = 1.07065
+prevState.x_double_dot = 5.26085
+Rule 1 weight=0.166144 output=25
+Rule 3 weight=0.143891 output=-25
+F = 1.7944
+X=-0.287781 Y=2.33229 F=1.7944 angle=-0.0219272 x=1.37466
+prevState.angle = -0.0219272
+prevState.angle_dot = -0.531708
+prevState.angle_double_dot = -4.03748
+prevState.x = 1.37466
+prevState.x_dot = 1.08121
+prevState.x_double_dot = 5.28067
+Rule 1 weight=0.169106 output=25
+Rule 3 weight=0.14646 output=-25
+F = 1.79408
+X=-0.292921 Y=2.33821 F=1.79408 angle=-0.0230069 x=1.37684
+prevState.angle = -0.0230069
+prevState.angle_dot = -0.539828
+prevState.angle_double_dot = -4.05983
+prevState.x = 1.37684
+prevState.x_dot = 1.09181
+prevState.x_double_dot = 5.30054
+Rule 1 weight=0.17209 output=25
+Rule 3 weight=0.14905 output=-25
+F = 1.79367
+X=-0.298099 Y=2.34418 F=1.79367 angle=-0.0241029 x=1.37904
+prevState.angle = -0.0241029
+prevState.angle_dot = -0.547992
+prevState.angle_double_dot = -4.0823
+prevState.x = 1.37904
+prevState.x_dot = 1.10245
+prevState.x_double_dot = 5.32045
+Rule 1 weight=0.175095 output=25
+Rule 3 weight=0.151658 output=-25
+F = 1.79315
+X=-0.303316 Y=2.35019 F=1.79315 angle=-0.0252153 x=1.38127
+prevState.angle = -0.0252153
+prevState.angle_dot = -0.556202
+prevState.angle_double_dot = -4.10494
+prevState.x = 1.38127
+prevState.x_dot = 1.11313
+prevState.x_double_dot = 5.34039
+Rule 1 weight=0.178121 output=25
+Rule 3 weight=0.154287 output=-25
+F = 1.79256
+X=-0.308573 Y=2.35624 F=1.79256 angle=-0.0263442 x=1.38352
+prevState.angle = -0.0263442
+prevState.angle_dot = -0.564458
+prevState.angle_double_dot = -4.12771
+prevState.x = 1.38352
+prevState.x_dot = 1.12385
+prevState.x_double_dot = 5.36036
+Rule 1 weight=0.181168 output=25
+Rule 3 weight=0.156935 output=-25
+F = 1.79186
+X=-0.313869 Y=2.36234 F=1.79186 angle=-0.0274897 x=1.38579
+prevState.angle = -0.0274897
+prevState.angle_dot = -0.572759
+prevState.angle_double_dot = -4.15067
+prevState.x = 1.38579
+prevState.x_dot = 1.13462
+prevState.x_double_dot = 5.38038
+Rule 1 weight=0.184236 output=25
+Rule 3 weight=0.159603 output=-25
+F = 1.79108
+X=-0.319205 Y=2.36847 F=1.79108 angle=-0.0286519 x=1.38808
+prevState.angle = -0.0286519
+prevState.angle_dot = -0.581107
+prevState.angle_double_dot = -4.17376
+prevState.x = 1.38808
+prevState.x_dot = 1.14542
+prevState.x_double_dot = 5.40046
+Rule 1 weight=0.187326 output=25
+Rule 3 weight=0.162291 output=-25
+F = 1.79019
+X=-0.324581 Y=2.37465 F=1.79019 angle=-0.0298309 x=1.39039
+prevState.angle = -0.0298309
+prevState.angle_dot = -0.589501
+prevState.angle_double_dot = -4.19702
+prevState.x = 1.39039
+prevState.x_dot = 1.15626
+prevState.x_double_dot = 5.42058
+Rule 1 weight=0.190437 output=25
+Rule 3 weight=0.164999 output=-25
+F = 1.7892
+X=-0.329998 Y=2.38087 F=1.7892 angle=-0.0310268 x=1.39273
+prevState.angle = -0.0310268
+prevState.angle_dot = -0.597942
+prevState.angle_double_dot = -4.22044
+prevState.x = 1.39273
+prevState.x_dot = 1.16714
+prevState.x_double_dot = 5.44075
+Rule 1 weight=0.193569 output=25
+Rule 3 weight=0.167727 output=-25
+F = 1.78813
+X=-0.335454 Y=2.38714 F=1.78813 angle=-0.0322397 x=1.39508
+prevState.angle = -0.0322397
+prevState.angle_dot = -0.60643
+prevState.angle_double_dot = -4.24399
+prevState.x = 1.39508
+prevState.x_dot = 1.17806
+prevState.x_double_dot = 5.46096
+Rule 1 weight=0.196723 output=25
+Rule 3 weight=0.170476 output=-25
+F = 1.78695
+X=-0.340952 Y=2.39345 F=1.78695 angle=-0.0334696 x=1.39746
+prevState.angle = -0.0334696
+prevState.angle_dot = -0.614965
+prevState.angle_double_dot = -4.26773
+prevState.x = 1.39746
+prevState.x_dot = 1.18902
+prevState.x_double_dot = 5.4812
+Rule 1 weight=0.199898 output=25
+Rule 3 weight=0.173245 output=-25
+F = 1.7857
+X=-0.346491 Y=2.3998 F=1.7857 angle=-0.0347167 x=1.39986
+prevState.angle = -0.0347167
+prevState.angle_dot = -0.623548
+prevState.angle_double_dot = -4.29163
+prevState.x = 1.39986
+prevState.x_dot = 1.20003
+prevState.x_double_dot = 5.50151
+Rule 1 weight=0.203095 output=25
+Rule 3 weight=0.176035 output=-25
+F = 1.78434
+X=-0.352071 Y=2.40619 F=1.78434 angle=-0.0359811 x=1.40228
+prevState.angle = -0.0359811
+prevState.angle_dot = -0.63218
+prevState.angle_double_dot = -4.31571
+prevState.x = 1.40228
+prevState.x_dot = 1.21107
+prevState.x_double_dot = 5.52188
+Rule 1 weight=0.206314 output=25
+Rule 3 weight=0.178846 output=-25
+F = 1.78288
+X=-0.357693 Y=2.41263 F=1.78288 angle=-0.0372628 x=1.40473
+prevState.angle = -0.0372628
+prevState.angle_dot = -0.64086
+prevState.angle_double_dot = -4.33995
+prevState.x = 1.40473
+prevState.x_dot = 1.22215
+prevState.x_double_dot = 5.54231
+Rule 1 weight=0.209555 output=25
+Rule 3 weight=0.181678 output=-25
+F = 1.78133
+X=-0.363356 Y=2.41911 F=1.78133 angle=-0.038562 x=1.40719
+prevState.angle = -0.038562
+prevState.angle_dot = -0.649588
+prevState.angle_double_dot = -4.36435
+prevState.x = 1.40719
+prevState.x_dot = 1.23328
+prevState.x_double_dot = 5.56278
+Rule 1 weight=0.212817 output=25
+Rule 3 weight=0.184531 output=-25
+F = 1.77969
+X=-0.369062 Y=2.42563 F=1.77969 angle=-0.0398787 x=1.40968
+prevState.angle = -0.0398787
+prevState.angle_dot = -0.658366
+prevState.angle_double_dot = -4.38893
+prevState.x = 1.40968
+prevState.x_dot = 1.24445
+prevState.x_double_dot = 5.5833
+Rule 1 weight=0.216102 output=25
+Rule 3 weight=0.187405 output=-25
+F = 1.77795
+X=-0.37481 Y=2.4322 F=1.77795 angle=-0.0412131 x=1.41219
+prevState.angle = -0.0412131
+prevState.angle_dot = -0.667193
+prevState.angle_double_dot = -4.41367
+prevState.x = 1.41219
+prevState.x_dot = 1.25565
+prevState.x_double_dot = 5.60388
+Rule 1 weight=0.219408 output=25
+Rule 3 weight=0.1903 output=-25
+F = 1.77613
+X=-0.380601 Y=2.43882 F=1.77613 angle=-0.0425652 x=1.41473
+prevState.angle = -0.0425652
+prevState.angle_dot = -0.676071
+prevState.angle_double_dot = -4.4386
+prevState.x = 1.41473
+prevState.x_dot = 1.2669
+prevState.x_double_dot = 5.62451
+Rule 1 weight=0.222737 output=25
+Rule 3 weight=0.193217 output=-25
+F = 1.7742
+X=-0.386434 Y=2.44547 F=1.7742 angle=-0.0439352 x=1.41728
+prevState.angle = -0.0439352
+prevState.angle_dot = -0.684998
+prevState.angle_double_dot = -4.46371
+prevState.x = 1.41728
+prevState.x_dot = 1.27819
+prevState.x_double_dot = 5.64522
+Rule 1 weight=0.226087 output=25
+Rule 3 weight=0.196156 output=-25
+F = 1.77219
+X=-0.392311 Y=2.45217 F=1.77219 angle=-0.0453232 x=1.41986
+prevState.angle = -0.0453232
+prevState.angle_dot = -0.693976
+prevState.angle_double_dot = -4.489
+prevState.x = 1.41986
+prevState.x_dot = 1.28953
+prevState.x_double_dot = 5.66598
+Rule 1 weight=0.22946 output=25
+Rule 3 weight=0.199116 output=-25
+F = 1.77008
+X=-0.398232 Y=2.45892 F=1.77008 angle=-0.0467292 x=1.42246
+prevState.angle = -0.0467292
+prevState.angle_dot = -0.703005
+prevState.angle_double_dot = -4.51448
+prevState.x = 1.42246
+prevState.x_dot = 1.3009
+prevState.x_double_dot = 5.68681
+Rule 1 weight=0.232856 output=25
+Rule 3 weight=0.202098 output=-25
+F = 1.76788
+X=-0.404196 Y=2.46571 F=1.76788 angle=-0.0481534 x=1.42509
+prevState.angle = -0.0481534
+prevState.angle_dot = -0.712085
+prevState.angle_double_dot = -4.54012
+prevState.x = 1.42509
+prevState.x_dot = 1.31231
+prevState.x_double_dot = 5.70771
+Rule 1 weight=0.236274 output=25
+Rule 3 weight=0.205102 output=-25
+F = 1.76558
+X=-0.410204 Y=2.47255 F=1.76558 angle=-0.0495958 x=1.42774
+prevState.angle = -0.0495958
+prevState.angle_dot = -0.721217
+prevState.angle_double_dot = -4.56595
+prevState.x = 1.42774
+prevState.x_dot = 1.32377
+prevState.x_double_dot = 5.72865
+Rule 1 weight=0.239714 output=25
+Rule 3 weight=0.208129 output=-25
+F = 1.7632
+X=-0.416257 Y=2.47943 F=1.7632 angle=-0.0510566 x=1.43041
+prevState.angle = -0.0510566
+prevState.angle_dot = -0.730401
+prevState.angle_double_dot = -4.59197
+prevState.x = 1.43041
+prevState.x_dot = 1.33527
+prevState.x_double_dot = 5.74966
+Rule 1 weight=0.243177 output=25
+Rule 3 weight=0.211177 output=-25
+F = 1.76072
+X=-0.422355 Y=2.48635 F=1.76072 angle=-0.0525359 x=1.4331
+prevState.angle = -0.0525359
+prevState.angle_dot = -0.739637
+prevState.angle_double_dot = -4.61819
+prevState.x = 1.4331
+prevState.x_dot = 1.34681
+prevState.x_double_dot = 5.77075
+Rule 1 weight=0.246662 output=25
+Rule 3 weight=0.214249 output=-25
+F = 1.75814
+X=-0.428497 Y=2.49332 F=1.75814 angle=-0.0540337 x=1.43582
+prevState.angle = -0.0540337
+prevState.angle_dot = -0.748927
+prevState.angle_double_dot = -4.64458
+prevState.x = 1.43582
+prevState.x_dot = 1.3584
+prevState.x_double_dot = 5.79191
+Rule 1 weight=0.250171 output=25
+Rule 3 weight=0.217342 output=-25
+F = 1.75548
+X=-0.434685 Y=2.50034 F=1.75548 angle=-0.0555503 x=1.43856
+prevState.angle = -0.0555503
+prevState.angle_dot = -0.758269
+prevState.angle_double_dot = -4.67116
+prevState.x = 1.43856
+prevState.x_dot = 1.37002
+prevState.x_double_dot = 5.81312
+Rule 1 weight=0.253702 output=25
+Rule 3 weight=0.220459 output=-25
+F = 1.75272
+X=-0.440918 Y=2.5074 F=1.75272 angle=-0.0570856 x=1.44132
+prevState.angle = -0.0570856
+prevState.angle_dot = -0.767665
+prevState.angle_double_dot = -4.69795
+prevState.x = 1.44132
+prevState.x_dot = 1.38169
+prevState.x_double_dot = 5.8344
+Rule 1 weight=0.257256 output=25
+Rule 3 weight=0.223599 output=-25
+F = 1.74987
+X=-0.447197 Y=2.51451 F=1.74987 angle=-0.0586398 x=1.44411
+prevState.angle = -0.0586398
+prevState.angle_dot = -0.777115
+prevState.angle_double_dot = -4.72494
+prevState.x = 1.44411
+prevState.x_dot = 1.3934
+prevState.x_double_dot = 5.85576
+Rule 1 weight=0.260833 output=25
+Rule 3 weight=0.226761 output=-25
+F = 1.74693
+X=-0.453523 Y=2.52167 F=1.74693 angle=-0.0602131 x=1.44692
+prevState.angle = -0.0602131
+prevState.angle_dot = -0.786619
+prevState.angle_double_dot = -4.75211
+prevState.x = 1.44692
+prevState.x_dot = 1.40516
+prevState.x_double_dot = 5.8772
+Rule 1 weight=0.264433 output=25
+Rule 3 weight=0.229947 output=-25
+F = 1.74389
+X=-0.459894 Y=2.52887 F=1.74389 angle=-0.0618054 x=1.44975
+prevState.angle = -0.0618054
+prevState.angle_dot = -0.796178
+prevState.angle_double_dot = -4.77949
+prevState.x = 1.44975
+prevState.x_dot = 1.41696
+prevState.x_double_dot = 5.8987
+Rule 1 weight=0.268056 output=25
+Rule 3 weight=0.233157 output=-25
+F = 1.74077
+X=-0.466313 Y=2.53611 F=1.74077 angle=-0.063417 x=1.45261
+prevState.angle = -0.063417
+prevState.angle_dot = -0.805792
+prevState.angle_double_dot = -4.80706
+prevState.x = 1.45261
+prevState.x_dot = 1.4288
+prevState.x_double_dot = 5.92027
+Rule 1 weight=0.271703 output=25
+Rule 3 weight=0.236389 output=-25
+F = 1.73755
+X=-0.472779 Y=2.54341 F=1.73755 angle=-0.0650479 x=1.45549
+prevState.angle = -0.0650479
+prevState.angle_dot = -0.815462
+prevState.angle_double_dot = -4.83485
+prevState.x = 1.45549
+prevState.x_dot = 1.44068
+prevState.x_double_dot = 5.94192
+Rule 1 weight=0.275373 output=25
+Rule 3 weight=0.239646 output=-25
+F = 1.73424
+X=-0.479292 Y=2.55075 F=1.73424 angle=-0.0666983 x=1.4584
+prevState.angle = -0.0666983
+prevState.angle_dot = -0.825187
+prevState.angle_double_dot = -4.86283
+prevState.x = 1.4584
+prevState.x_dot = 1.45261
+prevState.x_double_dot = 5.96365
+Rule 1 weight=0.279066 output=25
+Rule 3 weight=0.242927 output=-25
+F = 1.73084
+X=-0.485853 Y=2.55813 F=1.73084 angle=-0.0683682 x=1.46133
+prevState.angle = -0.0683682
+prevState.angle_dot = -0.83497
+prevState.angle_double_dot = -4.89102
+prevState.x = 1.46133
+prevState.x_dot = 1.46458
+prevState.x_double_dot = 5.98545
+Rule 1 weight=0.282783 output=25
+Rule 3 weight=0.246231 output=-25
+F = 1.72735
+X=-0.492462 Y=2.56557 F=1.72735 angle=-0.0700579 x=1.46428
+prevState.angle = -0.0700579
+prevState.angle_dot = -0.844808
+prevState.angle_double_dot = -4.91942
+prevState.x = 1.46428
+prevState.x_dot = 1.47659
+prevState.x_double_dot = 6.00733
+Rule 1 weight=0.286523 output=25
+Rule 3 weight=0.24956 output=-25
+F = 1.72376
+X=-0.499119 Y=2.57305 F=1.72376 angle=-0.0717673 x=1.46726
+prevState.angle = -0.0717673
+prevState.angle_dot = -0.854704
+prevState.angle_double_dot = -4.94803
+prevState.x = 1.46726
+prevState.x_dot = 1.48865
+prevState.x_double_dot = 6.02928
+Rule 1 weight=0.290287 output=25
+Rule 3 weight=0.252913 output=-25
+F = 1.72009
+X=-0.505826 Y=2.58057 F=1.72009 angle=-0.0734966 x=1.47026
+prevState.angle = -0.0734966
+prevState.angle_dot = -0.864658
+prevState.angle_double_dot = -4.97684
+prevState.x = 1.47026
+prevState.x_dot = 1.50075
+prevState.x_double_dot = 6.0513
+Rule 1 weight=0.294075 output=25
+Rule 3 weight=0.25629 output=-25
+F = 1.71632
+X=-0.512581 Y=2.58815 F=1.71632 angle=-0.0752459 x=1.47328
+prevState.angle = -0.0752459
+prevState.angle_dot = -0.87467
+prevState.angle_double_dot = -5.00588
+prevState.x = 1.47328
+prevState.x_dot = 1.5129
+prevState.x_double_dot = 6.07341
+Rule 1 weight=0.297886 output=25
+Rule 3 weight=0.259693 output=-25
+F = 1.71247
+X=-0.519385 Y=2.59577 F=1.71247 angle=-0.0770154 x=1.47633
+prevState.angle = -0.0770154
+prevState.angle_dot = -0.88474
+prevState.angle_double_dot = -5.03512
+prevState.x = 1.47633
+prevState.x_dot = 1.52509
+prevState.x_double_dot = 6.0956
+Rule 1 weight=0.301722 output=25
+Rule 3 weight=0.26312 output=-25
+F = 1.70852
+X=-0.52624 Y=2.60344 F=1.70852 angle=-0.0788051 x=1.47941
+prevState.angle = -0.0788051
+prevState.angle_dot = -0.894869
+prevState.angle_double_dot = -5.06459
+prevState.x = 1.47941
+prevState.x_dot = 1.53733
+prevState.x_double_dot = 6.11787
+Rule 1 weight=0.305581 output=25
+Rule 3 weight=0.266572 output=-25
+F = 1.70448
+X=-0.533144 Y=2.61116 F=1.70448 angle=-0.0806153 x=1.48251
+prevState.angle = -0.0806153
+prevState.angle_dot = -0.905058
+prevState.angle_double_dot = -5.09427
+prevState.x = 1.48251
+prevState.x_dot = 1.54961
+prevState.x_double_dot = 6.14022
+Rule 1 weight=0.309465 output=25
+Rule 3 weight=0.270049 output=-25
+F = 1.70035
+X=-0.540099 Y=2.61893 F=1.70035 angle=-0.0824459 x=1.48563
+prevState.angle = -0.0824459
+prevState.angle_dot = -0.915306
+prevState.angle_double_dot = -5.12417
+prevState.x = 1.48563
+prevState.x_dot = 1.56193
+prevState.x_double_dot = 6.16265
+Rule 1 weight=0.313372 output=25
+Rule 3 weight=0.273552 output=-25
+F = 1.69614
+X=-0.547104 Y=2.62674 F=1.69614 angle=-0.0842971 x=1.48878
+prevState.angle = -0.0842971
+prevState.angle_dot = -0.925615
+prevState.angle_double_dot = -5.1543
+prevState.x = 1.48878
+prevState.x_dot = 1.5743
+prevState.x_double_dot = 6.18515
+Rule 1 weight=0.317304 output=25
+Rule 3 weight=0.277081 output=-25
+F = 1.69182
+X=-0.554161 Y=2.63461 F=1.69182 angle=-0.0861691 x=1.49195
+prevState.angle = -0.0861691
+prevState.angle_dot = -0.935984
+prevState.angle_double_dot = -5.18466
+prevState.x = 1.49195
+prevState.x_dot = 1.58672
+prevState.x_double_dot = 6.20775
+Rule 1 weight=0.321261 output=25
+Rule 3 weight=0.280635 output=-25
+F = 1.68742
+X=-0.561269 Y=2.64252 F=1.68742 angle=-0.0880619 x=1.49515
+prevState.angle = -0.0880619
+prevState.angle_dot = -0.946414
+prevState.angle_double_dot = -5.21522
+prevState.x = 1.49515
+prevState.x_dot = 1.59918
+prevState.x_double_dot = 6.23043
+Rule 1 weight=0.325242 output=25
+Rule 3 weight=0.284214 output=-25
+F = 1.68294
+X=-0.568429 Y=2.65048 F=1.68294 angle=-0.0899757 x=1.49837
+prevState.angle = -0.0899757
+prevState.angle_dot = -0.956907
+prevState.angle_double_dot = -5.24603
+prevState.x = 1.49837
+prevState.x_dot = 1.61169
+prevState.x_double_dot = 6.25318
+Rule 1 weight=0.329247 output=25
+Rule 3 weight=0.28782 output=-25
+F = 1.67836
+X=-0.575641 Y=2.65849 F=1.67836 angle=-0.0919106 x=1.50162
+prevState.angle = -0.0919106
+prevState.angle_dot = -0.967461
+prevState.angle_double_dot = -5.27706
+prevState.x = 1.50162
+prevState.x_dot = 1.62424
+prevState.x_double_dot = 6.27603
+Rule 1 weight=0.333277 output=25
+Rule 3 weight=0.291453 output=-25
+F = 1.67369
+X=-0.582905 Y=2.66655 F=1.67369 angle=-0.0938668 x=1.5049
+prevState.angle = -0.0938668
+prevState.angle_dot = -0.978077
+prevState.angle_double_dot = -5.30833
+prevState.x = 1.5049
+prevState.x_dot = 1.63684
+prevState.x_double_dot = 6.29896
+Rule 1 weight=0.337332 output=25
+Rule 3 weight=0.295111 output=-25
+F = 1.66893
+X=-0.590223 Y=2.67466 F=1.66893 angle=-0.0958443 x=1.5082
+prevState.angle = -0.0958443
+prevState.angle_dot = -0.988757
+prevState.angle_double_dot = -5.33983
+prevState.x = 1.5082
+prevState.x_dot = 1.64948
+prevState.x_double_dot = 6.32197
+Rule 1 weight=0.341411 output=25
+Rule 3 weight=0.298797 output=-25
+F = 1.66409
+X=-0.597593 Y=2.68282 F=1.66409 angle=-0.0978433 x=1.51152
+prevState.angle = -0.0978433
+prevState.angle_dot = -0.9995
+prevState.angle_double_dot = -5.37156
+prevState.x = 1.51152
+prevState.x_dot = 1.66217
+prevState.x_double_dot = 6.34507
+Rule 1 weight=0.345516 output=25
+Rule 3 weight=0.302509 output=-25
+F = 1.65916
+X=-0.605018 Y=2.69103 F=1.65916 angle=-0.0998639 x=1.51487
+prevState.angle = -0.0998639
+prevState.angle_dot = -1.01031
+prevState.angle_double_dot = -5.40354
+prevState.x = 1.51487
+prevState.x_dot = 1.67491
+prevState.x_double_dot = 6.36826
+Rule 1 weight=0.349645 output=25
+Rule 3 weight=0.306248 output=-25
+F = 1.65413
+X=-0.612496 Y=2.69929 F=1.65413 angle=-0.101906 x=1.51825
+prevState.angle = -0.101906
+prevState.angle_dot = -1.02118
+prevState.angle_double_dot = -5.43574
+prevState.x = 1.51825
+prevState.x_dot = 1.68769
+prevState.x_double_dot = 6.39153
+Rule 1 weight=0.3538 output=25
+Rule 3 weight=0.310014 output=-25
+F = 1.64902
+X=-0.620028 Y=2.7076 F=1.64902 angle=-0.103971 x=1.52165
+prevState.angle = -0.103971
+prevState.angle_dot = -1.03212
+prevState.angle_double_dot = -5.46819
+prevState.x = 1.52165
+prevState.x_dot = 1.70052
+prevState.x_double_dot = 6.41488
+Rule 1 weight=0.357979 output=25
+Rule 3 weight=0.313808 output=-25
+F = 1.64381
+X=-0.627615 Y=2.71596 F=1.64381 angle=-0.106057 x=1.52507
+prevState.angle = -0.106057
+prevState.angle_dot = -1.04312
+prevState.angle_double_dot = -5.50087
+prevState.x = 1.52507
+prevState.x_dot = 1.7134
+prevState.x_double_dot = 6.43831
+Rule 1 weight=0.362184 output=25
+Rule 3 weight=0.317629 output=-25
+F = 1.63852
+X=-0.635257 Y=2.72437 F=1.63852 angle=-0.108165 x=1.52853
+prevState.angle = -0.108165
+prevState.angle_dot = -1.05418
+prevState.angle_double_dot = -5.5338
+prevState.x = 1.52853
+prevState.x_dot = 1.72632
+prevState.x_double_dot = 6.46183
+Rule 1 weight=0.366415 output=25
+Rule 3 weight=0.321477 output=-25
+F = 1.63314
+X=-0.642955 Y=2.73283 F=1.63314 angle=-0.110296 x=1.532
+prevState.angle = -0.110296
+prevState.angle_dot = -1.06532
+prevState.angle_double_dot = -5.56698
+prevState.x = 1.532
+prevState.x_dot = 1.73929
+prevState.x_double_dot = 6.48544
+Rule 1 weight=0.37067 output=25
+Rule 3 weight=0.325354 output=-25
+F = 1.62767
+X=-0.650708 Y=2.74134 F=1.62767 angle=-0.112449 x=1.53551
+prevState.angle = -0.112449
+prevState.angle_dot = -1.07652
+prevState.angle_double_dot = -5.6004
+prevState.x = 1.53551
+prevState.x_dot = 1.75231
+prevState.x_double_dot = 6.50914
+Rule 1 weight=0.374952 output=25
+Rule 3 weight=0.329259 output=-25
+F = 1.62212
+X=-0.658518 Y=2.7499 F=1.62212 angle=-0.114624 x=1.53904
+prevState.angle = -0.114624
+prevState.angle_dot = -1.08779
+prevState.angle_double_dot = -5.63406
+prevState.x = 1.53904
+prevState.x_dot = 1.76537
+prevState.x_double_dot = 6.53291
+Rule 1 weight=0.379258 output=25
+Rule 3 weight=0.333192 output=-25
+F = 1.61647
+X=-0.666384 Y=2.75852 F=1.61647 angle=-0.116823 x=1.5426
+prevState.angle = -0.116823
+prevState.angle_dot = -1.09912
+prevState.angle_double_dot = -5.66799
+prevState.x = 1.5426
+prevState.x_dot = 1.77849
+prevState.x_double_dot = 6.55677
+Rule 1 weight=0.383591 output=25
+Rule 3 weight=0.337154 output=-25
+F = 1.61075
+X=-0.674307 Y=2.76718 F=1.61075 angle=-0.119044 x=1.54618
+prevState.angle = -0.119044
+prevState.angle_dot = -1.11053
+prevState.angle_double_dot = -5.70215
+prevState.x = 1.54618
+prevState.x_dot = 1.79165
+prevState.x_double_dot = 6.58071
+Rule 1 weight=0.38795 output=25
+Rule 3 weight=0.341144 output=-25
+F = 1.60493
+X=-0.682288 Y=2.7759 F=1.60493 angle=-0.121288 x=1.54979
+prevState.angle = -0.121288
+prevState.angle_dot = -1.122
+prevState.angle_double_dot = -5.73658
+prevState.x = 1.54979
+prevState.x_dot = 1.80486
+prevState.x_double_dot = 6.60474
+Rule 1 weight=0.392334 output=25
+Rule 3 weight=0.345163 output=-25
+F = 1.59902
+X=-0.690326 Y=2.78467 F=1.59902 angle=-0.123555 x=1.55343
+prevState.angle = -0.123555
+prevState.angle_dot = -1.13354
+prevState.angle_double_dot = -5.77126
+prevState.x = 1.55343
+prevState.x_dot = 1.81812
+prevState.x_double_dot = 6.62886
+Rule 1 weight=0.396744 output=25
+Rule 3 weight=0.349211 output=-25
+F = 1.59302
+X=-0.698423 Y=2.79349 F=1.59302 angle=-0.125845 x=1.55709
+prevState.angle = -0.125845
+prevState.angle_dot = -1.14516
+prevState.angle_double_dot = -5.80619
+prevState.x = 1.55709
+prevState.x_dot = 1.83142
+prevState.x_double_dot = 6.65306
+Rule 1 weight=0.401181 output=25
+Rule 3 weight=0.353289 output=-25
+F = 1.58694
+X=-0.706578 Y=2.80236 F=1.58694 angle=-0.128159 x=1.56078
+prevState.angle = -0.128159
+prevState.angle_dot = -1.15684
+prevState.angle_double_dot = -5.84138
+prevState.x = 1.56078
+prevState.x_dot = 1.84478
+prevState.x_double_dot = 6.67734
+Rule 1 weight=0.405644 output=25
+Rule 3 weight=0.357396 output=-25
+F = 1.58077
+X=-0.714792 Y=2.81129 F=1.58077 angle=-0.130496 x=1.56449
+prevState.angle = -0.130496
+prevState.angle_dot = -1.16859
+prevState.angle_double_dot = -5.87684
+prevState.x = 1.56449
+prevState.x_dot = 1.85818
+prevState.x_double_dot = 6.70169
+Rule 1 weight=0.410133 output=25
+Rule 3 weight=0.361533 output=-25
+F = 1.57452
+X=-0.723065 Y=2.82027 F=1.57452 angle=-0.132857 x=1.56824
+prevState.angle = -0.132857
+prevState.angle_dot = -1.18042
+prevState.angle_double_dot = -5.91254
+prevState.x = 1.56824
+prevState.x_dot = 1.87163
+prevState.x_double_dot = 6.72614
+Rule 1 weight=0.414648 output=25
+Rule 3 weight=0.365699 output=-25
+F = 1.56817
+X=-0.731399 Y=2.8293 F=1.56817 angle=-0.135241 x=1.57201
+prevState.angle = -0.135241
+prevState.angle_dot = -1.19231
+prevState.angle_double_dot = -5.94852
+prevState.x = 1.57201
+prevState.x_dot = 1.88513
+prevState.x_double_dot = 6.75066
+Rule 1 weight=0.41919 output=25
+Rule 3 weight=0.369896 output=-25
+F = 1.56174
+X=-0.739792 Y=2.83838 F=1.56174 angle=-0.13765 x=1.57581
+prevState.angle = -0.13765
+prevState.angle_dot = -1.20428
+prevState.angle_double_dot = -5.98475
+prevState.x = 1.57581
+prevState.x_dot = 1.89869
+prevState.x_double_dot = 6.77526
+Rule 1 weight=0.423758 output=25
+Rule 3 weight=0.374123 output=-25
+F = 1.55523
+X=-0.748246 Y=2.84752 F=1.55523 angle=-0.140083 x=1.57963
+prevState.angle = -0.140083
+prevState.angle_dot = -1.21633
+prevState.angle_double_dot = -6.02126
+prevState.x = 1.57963
+prevState.x_dot = 1.91229
+prevState.x_double_dot = 6.79994
+Rule 1 weight=0.428353 output=25
+Rule 3 weight=0.37838 output=-25
+F = 1.54862
+X=-0.756761 Y=2.85671 F=1.54862 angle=-0.14254 x=1.58348
+prevState.angle = -0.14254
+prevState.angle_dot = -1.22844
+prevState.angle_double_dot = -6.05803
+prevState.x = 1.58348
+prevState.x_dot = 1.92593
+prevState.x_double_dot = 6.8247
+Rule 1 weight=0.432975 output=25
+Rule 3 weight=0.382668 output=-25
+F = 1.54193
+X=-0.765337 Y=2.86595 F=1.54193 angle=-0.145021 x=1.58736
+prevState.angle = -0.145021
+prevState.angle_dot = -1.24063
+prevState.angle_double_dot = -6.09507
+prevState.x = 1.58736
+prevState.x_dot = 1.93963
+prevState.x_double_dot = 6.84955
+Rule 1 weight=0.437624 output=25
+Rule 3 weight=0.386988 output=-25
+F = 1.53516
+X=-0.773975 Y=2.87525 F=1.53516 angle=-0.147527 x=1.59127
+prevState.angle = -0.147527
+prevState.angle_dot = -1.2529
+prevState.angle_double_dot = -6.13238
+prevState.x = 1.59127
+prevState.x_dot = 1.95338
+prevState.x_double_dot = 6.87446
+Rule 1 weight=0.442299 output=25
+Rule 3 weight=0.391338 output=-25
+F = 1.52829
+X=-0.782676 Y=2.8846 F=1.52829 angle=-0.150057 x=1.5952
+prevState.angle = -0.150057
+prevState.angle_dot = -1.26524
+prevState.angle_double_dot = -6.16995
+prevState.x = 1.5952
+prevState.x_dot = 1.96718
+prevState.x_double_dot = 6.89944
+Rule 1 weight=0.447002 output=25
+Rule 3 weight=0.395719 output=-25
+F = 1.52135
+X=-0.791439 Y=2.894 F=1.52135 angle=-0.152612 x=1.59916
+prevState.angle = -0.152612
+prevState.angle_dot = -1.27765
+prevState.angle_double_dot = -6.2078
+prevState.x = 1.59916
+prevState.x_dot = 1.98103
+prevState.x_double_dot = 6.9245
+Rule 1 weight=0.451732 output=25
+Rule 3 weight=0.400132 output=-25
+F = 1.51431
+X=-0.800265 Y=2.90346 F=1.51431 angle=-0.155193 x=1.60315
+prevState.angle = -0.155193
+prevState.angle_dot = -1.29014
+prevState.angle_double_dot = -6.24593
+prevState.x = 1.60315
+prevState.x_dot = 1.99493
+prevState.x_double_dot = 6.94963
+Rule 1 weight=0.456489 output=25
+Rule 3 weight=0.404577 output=-25
+F = 1.50719
+X=-0.809155 Y=2.91298 F=1.50719 angle=-0.157798 x=1.60717
+prevState.angle = -0.157798
+prevState.angle_dot = -1.30271
+prevState.angle_double_dot = -6.28432
+prevState.x = 1.60717
+prevState.x_dot = 2.00888
+prevState.x_double_dot = 6.97483
+Rule 1 weight=0.461273 output=25
+Rule 3 weight=0.409054 output=-25
+F = 1.49999
+X=-0.818108 Y=2.92255 F=1.49999 angle=-0.160429 x=1.61122
+prevState.angle = -0.160429
+prevState.angle_dot = -1.31536
+prevState.angle_double_dot = -6.323
+prevState.x = 1.61122
+prevState.x_dot = 2.02288
+prevState.x_double_dot = 7.00009
+Rule 1 weight=0.466085 output=25
+Rule 3 weight=0.413563 output=-25
+F = 1.49269
+X=-0.827127 Y=2.93217 F=1.49269 angle=-0.163085 x=1.61529
+prevState.angle = -0.163085
+prevState.angle_dot = -1.32808
+prevState.angle_double_dot = -6.36196
+prevState.x = 1.61529
+prevState.x_dot = 2.03693
+prevState.x_double_dot = 7.02543
+Rule 1 weight=0.470924 output=25
+Rule 3 weight=0.418105 output=-25
+F = 1.48532
+X=-0.836209 Y=2.94185 F=1.48532 angle=-0.165767 x=1.61939
+prevState.angle = -0.165767
+prevState.angle_dot = -1.34089
+prevState.angle_double_dot = -6.40118
+prevState.x = 1.61939
+prevState.x_dot = 2.05103
+prevState.x_double_dot = 7.05083
+Rule 1 weight=0.475791 output=25
+Rule 3 weight=0.422679 output=-25
+F = 1.47785
+X=-0.845358 Y=2.95158 F=1.47785 angle=-0.168474 x=1.62352
+prevState.angle = -0.168474
+prevState.angle_dot = -1.35377
+prevState.angle_double_dot = -6.4407
+prevState.x = 1.62352
+prevState.x_dot = 2.06518
+prevState.x_double_dot = 7.07629
+Rule 1 weight=0.480686 output=25
+Rule 3 weight=0.427286 output=-25
+F = 1.47031
+X=-0.854572 Y=2.96137 F=1.47031 angle=-0.171208 x=1.62768
+prevState.angle = -0.171208
+prevState.angle_dot = -1.36673
+prevState.angle_double_dot = -6.48049
+prevState.x = 1.62768
+prevState.x_dot = 2.07939
+prevState.x_double_dot = 7.10182
+Rule 1 weight=0.485608 output=25
+Rule 3 weight=0.431926 output=-25
+F = 1.46267
+X=-0.863852 Y=2.97122 F=1.46267 angle=-0.173967 x=1.63187
+prevState.angle = -0.173967
+prevState.angle_dot = -1.37977
+prevState.angle_double_dot = -6.52057
+prevState.x = 1.63187
+prevState.x_dot = 2.09364
+prevState.x_double_dot = 7.1274
+Rule 1 weight=0.490558 output=25
+Rule 3 weight=0.436599 output=-25
+F = 1.45496
+X=-0.873198 Y=2.98112 F=1.45496 angle=-0.176753 x=1.63609
+prevState.angle = -0.176753
+prevState.angle_dot = -1.39289
+prevState.angle_double_dot = -6.56092
+prevState.x = 1.63609
+prevState.x_dot = 2.10795
+prevState.x_double_dot = 7.15304
+Rule 1 weight=0.495536 output=25
+Rule 3 weight=0.441306 output=-25
+F = 1.44715
+X=-0.882612 Y=2.99107 F=1.44715 angle=-0.179565 x=1.64033
+prevState.angle = -0.179565
+prevState.angle_dot = -1.40609
+prevState.angle_double_dot = -6.60157
+prevState.x = 1.64033
+prevState.x_dot = 2.12231
+prevState.x_double_dot = 7.17873
+Rule 1 weight=0.500542 output=25
+Rule 3 weight=0.446047 output=-25
+F = 1.43926
+X=-0.892093 Y=3.00108 F=1.43926 angle=-0.182404 x=1.6446
+prevState.angle = -0.182404
+prevState.angle_dot = -1.41938
+prevState.angle_double_dot = -6.64249
+prevState.x = 1.6446
+prevState.x_dot = 2.13672
+prevState.x_double_dot = 7.20447
+Rule 1 weight=0.505577 output=25
+Rule 3 weight=0.450821 output=-25
+F = 1.43129
+X=-0.901643 Y=3.01115 F=1.43129 angle=-0.185269 x=1.64891
+prevState.angle = -0.185269
+prevState.angle_dot = -1.43275
+prevState.angle_double_dot = -6.6837
+prevState.x = 1.64891
+prevState.x_dot = 2.15118
+prevState.x_double_dot = 7.23026
+Rule 1 weight=0.510639 output=25
+Rule 3 weight=0.45563 output=-25
+F = 1.42324
+X=-0.91126 Y=3.02128 F=1.42324 angle=-0.188162 x=1.65324
+prevState.angle = -0.188162
+prevState.angle_dot = -1.4462
+prevState.angle_double_dot = -6.72521
+prevState.x = 1.65324
+prevState.x_dot = 2.16569
+prevState.x_double_dot = 7.2561
+Rule 1 weight=0.51573 output=25
+Rule 3 weight=0.460473 output=-25
+F = 1.41509
+X=-0.920947 Y=3.03146 F=1.41509 angle=-0.191081 x=1.6576
+prevState.angle = -0.191081
+prevState.angle_dot = -1.45973
+prevState.angle_double_dot = -6.767
+prevState.x = 1.6576
+prevState.x_dot = 2.18025
+prevState.x_double_dot = 7.28199
+Rule 1 weight=0.520849 output=25
+Rule 3 weight=0.465351 output=-25
+F = 1.40687
+X=-0.930702 Y=3.0417 F=1.40687 angle=-0.194028 x=1.66199
+prevState.angle = -0.194028
+prevState.angle_dot = -1.47335
+prevState.angle_double_dot = -6.80907
+prevState.x = 1.66199
+prevState.x_dot = 2.19487
+prevState.x_double_dot = 7.3079
+Rule 1 weight=0.525997 output=25
+Rule 3 weight=0.470264 output=-25
+F = 1.39856
+X=-0.940528 Y=3.05199 F=1.39856 angle=-0.197002 x=1.66641
+prevState.angle = -0.197002
+prevState.angle_dot = -1.48705
+prevState.angle_double_dot = -6.85145
+prevState.x = 1.66641
+prevState.x_dot = 2.20954
+prevState.x_double_dot = 7.33386
+Rule 1 weight=0.524788 output=25
+Rule 3 weight=0.468826 output=-25
+F = 1.40804
+X=-0.950424 Y=3.06235 F=1.40804 angle=-0.200004 x=1.67086
+prevState.angle = -0.200004
+prevState.angle_dot = -1.50084
+prevState.angle_double_dot = -6.89411
+prevState.x = 1.67086
+prevState.x_dot = 2.22426
+prevState.x_double_dot = 7.35986
+Rule 1 weight=0.519787 output=25
+Rule 3 weight=0.463617 output=-25
+F = 1.42795
+X=-0.960425 Y=3.07277 F=1.42795 angle=-0.203033 x=1.67533
+prevState.angle = -0.203033
+prevState.angle_dot = -1.51478
+prevState.angle_double_dot = -6.97195
+prevState.x = 1.67533
+prevState.x_dot = 2.23906
+prevState.x_double_dot = 7.40213
+Rule 1 weight=0.514723 output=25
+Rule 3 weight=0.458365 output=-25
+F = 1.44792
+X=-0.970554 Y=3.08327 F=1.44792 angle=-0.206091 x=1.67984
+prevState.angle = -0.206091
+prevState.angle_dot = -1.52892
+prevState.angle_double_dot = -7.07055
+prevState.x = 1.67984
+prevState.x_dot = 2.25403
+prevState.x_double_dot = 7.48505
+Rule 1 weight=0.509595 output=25
+Rule 3 weight=0.453065 output=-25
+F = 1.46808
+X=-0.98081 Y=3.09387 F=1.46808 angle=-0.209178 x=1.68438
+prevState.angle = -0.209178
+prevState.angle_dot = -1.54326
+prevState.angle_double_dot = -7.16965
+prevState.x = 1.68438
+prevState.x_dot = 2.2692
+prevState.x_double_dot = 7.5863
+Rule 1 weight=0.504403 output=25
+Rule 3 weight=0.447716 output=-25
+F = 1.48844
+X=-0.991195 Y=3.10457 F=1.48844 angle=-0.212293 x=1.68895
+prevState.angle = -0.212293
+prevState.angle_dot = -1.5578
+prevState.angle_double_dot = -7.26949
+prevState.x = 1.68895
+prevState.x_dot = 2.28458
+prevState.x_double_dot = 7.68793
+Rule 1 weight=0.499145 output=25
+Rule 3 weight=0.442318 output=-25
+F = 1.50901
+X=-1.00171 Y=3.11536 F=1.50901 angle=-0.215438 x=1.69355
+prevState.angle = -0.215438
+prevState.angle_dot = -1.57254
+prevState.angle_double_dot = -7.37008
+prevState.x = 1.69355
+prevState.x_dot = 2.30016
+prevState.x_double_dot = 7.79015
+Rule 1 weight=0.493822 output=25
+Rule 3 weight=0.436871 output=-25
+F = 1.5298
+X=-1.01236 Y=3.12626 F=1.5298 angle=-0.218613 x=1.69818
+prevState.angle = -0.218613
+prevState.angle_dot = -1.58749
+prevState.angle_double_dot = -7.47146
+prevState.x = 1.69818
+prevState.x_dot = 2.31594
+prevState.x_double_dot = 7.89298
+Rule 1 weight=0.488432 output=25
+Rule 3 weight=0.431374 output=-25
+F = 1.55083
+X=-1.02314 Y=3.13725 F=1.55083 angle=-0.221819 x=1.70285
+prevState.angle = -0.221819
+prevState.angle_dot = -1.60263
+prevState.angle_double_dot = -7.57365
+prevState.x = 1.70285
+prevState.x_dot = 2.33194
+prevState.x_double_dot = 7.99646
+Rule 1 weight=0.482976 output=25
+Rule 3 weight=0.425826 output=-25
+F = 1.57211
+X=-1.03405 Y=3.14835 F=1.57211 angle=-0.225055 x=1.70754
+prevState.angle = -0.225055
+prevState.angle_dot = -1.61799
+prevState.angle_double_dot = -7.67667
+prevState.x = 1.70754
+prevState.x_dot = 2.34814
+prevState.x_double_dot = 8.10061
+Rule 1 weight=0.477452 output=25
+Rule 3 weight=0.420228 output=-25
+F = 1.59366
+X=-1.0451 Y=3.15954 F=1.59366 angle=-0.228322 x=1.71227
+prevState.angle = -0.228322
+prevState.angle_dot = -1.63355
+prevState.angle_double_dot = -7.78056
+prevState.x = 1.71227
+prevState.x_dot = 2.36455
+prevState.x_double_dot = 8.20544
+Rule 1 weight=0.47186 output=25
+Rule 3 weight=0.414579 output=-25
+F = 1.61549
+X=-1.05628 Y=3.17084 F=1.61549 angle=-0.23162 x=1.71703
+prevState.angle = -0.23162
+prevState.angle_dot = -1.64932
+prevState.angle_double_dot = -7.88533
+prevState.x = 1.71703
+prevState.x_dot = 2.38117
+prevState.x_double_dot = 8.31099
+Rule 1 weight=0.466199 output=25
+Rule 3 weight=0.408877 output=-25
+F = 1.63762
+X=-1.0676 Y=3.18225 F=1.63762 angle=-0.234951 x=1.72183
+prevState.angle = -0.234951
+prevState.angle_dot = -1.6653
+prevState.angle_double_dot = -7.99102
+prevState.x = 1.72183
+prevState.x_dot = 2.39801
+prevState.x_double_dot = 8.4173
+Rule 1 weight=0.460469 output=25
+Rule 3 weight=0.403124 output=-25
+F = 1.66008
+X=-1.07906 Y=3.19375 F=1.66008 angle=-0.238314 x=1.72666
+prevState.angle = -0.238314
+prevState.angle_dot = -1.6815
+prevState.angle_double_dot = -8.09766
+prevState.x = 1.72666
+prevState.x_dot = 2.41505
+prevState.x_double_dot = 8.52438
+Rule 1 weight=0.454668 output=25
+Rule 3 weight=0.397317 output=-25
+F = 1.68287
+X=-1.09066 Y=3.20537 F=1.68287 angle=-0.24171 x=1.73152
+prevState.angle = -0.24171
+prevState.angle_dot = -1.69791
+prevState.angle_double_dot = -8.20528
+prevState.x = 1.73152
+prevState.x_dot = 2.43232
+prevState.x_double_dot = 8.63228
+Rule 1 weight=0.448797 output=25
+Rule 3 weight=0.391457 output=-25
+F = 1.70602
+X=-1.10241 Y=3.21709 F=1.70602 angle=-0.245139 x=1.73642
+prevState.angle = -0.245139
+prevState.angle_dot = -1.71453
+prevState.angle_double_dot = -8.31393
+prevState.x = 1.73642
+prevState.x_dot = 2.4498
+prevState.x_double_dot = 8.74102
+Rule 1 weight=0.442854 output=25
+Rule 3 weight=0.385543 output=-25
+F = 1.72956
+X=-1.11429 Y=3.22891 F=1.72956 angle=-0.248602 x=1.74136
+prevState.angle = -0.248602
+prevState.angle_dot = -1.73138
+prevState.angle_double_dot = -8.42363
+prevState.x = 1.74136
+prevState.x_dot = 2.4675
+prevState.x_double_dot = 8.85066
+Rule 1 weight=0.436838 output=25
+Rule 3 weight=0.379575 output=-25
+F = 1.7535
+X=-1.12632 Y=3.24085 F=1.7535 angle=-0.252099 x=1.74633
+prevState.angle = -0.252099
+prevState.angle_dot = -1.74845
+prevState.angle_double_dot = -8.53442
+prevState.x = 1.74633
+prevState.x_dot = 2.48543
+prevState.x_double_dot = 8.96122
+Rule 1 weight=0.430749 output=25
+Rule 3 weight=0.373551 output=-25
+F = 1.77788
+X=-1.1385 Y=3.2529 F=1.77788 angle=-0.25563 x=1.75134
+prevState.angle = -0.25563
+prevState.angle_dot = -1.76574
+prevState.angle_double_dot = -8.64637
+prevState.x = 1.75134
+prevState.x_dot = 2.50357
+prevState.x_double_dot = 9.07276
+Rule 1 weight=0.424586 output=25
+Rule 3 weight=0.367472 output=-25
+F = 1.80271
+X=-1.15083 Y=3.26506 F=1.80271 angle=-0.259197 x=1.75638
+prevState.angle = -0.259197
+prevState.angle_dot = -1.78326
+prevState.angle_double_dot = -8.75948
+prevState.x = 1.75638
+prevState.x_dot = 2.52194
+prevState.x_double_dot = 9.18532
+Rule 1 weight=0.418348 output=25
+Rule 3 weight=0.361336 output=-25
+F = 1.82804
+X=-1.1633 Y=3.27733 F=1.82804 angle=-0.262799 x=1.76146
+prevState.angle = -0.262799
+prevState.angle_dot = -1.80101
+prevState.angle_double_dot = -8.87383
+prevState.x = 1.76146
+prevState.x_dot = 2.54054
+prevState.x_double_dot = 9.29895
+Rule 1 weight=0.412034 output=25
+Rule 3 weight=0.355144 output=-25
+F = 1.85388
+X=-1.17593 Y=3.28971 F=1.85388 angle=-0.266437 x=1.76658
+prevState.angle = -0.266437
+prevState.angle_dot = -1.81899
+prevState.angle_double_dot = -8.98946
+prevState.x = 1.76658
+prevState.x_dot = 2.55937
+prevState.x_double_dot = 9.4137
+Rule 1 weight=0.405644 output=25
+Rule 3 weight=0.348894 output=-25
+F = 1.8803
+X=-1.18871 Y=3.30221 F=1.8803 angle=-0.270111 x=1.77174
+prevState.angle = -0.270111
+prevState.angle_dot = -1.8372
+prevState.angle_double_dot = -9.10642
+prevState.x = 1.77174
+prevState.x_dot = 2.57843
+prevState.x_double_dot = 9.52963
+Rule 1 weight=0.399176 output=25
+Rule 3 weight=0.342586 output=-25
+F = 1.90729
+X=-1.20165 Y=3.31483 F=1.90729 angle=-0.273822 x=1.77693
+prevState.angle = -0.273822
+prevState.angle_dot = -1.85565
+prevState.angle_double_dot = -9.22479
+prevState.x = 1.77693
+prevState.x_dot = 2.59772
+prevState.x_double_dot = 9.64681
+Rule 1 weight=0.392629 output=25
+Rule 3 weight=0.336218 output=-25
+F = 1.93494
+X=-1.21474 Y=3.32756 F=1.93494 angle=-0.277571 x=1.78217
+prevState.angle = -0.277571
+prevState.angle_dot = -1.87434
+prevState.angle_double_dot = -9.34461
+prevState.x = 1.78217
+prevState.x_dot = 2.61725
+prevState.x_double_dot = 9.76532
+Rule 1 weight=0.386003 output=25
+Rule 3 weight=0.329792 output=-25
+F = 1.96325
+X=-1.22799 Y=3.34042 F=1.96325 angle=-0.281358 x=1.78744
+prevState.angle = -0.281358
+prevState.angle_dot = -1.89327
+prevState.angle_double_dot = -9.46598
+prevState.x = 1.78744
+prevState.x_dot = 2.63702
+prevState.x_double_dot = 9.88522
+Rule 1 weight=0.379296 output=25
+Rule 3 weight=0.323304 output=-25
+F = 1.9923
+X=-1.24141 Y=3.35339 F=1.9923 angle=-0.285182 x=1.79276
+prevState.angle = -0.285182
+prevState.angle_dot = -1.91245
+prevState.angle_double_dot = -9.58892
+prevState.x = 1.79276
+prevState.x_dot = 2.65703
+prevState.x_double_dot = 10.0066
+Rule 1 weight=0.372508 output=25
+Rule 3 weight=0.316756 output=-25
+F = 2.02214
+X=-1.25498 Y=3.36649 F=2.02214 angle=-0.289046 x=1.79811
+prevState.angle = -0.289046
+prevState.angle_dot = -1.93188
+prevState.angle_double_dot = -9.71358
+prevState.x = 1.79811
+prevState.x_dot = 2.67729
+prevState.x_double_dot = 10.1295
+Rule 1 weight=0.365636 output=25
+Rule 3 weight=0.310146 output=-25
+F = 2.05282
+X=-1.26873 Y=3.37971 F=2.05282 angle=-0.292949 x=1.80351
+prevState.angle = -0.292949
+prevState.angle_dot = -1.95156
+prevState.angle_double_dot = -9.84001
+prevState.x = 1.80351
+prevState.x_dot = 2.6978
+prevState.x_double_dot = 10.2542
+Rule 1 weight=0.35868 output=25
+Rule 3 weight=0.303473 output=-25
+F = 2.0844
+X=-1.28264 Y=3.39305 F=2.0844 angle=-0.296892 x=1.80894
+prevState.angle = -0.296892
+prevState.angle_dot = -1.97149
+prevState.angle_double_dot = -9.96833
+prevState.x = 1.80894
+prevState.x_dot = 2.71856
+prevState.x_double_dot = 10.3806
+Rule 1 weight=0.351639 output=25
+Rule 3 weight=0.296736 output=-25
+F = 2.11696
+X=-1.29672 Y=3.40653 F=2.11696 angle=-0.300876 x=1.81442
+prevState.angle = -0.300876
+prevState.angle_dot = -1.99169
+prevState.angle_double_dot = -10.0986
+prevState.x = 1.81442
+prevState.x_dot = 2.73958
+prevState.x_double_dot = 10.5089
+Rule 1 weight=0.344512 output=25
+Rule 3 weight=0.289935 output=-25
+F = 2.15057
+X=-1.31098 Y=3.42013 F=2.15057 angle=-0.3049 x=1.81994
+prevState.angle = -0.3049
+prevState.angle_dot = -2.01215
+prevState.angle_double_dot = -10.231
+prevState.x = 1.81994
+prevState.x_dot = 2.76086
+prevState.x_double_dot = 10.6392
+Rule 1 weight=0.337296 output=25
+Rule 3 weight=0.283068 output=-25
+F = 2.18531
+X=-1.32541 Y=3.43386 F=2.18531 angle=-0.308966 x=1.82551
+prevState.angle = -0.308966
+prevState.angle_dot = -2.03288
+prevState.angle_double_dot = -10.3657
+prevState.x = 1.82551
+prevState.x_dot = 2.7824
+prevState.x_double_dot = 10.7718
+Rule 1 weight=0.329991 output=25
+Rule 3 weight=0.276135 output=-25
+F = 2.22129
+X=-1.34002 Y=3.44773 F=2.22129 angle=-0.313074 x=1.83112
+prevState.angle = -0.313074
+prevState.angle_dot = -2.05389
+prevState.angle_double_dot = -10.5027
+prevState.x = 1.83112
+prevState.x_dot = 2.80421
+prevState.x_double_dot = 10.9066
+Rule 1 weight=0.322594 output=25
+Rule 3 weight=0.269135 output=-25
+F = 2.25861
+X=-1.35481 Y=3.46173 F=2.25861 angle=-0.317224 x=1.83677
+prevState.angle = -0.317224
+prevState.angle_dot = -2.07517
+prevState.angle_double_dot = -10.6422
+prevState.x = 1.83677
+prevState.x_dot = 2.8263
+prevState.x_double_dot = 11.0441
+Rule 1 weight=0.315105 output=25
+Rule 3 weight=0.262066 output=-25
+F = 2.29739
+X=-1.36979 Y=3.47587 F=2.29739 angle=-0.321417 x=1.84247
+prevState.angle = -0.321417
+prevState.angle_dot = -2.09674
+prevState.angle_double_dot = -10.7845
+prevState.x = 1.84247
+prevState.x_dot = 2.84867
+prevState.x_double_dot = 11.1842
+Rule 1 weight=0.307522 output=25
+Rule 3 weight=0.254927 output=-25
+F = 2.33777
+X=-1.38496 Y=3.49015 F=2.33777 angle=-0.325655 x=1.84821
+prevState.angle = -0.325655
+prevState.angle_dot = -2.1186
+prevState.angle_double_dot = -10.9297
+prevState.x = 1.84821
+prevState.x_dot = 2.87133
+prevState.x_double_dot = 11.3274
+Rule 1 weight=0.299842 output=25
+Rule 3 weight=0.247717 output=-25
+F = 2.37988
+X=-1.40032 Y=3.50457 F=2.37988 angle=-0.329936 x=1.854
+prevState.angle = -0.329936
+prevState.angle_dot = -2.14076
+prevState.angle_double_dot = -11.078
+prevState.x = 1.854
+prevState.x_dot = 2.89427
+prevState.x_double_dot = 11.4738
+Rule 1 weight=0.292064 output=25
+Rule 3 weight=0.240435 output=-25
+F = 2.42391
+X=-1.41587 Y=3.51913 F=2.42391 angle=-0.334263 x=1.85983
+prevState.angle = -0.334263
+prevState.angle_dot = -2.16322
+prevState.angle_double_dot = -11.2298
+prevState.x = 1.85983
+prevState.x_dot = 2.91752
+prevState.x_double_dot = 11.6238
+Rule 1 weight=0.284186 output=25
+Rule 3 weight=0.233079 output=-25
+F = 2.47004
+X=-1.43163 Y=3.53384 F=2.47004 angle=-0.338635 x=1.86572
+prevState.angle = -0.338635
+prevState.angle_dot = -2.18599
+prevState.angle_double_dot = -11.3852
+prevState.x = 1.86572
+prevState.x_dot = 2.94108
+prevState.x_double_dot = 11.7776
+Rule 1 weight=0.276204 output=25
+Rule 3 weight=0.225648 output=-25
+F = 2.5185
+X=-1.44759 Y=3.5487 F=2.5185 angle=-0.343053 x=1.87165
+prevState.angle = -0.343053
+prevState.angle_dot = -2.20908
+prevState.angle_double_dot = -11.5446
+prevState.x = 1.87165
+prevState.x_dot = 2.96495
+prevState.x_double_dot = 11.9357
+Rule 1 weight=0.268117 output=25
+Rule 3 weight=0.218139 output=-25
+F = 2.56955
+X=-1.46377 Y=3.56372 F=2.56955 angle=-0.347518 x=1.87762
+prevState.angle = -0.347518
+prevState.angle_dot = -2.2325
+prevState.angle_double_dot = -11.7085
+prevState.x = 1.87762
+prevState.x_dot = 2.98915
+prevState.x_double_dot = 12.0985
+Rule 1 weight=0.259923 output=25
+Rule 3 weight=0.210552 output=-25
+F = 2.62345
+X=-1.48015 Y=3.5789 F=2.62345 angle=-0.35203 x=1.88365
+prevState.angle = -0.35203
+prevState.angle_dot = -2.25625
+prevState.angle_double_dot = -11.8771
+prevState.x = 1.88365
+prevState.x_dot = 3.01368
+prevState.x_double_dot = 12.2666
+Rule 1 weight=0.251617 output=25
+Rule 3 weight=0.202884 output=-25
+F = 2.68057
+X=-1.49677 Y=3.59423 F=2.68057 angle=-0.356591 x=1.88973
+prevState.angle = -0.356591
+prevState.angle_dot = -2.28035
+prevState.angle_double_dot = -12.0511
+prevState.x = 1.88973
+prevState.x_dot = 3.03856
+prevState.x_double_dot = 12.4404
+Rule 1 weight=0.243196 output=25
+Rule 3 weight=0.195133 output=-25
+F = 2.74127
+X=-1.51361 Y=3.60973 F=2.74127 angle=-0.3612 x=1.89586
+prevState.angle = -0.3612
+prevState.angle_dot = -2.30481
+prevState.angle_double_dot = -12.2309
+prevState.x = 1.89586
+prevState.x_dot = 3.0638
+prevState.x_double_dot = 12.6207
+Rule 1 weight=0.234658 output=25
+Rule 3 weight=0.187297 output=-25
+F = 2.80606
+X=-1.53068 Y=3.62541 F=2.80606 angle=-0.36586 x=1.90203
+prevState.angle = -0.36586
+prevState.angle_dot = -2.32965
+prevState.angle_double_dot = -12.4173
+prevState.x = 1.90203
+prevState.x_dot = 3.08942
+prevState.x_double_dot = 12.8083
+Rule 1 weight=0.225998 output=25
+Rule 3 weight=0.179373 output=-25
+F = 2.87545
+X=-1.548 Y=3.64125 F=2.87545 angle=-0.37057 x=1.90827
+prevState.angle = -0.37057
+prevState.angle_dot = -2.35487
+prevState.angle_double_dot = -12.6111
+prevState.x = 1.90827
+prevState.x_dot = 3.11543
+prevState.x_double_dot = 13.0041
+Rule 1 weight=0.217211 output=25
+Rule 3 weight=0.171358 output=-25
+F = 2.95013
+X=-1.56558 Y=3.65728 F=2.95013 angle=-0.375331 x=1.91455
+prevState.angle = -0.375331
+prevState.angle_dot = -2.3805
+prevState.angle_double_dot = -12.8132
+prevState.x = 1.91455
+prevState.x_dot = 3.14184
+prevState.x_double_dot = 13.2092
+Rule 1 weight=0.208292 output=25
+Rule 3 weight=0.163248 output=-25
+F = 3.03085
+X=-1.58342 Y=3.6735 F=3.03085 angle=-0.380144 x=1.92089
+prevState.angle = -0.380144
+prevState.angle_dot = -2.40655
+prevState.angle_double_dot = -13.0247
+prevState.x = 1.92089
+prevState.x_dot = 3.16869
+prevState.x_double_dot = 13.425
+Rule 1 weight=0.199235 output=25
+Rule 3 weight=0.155041 output=-25
+F = 3.11861
+X=-1.60153 Y=3.68992 F=3.11861 angle=-0.38501 x=1.92728
+prevState.angle = -0.38501
+prevState.angle_dot = -2.43304
+prevState.angle_double_dot = -13.2469
+prevState.x = 1.92728
+prevState.x_dot = 3.196
+prevState.x_double_dot = 13.653
+Rule 1 weight=0.190034 output=25
+Rule 3 weight=0.146732 output=-25
+F = 3.21458
+X=-1.61993 Y=3.70654 F=3.21458 angle=-0.38993 x=1.93373
+prevState.angle = -0.38993
+prevState.angle_dot = -2.46
+prevState.angle_double_dot = -13.4817
+prevState.x = 1.93373
+prevState.x_dot = 3.22379
+prevState.x_double_dot = 13.8951
+Rule 1 weight=0.180682 output=25
+Rule 3 weight=0.138315 output=-25
+F = 3.32028
+X=-1.63864 Y=3.72337 F=3.32028 angle=-0.394905 x=1.94023
+prevState.angle = -0.394905
+prevState.angle_dot = -2.48746
+prevState.angle_double_dot = -13.7309
+prevState.x = 1.94023
+prevState.x_dot = 3.2521
+prevState.x_double_dot = 14.1538
+Rule 1 weight=0.171167 output=25
+Rule 3 weight=0.129786 output=-25
+F = 3.43755
+X=-1.65767 Y=3.74043 F=3.43755 angle=-0.399936 x=1.94679
+prevState.angle = -0.399936
+prevState.angle_dot = -2.51546
+prevState.angle_double_dot = -13.9971
+prevState.x = 1.94679
+prevState.x_dot = 3.28096
+prevState.x_double_dot = 14.4321
+Rule 1 weight=0.161482 output=25
+Rule 3 weight=0.121137 output=-25
+F = 3.56886
+X=-1.67704 Y=3.75773 F=3.56886 angle=-0.405024 x=1.95341
+prevState.angle = -0.405024
+prevState.angle_dot = -2.54403
+prevState.angle_double_dot = -14.2837
+prevState.x = 1.95341
+prevState.x_dot = 3.31043
+prevState.x_double_dot = 14.7336
+Rule 1 weight=0.151611 output=25
+Rule 3 weight=0.11236 output=-25
+F = 3.71736
+X=-1.69678 Y=3.77528 F=3.71736 angle=-0.41017 x=1.96009
+prevState.angle = -0.41017
+prevState.angle_dot = -2.57322
+prevState.angle_double_dot = -14.5947
+prevState.x = 1.96009
+prevState.x_dot = 3.34055
+prevState.x_double_dot = 15.0631
+Rule 1 weight=0.14154 output=25
+Rule 3 weight=0.103446 output=-25
+F = 3.88734
+X=-1.71692 Y=3.79311 F=3.88734 angle=-0.415376 x=1.96684
+prevState.angle = -0.415376
+prevState.angle_dot = -2.60309
+prevState.angle_double_dot = -14.9358
+prevState.x = 1.96684
+prevState.x_dot = 3.37141
+prevState.x_double_dot = 15.4268
+Rule 1 weight=0.131249 output=25
+Rule 3 weight=0.0943835 output=-25
+F = 4.08471
+X=-1.7375 Y=3.81123 F=4.08471 angle=-0.420644 x=1.97364
+prevState.angle = -0.420644
+prevState.angle_dot = -2.63372
+prevState.angle_double_dot = -15.3142
+prevState.x = 1.97364
+prevState.x_dot = 3.40307
+prevState.x_double_dot = 15.833
+Rule 1 weight=0.120714 output=25
+Rule 3 weight=0.0851567 output=-25
+F = 4.31791
+X=-1.75857 Y=3.82969 F=4.31791 angle=-0.425974 x=1.98051
+prevState.angle = -0.425974
+prevState.angle_dot = -2.6652
+prevState.angle_double_dot = -15.7402
+prevState.x = 1.98051
+prevState.x_dot = 3.43566
+prevState.x_double_dot = 16.293
+Rule 1 weight=0.109902 output=25
+Rule 3 weight=0.0757471 output=-25
+F = 4.59939
+X=-1.7802 Y=3.84851 F=4.59939 angle=-0.431369 x=1.98745
+prevState.angle = -0.431369
+prevState.angle_dot = -2.69765
+prevState.angle_double_dot = -16.2285
+prevState.x = 1.98745
+prevState.x_dot = 3.46931
+prevState.x_double_dot = 16.8225
+Rule 1 weight=0.0987705 output=25
+Rule 3 weight=0.0661297 output=-25
+F = 4.94857
+X=-1.80246 Y=3.86774 F=4.94857 angle=-0.436832 x=1.99446
+prevState.angle = -0.436832
+prevState.angle_dot = -2.73125
+prevState.angle_double_dot = -16.8006
+prevState.x = 1.99446
+prevState.x_dot = 3.50419
+prevState.x_double_dot = 17.4447
+Rule 1 weight=0.0872592 output=25
+Rule 3 weight=0.0562701 output=-25
+F = 5.39769
+X=-1.82548 Y=3.88746 F=5.39769 angle=-0.442364 x=2.00154
+prevState.angle = -0.442364
+prevState.angle_dot = -2.76623
+prevState.angle_double_dot = -17.4902
+prevState.x = 2.00154
+prevState.x_dot = 3.54058
+prevState.x_double_dot = 18.1943
+Rule 1 weight=0.0752796 output=25
+Rule 3 weight=0.0461202 output=-25
+F = 6.00484
+X=-1.84944 Y=3.90776 F=6.00484 angle=-0.44797 x=2.0087
+prevState.angle = -0.44797
+prevState.angle_dot = -2.80294
+prevState.angle_double_dot = -18.3532
+prevState.x = 2.0087
+prevState.x_dot = 3.57884
+prevState.x_double_dot = 19.1277
+Rule 1 weight=0.0626923 output=25
+Rule 3 weight=0.0356051 output=-25
+F = 6.88911
+X=-1.87462 Y=3.92879 F=6.88911 angle=-0.453654 x=2.01594
+prevState.angle = -0.453654
+prevState.angle_dot = -2.84192
+prevState.angle_double_dot = -19.4907
+prevState.x = 2.01594
+prevState.x_dot = 3.61952
+prevState.x_double_dot = 20.3427
+Rule 1 weight=0.0492533 output=25
+Rule 3 weight=0.0246027 output=-25
+F = 8.34417
+X=-1.90149 Y=3.95079 F=8.34417 angle=-0.459422 x=2.02327
+prevState.angle = -0.459422
+prevState.angle_dot = -2.88414
+prevState.angle_double_dot = -21.1097
+prevState.x = 2.02327
+prevState.x_dot = 3.66358
+prevState.x_double_dot = 22.0285
+Rule 1 weight=0.0344611 output=25
+Rule 3 weight=0.0128789 output=-25
+F = 11.3975
+X=-1.93108 Y=3.97424 F=11.3975 angle=-0.465286 x=2.03069
+prevState.angle = -0.465286
+prevState.angle_dot = -2.93158
+prevState.angle_double_dot = -23.7212
+prevState.x = 2.03069
+prevState.x_dot = 3.71282
+prevState.x_double_dot = 24.6187
+Rule 1 weight=0.0169141 output=25
+F = 25
+X=-1.96617 Y=4.00029 F=25 angle=-0.471265 x=2.03824
+prevState.angle = -0.471265
+prevState.angle_dot = -2.98981
+prevState.angle_double_dot = -29.1145
+prevState.x = 2.03824
+prevState.x_dot = 3.77174
+prevState.x_double_dot = 29.4583
+Rule 0 weight=0.0126247 output=-25
+F = -25
+X=-2.02525 Y=4.03494 F=-25 angle=-0.477456 x=2.04596
+prevState.angle = -0.477456
+prevState.angle_dot = -3.09559
+prevState.angle_double_dot = -52.8865
+prevState.x = 2.04596
+prevState.x_dot = 3.86399
+prevState.x_double_dot = 46.1254
+F = 25
+X=-1.99713 Y=4.05654 F=25 angle=-0.483511 x=2.05377
+prevState.angle = -0.483511
+prevState.angle_dot = -3.02725
+prevState.angle_double_dot = 34.1706
+prevState.x = 2.05377
+prevState.x_dot = 3.90353
+prevState.x_double_dot = 19.7744
+Rule 0 weight=0.0280863 output=-25
+F = -25
+X=-2.05617 Y=4.06573 F=-25 angle=-0.489776 x=2.06156
+prevState.angle = -0.489776
+prevState.angle_dot = -3.13279
+prevState.angle_double_dot = -52.7737
+prevState.x = 2.06156
+prevState.x_dot = 3.8936
+prevState.x_double_dot = -4.96962
+Rule 0 weight=0.0143306 output=-25
+F = -25
+X=-2.02866 Y=4.08723 F=-25 angle=-0.495907 x=2.06942
+prevState.angle = -0.495907
+prevState.angle_dot = -3.06551
+prevState.angle_double_dot = 33.6424
+prevState.x = 2.06942
+prevState.x_dot = 3.93239
+prevState.x_double_dot = 19.3988
+F = -25
+X=-2.0013 Y=4.07381 F=-25 angle=-0.501905 x=2.07709
+prevState.angle = -0.501905
+prevState.angle_dot = -2.9988
+prevState.angle_double_dot = 33.356
+prevState.x = 2.07709
+prevState.x_dot = 3.83273
+prevState.x_double_dot = -49.8303
+Rule 1 weight=0.0129534 output=25
+F = 25
+X=-1.97409 Y=4.06026 F=25 angle=-0.50777 x=2.08456
+prevState.angle = -0.50777
+prevState.angle_dot = -2.93265
+prevState.angle_double_dot = 33.0747
+prevState.x = 2.08456
+prevState.x_dot = 3.73372
+prevState.x_double_dot = -49.5077
+Rule 0 weight=0.0163677 output=-25
+F = -25
+X=-2.03274 Y=4.06957 F=-25 angle=-0.513846 x=2.09201
+prevState.angle = -0.513846
+prevState.angle_dot = -3.03778
+prevState.angle_double_dot = -52.5665
+prevState.x = 2.09201
+prevState.x_dot = 3.72624
+prevState.x_double_dot = -3.73707
+F = -25
+X=-2.00613 Y=4.0902 F=-25 angle=-0.519791 x=2.09953
+prevState.angle = -0.519791
+prevState.angle_dot = -2.97267
+prevState.angle_double_dot = 32.5541
+prevState.x = 2.09953
+prevState.x_dot = 3.76361
+prevState.x_double_dot = 18.683
+Enter initial angle [-60, 60], (to exit, leave it blank): Rule 3 weight=0.75 output=-25
+Rule 6 weight=0.215 output=0
+F = -19.4301
+X=-1.57 Y=1.5 F=-19.4301 angle=-1.57 x=1
+prevState.angle = -1.57
+prevState.angle_dot = 0
+prevState.angle_double_dot = 0
+prevState.x = 1
+prevState.x_dot = 0
+prevState.x_double_dot = 0

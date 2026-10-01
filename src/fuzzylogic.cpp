@@ -13,7 +13,6 @@ void initFuzzyRules(fuzzy_system_rec *fl)
        no_of_x_rules = 25,
        no_of_theta_rules = 25;
    */
-   
 
    int i;
 
@@ -101,56 +100,55 @@ void initFuzzyRules(fuzzy_system_rec *fl)
 void initMembershipFunctions(fuzzy_system_rec *fl)
 {
 
-    // ---------------------------------------------------------
-    // Membership functions for combined input X
-    // ---------------------------------------------------------
+   // ---------------------------------------------------------
+   // Membership functions for combined input X
+   // ---------------------------------------------------------
 
-    // Negatively Medium
-    fl->inp_mem_fns[INPUT_X][in_nm] =
-        init_trapz(-4.0, -2.0, 0.0, 0.0, left_trapezoid);
+   // Negatively Medium
+   fl->inp_mem_fns[INPUT_X][in_nm] =
+       init_trapz(-4.0, -2.0, 0.0, 0.0, left_trapezoid);
 
-    // Negatively Small
-    fl->inp_mem_fns[INPUT_X][in_ns] =
-        init_trapz(-4.0, -2.0, -2.0, 0.0, regular_trapezoid);
+   // Negatively Small
+   fl->inp_mem_fns[INPUT_X][in_ns] =
+       init_trapz(-3.0, -1.0, -0.5, 0.5, regular_trapezoid);
 
-    // Zero
-    fl->inp_mem_fns[INPUT_X][in_ze] =
-        init_trapz(-2.0, 0.0, 0.0, 2.0, regular_trapezoid);
+   // Zero
+   fl->inp_mem_fns[INPUT_X][in_ze] =
+       init_trapz(-1.0, -0.25, 0.25, 1.0, regular_trapezoid);
 
-    // Positively Small
-    fl->inp_mem_fns[INPUT_X][in_ps] =
-        init_trapz(0.0, 2.0, 2.0, 4.0, regular_trapezoid);
+   // Positively Small
+   fl->inp_mem_fns[INPUT_X][in_ps] =
+       init_trapz(-0.5, 0.5, 1.0, 3.0, regular_trapezoid);
 
-    // Positively Medium
-    fl->inp_mem_fns[INPUT_X][in_pm] =
-        init_trapz(2.0, 4.0, 0.0, 0.0, right_trapezoid);
+   // Positively Medium
+   fl->inp_mem_fns[INPUT_X][in_pm] =
+       init_trapz(2.0, 4.0, 0.0, 0.0, right_trapezoid);
 
+   // ---------------------------------------------------------
+   // Membership functions for combined input Y
+   // ---------------------------------------------------------
 
-    // ---------------------------------------------------------
-    // Membership functions for combined input Y
-    // ---------------------------------------------------------
+   // Negatively Medium
+   fl->inp_mem_fns[INPUT_Y][in_nm] =
+       init_trapz(-4.0, -2.0, 0.0, 0.0, left_trapezoid);
 
-    // Negatively Medium
-    fl->inp_mem_fns[INPUT_Y][in_nm] =
-        init_trapz(-4.0, -2.0, 0.0, 0.0, left_trapezoid);
+   // Negatively Small
+   fl->inp_mem_fns[INPUT_Y][in_ns] =
+       init_trapz(-4.0, -2.0, -2.0, 0.0, regular_trapezoid);
 
-    // Negatively Small
-    fl->inp_mem_fns[INPUT_Y][in_ns] =
-        init_trapz(-4.0, -2.0, -2.0, 0.0, regular_trapezoid);
+   // Zero
+   fl->inp_mem_fns[INPUT_Y][in_ze] =
+       init_trapz(-2.0, 0.0, 0.0, 2.0, regular_trapezoid);
 
-    // Zero
-    fl->inp_mem_fns[INPUT_Y][in_ze] =
-        init_trapz(-2.0, 0.0, 0.0, 2.0, regular_trapezoid);
+   // Positively Small
+   fl->inp_mem_fns[INPUT_Y][in_ps] =
+       init_trapz(0.0, 2.0, 2.0, 4.0, regular_trapezoid);
 
-    // Positively Small
-    fl->inp_mem_fns[INPUT_Y][in_ps] =
-        init_trapz(0.0, 2.0, 2.0, 4.0, regular_trapezoid);
+   // Positively Medium
+   fl->inp_mem_fns[INPUT_Y][in_pm] =
+       init_trapz(2.0, 4.0, 0.0, 0.0, right_trapezoid);
 
-    // Positively Medium
-    fl->inp_mem_fns[INPUT_Y][in_pm] =
-        init_trapz(2.0, 4.0, 0.0, 0.0, right_trapezoid);
-
-    return;
+   return;
 }
 
 void initFuzzySystem(fuzzy_system_rec *fl)
@@ -162,22 +160,22 @@ void initFuzzySystem(fuzzy_system_rec *fl)
    fl->no_of_inp_regions = 5;
    fl->no_of_outputs = 9;
 
-   coefficient_A = 1.0;
-   coefficient_B = 1.0;
-   coefficient_C = 1.0;
-   coefficient_D = 1.0;
+   coefficient_A = 1.5;
+   coefficient_B = 0.5;
+   coefficient_C = 0.75;
+   coefficient_D = 0.25;
 
    // output values will go here
    // Zero-order Sugeno output constants
-    fl->output_values[out_nvl] = -150.0;
-    fl->output_values[out_nl]  = -100.0;
-    fl->output_values[out_nm]  = -50.0;
-    fl->output_values[out_ns]  = -25.0;
-    fl->output_values[out_ze]  = 0.0;
-    fl->output_values[out_ps]  = 25.0;
-    fl->output_values[out_pm]  = 50.0;
-    fl->output_values[out_pl]  = 100.0;
-    fl->output_values[out_pvl] = 150.0;
+   fl->output_values[out_nvl] = -150.0;
+   fl->output_values[out_nl] = -100.0;
+   fl->output_values[out_nm] = -50.0;
+   fl->output_values[out_ns] = -25.0;
+   fl->output_values[out_ze] = 0.0;
+   fl->output_values[out_ps] = 25.0;
+   fl->output_values[out_pm] = 50.0;
+   fl->output_values[out_pl] = 100.0;
+   fl->output_values[out_pvl] = 150.0;
 
    // Sample only
    //  fl->output_values [out_nvl]=-95.0;
@@ -277,7 +275,13 @@ float min_of(float values[], int no_of_inps)
 
 //////////////////////////////////////////////////////////////////////////////
 float fuzzy_system(float inputs[], fuzzy_system_rec fz)
-{
+{cout << "Y memberships: "
+     << "NM=" << trapz(inputs[INPUT_Y], fz.inp_mem_fns[INPUT_Y][in_nm])
+     << " NS=" << trapz(inputs[INPUT_Y], fz.inp_mem_fns[INPUT_Y][in_ns])
+     << " ZE=" << trapz(inputs[INPUT_Y], fz.inp_mem_fns[INPUT_Y][in_ze])
+     << " PS=" << trapz(inputs[INPUT_Y], fz.inp_mem_fns[INPUT_Y][in_ps])
+     << " PM=" << trapz(inputs[INPUT_Y], fz.inp_mem_fns[INPUT_Y][in_pm])
+     << endl;
    int i, j;
    short variable_index, fuzzy_set;
    float sum1 = 0.0, sum2 = 0.0, weight;
@@ -293,10 +297,26 @@ float fuzzy_system(float inputs[], fuzzy_system_rec fz)
                              fz.inp_mem_fns[variable_index][fuzzy_set]);
       } /* end j  */
 
+      /*
       weight = min_of(m_values, fz.no_of_inputs);
 
       sum1 += weight * fz.output_values[fz.rules[i].out_fuzzy_set];
       sum2 += weight;
+      */
+      weight = min_of(m_values, fz.no_of_inputs);
+
+      if (weight > 0.01)
+      {
+         cout << "Rule " << i
+              << " weight=" << weight
+              << " output="
+              << fz.output_values[fz.rules[i].out_fuzzy_set]
+              << endl;
+      }
+
+      sum1 += weight * fz.output_values[fz.rules[i].out_fuzzy_set];
+      sum2 += weight;
+
    } /* end i  */
 
    if (fabs(sum2) < TOO_SMALL)

@@ -43,7 +43,7 @@ using namespace std;
 /// Global Variables ///////////////////////////////////////////////////////////////////////
 
 
-bool DEBUG_MODE=false;
+bool DEBUG_MODE=true;
 float WORLD_MAXX, WORLD_MAXY;
 int fieldX1, fieldY1, fieldX2, fieldY2; //playing field boundaries
 BoundaryType worldBoundary,deviceBoundary;
@@ -375,7 +375,14 @@ void runInvertedPendulum(){
 				 	prevState.F = externalForce;
 		         
 		         if(DEBUG_MODE){
-		           cout << "F = " << prevState.F << endl; //for debugging purposes only
+		           cout << "F = " << prevState.F << endl;
+				    //for debugging purposes only
+					cout << "X=" << inputs[INPUT_X]
+     << " Y=" << inputs[INPUT_Y]
+     << " F=" << prevState.F
+     << " angle=" << prevState.angle
+     << " x=" << prevState.x
+     << endl;
 		         }
 				
 				 //---------------------------------------------------------------------------
