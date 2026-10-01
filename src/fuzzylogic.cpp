@@ -299,15 +299,6 @@ float fuzzy_system(float inputs[], fuzzy_system_rec fz)
       */
       weight = min_of(m_values, fz.no_of_inputs);
 
-      if (weight > 0.01)
-      {
-         cout << "Rule " << i
-              << " weight=" << weight
-              << " output="
-              << fz.output_values[fz.rules[i].out_fuzzy_set]
-              << endl;
-      }
-
       sum1 += weight * fz.output_values[fz.rules[i].out_fuzzy_set];
       sum2 += weight;
 
