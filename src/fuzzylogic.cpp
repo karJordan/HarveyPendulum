@@ -110,15 +110,15 @@ void initMembershipFunctions(fuzzy_system_rec *fl)
 
    // Negatively Small
    fl->inp_mem_fns[INPUT_X][in_ns] =
-       init_trapz(-3.0, -1.0, -0.5, 0.5, regular_trapezoid);
+       init_trapz(-4.0, -2.0, -2.0, 0.15, regular_trapezoid);
 
    // Zero
    fl->inp_mem_fns[INPUT_X][in_ze] =
-       init_trapz(-1.0, -0.25, 0.25, 1.0, regular_trapezoid);
+       init_trapz(-2.0, -0.10, 0.10, 2.0, regular_trapezoid);
 
    // Positively Small
    fl->inp_mem_fns[INPUT_X][in_ps] =
-       init_trapz(-0.5, 0.5, 1.0, 3.0, regular_trapezoid);
+       init_trapz(-0.15, 2.0, 2.0, 4.0, regular_trapezoid);
 
    // Positively Medium
    fl->inp_mem_fns[INPUT_X][in_pm] =
