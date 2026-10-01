@@ -106,7 +106,7 @@ void initMembershipFunctions(fuzzy_system_rec *fl)
 
    // Negatively Medium
    fl->inp_mem_fns[INPUT_X][in_nm] =
-       init_trapz(-4.0, -2.0, 0.0, 0.0, left_trapezoid);
+       init_trapz(-1.25, -0.25, 0.0, 0.0, left_trapezoid);
 
    // Negatively Small
    fl->inp_mem_fns[INPUT_X][in_ns] =
@@ -122,7 +122,7 @@ void initMembershipFunctions(fuzzy_system_rec *fl)
 
    // Positively Medium
    fl->inp_mem_fns[INPUT_X][in_pm] =
-       init_trapz(2.0, 4.0, 0.0, 0.0, right_trapezoid);
+       init_trapz(0.25, 1.25, 0.0, 0.0, right_trapezoid);
 
    // ---------------------------------------------------------
    // Membership functions for combined input Y
@@ -275,13 +275,7 @@ float min_of(float values[], int no_of_inps)
 
 //////////////////////////////////////////////////////////////////////////////
 float fuzzy_system(float inputs[], fuzzy_system_rec fz)
-{cout << "Y memberships: "
-     << "NM=" << trapz(inputs[INPUT_Y], fz.inp_mem_fns[INPUT_Y][in_nm])
-     << " NS=" << trapz(inputs[INPUT_Y], fz.inp_mem_fns[INPUT_Y][in_ns])
-     << " ZE=" << trapz(inputs[INPUT_Y], fz.inp_mem_fns[INPUT_Y][in_ze])
-     << " PS=" << trapz(inputs[INPUT_Y], fz.inp_mem_fns[INPUT_Y][in_ps])
-     << " PM=" << trapz(inputs[INPUT_Y], fz.inp_mem_fns[INPUT_Y][in_pm])
-     << endl;
+{
    int i, j;
    short variable_index, fuzzy_set;
    float sum1 = 0.0, sum2 = 0.0, weight;
