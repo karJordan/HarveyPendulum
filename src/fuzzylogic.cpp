@@ -106,11 +106,11 @@ void initMembershipFunctions(fuzzy_system_rec *fl)
 
    // Negatively Medium
    fl->inp_mem_fns[INPUT_X][in_nm] =
-       init_trapz(-1.30, -0.06, 0.0, 0.0, left_trapezoid);
+       init_trapz(-1.0, 0.0, 0.0, 0.0, left_trapezoid);
 
    // Negatively Small
    fl->inp_mem_fns[INPUT_X][in_ns] =
-       init_trapz(-3.90, -2.40, -2.40, 0.19, regular_trapezoid);
+       init_trapz(-4.0, -2.5, -2.50, 0.25, regular_trapezoid);
 
    // Zero
    fl->inp_mem_fns[INPUT_X][in_ze] =
@@ -118,12 +118,11 @@ void initMembershipFunctions(fuzzy_system_rec *fl)
 
    // Positively Small
    fl->inp_mem_fns[INPUT_X][in_ps] =
-       init_trapz(-0.19, 2.40, 2.40, 3.90, regular_trapezoid);
+       init_trapz(-0.25, 2.50, 2.50, 4.0, regular_trapezoid);
 
    // Positively Medium
    fl->inp_mem_fns[INPUT_X][in_pm] =
-       init_trapz(0.06, 1.30, 0.0, 0.0, right_trapezoid);
-
+       init_trapz(0.00, 1.0, 0.0, 0.0, right_trapezoid);
    // ---------------------------------------------------------
    // Membership functions for combined input Y
    // ---------------------------------------------------------
@@ -161,9 +160,9 @@ void initFuzzySystem(fuzzy_system_rec *fl)
    fl->no_of_outputs = 9;
 
    coefficient_A = 3.75;
-   coefficient_B = 0.58;
-   coefficient_C = 0.81;
-   coefficient_D = 1.34;
+   coefficient_B = 0.50;
+   coefficient_C = 0.75;
+   coefficient_D = 1.25;
 
    // output values will go here
    // Zero-order Sugeno output constants
